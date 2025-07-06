@@ -1,631 +1,631 @@
 TimeSpent,JobTitle,CareerSwitch,SalaryRange,Industry,FavoriteLanguage,Happiness_Salary,Happiness_WorkLife,Happiness_Coworkers,Happiness_Management,Happiness_Mobility,Happiness_Learning,DifficultyBreakingIn,JobSearchPriority,Gender,Age,Country,Education,Ethnicity,Average_Salary
-0 days 00:00:44,Data Analyst,Yes,106-125,Healthcare,Python,9.0,9.0,7.0,5.0,5.0,7.0,Very Difficult,Remote Work,Male,26,United States,Bachelors,White or Caucasian,115.5
-0 days 00:01:30,Data Analyst,No,41-65,Finance,R,1.0,2.0,5.0,2.0,1.0,3.0,Very Difficult,Remote Work,Male,36,Canada,Bachelors,Asian or Asian American,53.0
-0 days 00:02:18,Data Engineer,No,0-40,Other,Python,0.0,8.0,7.0,5.0,7.0,7.0,Easy,Good Work/Life Balance,Male,23,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:02:10,Other,Yes,150-225,Finance,R,10.0,6.0,7.0,10.0,7.0,10.0,Very Easy,Remote Work,Female,35,Canada,Bachelors,White or Caucasian,187.5
-0 days 00:01:51,Data Analyst,Yes,41-65,Healthcare,R,1.0,4.0,4.0,4.0,0.0,1.0,Difficult,Better Salary,Male,44,United States,Bachelors,Black or African American,53.0
-0 days 00:02:34,Data Analyst,Yes,0-40,Other,Python,2.0,3.0,3.0,3.0,3.0,2.0,Difficult,Good Work/Life Balance,Male,33,Republic democratic of Congo ,Bachelors,Black or African American,20.0
-0 days 00:01:15,Data Scientist,Yes,0-40,Finance,Python,0.0,6.0,6.0,6.0,6.0,5.0,Difficult,Better Salary,Male,24,Other (Please Specify),Bachelors,Black or African American,20.0
-0 days 00:01:25,Data Engineer,Yes,125-150,Other,Other,10.0,5.0,5.0,5.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,United States,Bachelors,Asian or Asian American,137.5
-0 days 00:02:10,Data Analyst,Yes,86-105,Healthcare,R,4.0,4.0,4.0,4.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,35,United States,Bachelors,Asian or Asian American,95.5
-0 days 00:01:27,Data Analyst,Yes,41-65,Telecommunication,Python,2.0,0.0,3.0,3.0,0.0,4.0,Very Difficult,Better Salary,Male,28,United States,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:29,Data Analyst,Yes,66-85,Other,Python,10.0,10.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,37,Canada,Bachelors,White or Caucasian,75.5
-0 days 00:02:31,Data Analyst,Yes,0-40,Other,Python,3.0,8.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,32,Serbia,Bachelors,White or Caucasian,20.0
-0 days 00:03:20,Data Analyst,Yes,0-40,Tech,R,1.0,10.0,9.0,9.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,34,Argentina,Bachelors,Other,20.0
-0 days 00:00:55,Data Scientist,Yes,0-40,Education,Python,3.0,10.0,10.0,6.0,7.0,8.0,Easy,Good Work/Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian,20.0
-0 days 00:01:24,Data Analyst,No,41-65,Construction,R,4.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,31,United States,Bachelors,White or Caucasian,53.0
-0 days 00:00:47,Data Analyst,Yes,41-65,Finance,Python,4.0,10.0,7.0,7.0,7.0,5.0,Difficult,Good Culture,Male,29,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:06,Data Analyst,Yes,0-40,Tech,Python,1.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,22,Niger,Bachelors,Black or African American,20.0
-0 days 00:01:04,Student/Looking/None,Yes,0-40,Other,Python,1.0,3.0,2.0,2.0,4.0,1.0,Difficult,Better Salary,Male,23,United States,Bachelors,Black or African American,20.0
-0 days 00:01:05,Student/Looking/None,No,41-65,Tech,R,7.0,8.0,8.0,6.0,8.0,3.0,Very Difficult,Better Salary,Female,26,Canada,Bachelors,Asian or Asian American,53.0
-0 days 00:01:21,Data Analyst,No,0-40,Other,Python,1.0,1.0,1.0,1.0,2.0,0.0,Very Difficult,Better Salary,Male,28,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:01:23,Data Analyst,Yes,41-65,Finance,Python,5.0,5.0,5.0,5.0,5.0,5.0,Easy,Remote Work,Male,29,Kenya,Bachelors,Black or African American,53.0
-0 days 00:01:35,Data Analyst,Yes,106-125,Tech,Other,10.0,5.0,10.0,6.0,10.0,10.0,Neither easy nor difficult,Remote Work,Female,31,United States,Bachelors,White or Caucasian,115.5
-0 days 00:01:25,Data Analyst,Yes,0-40,Healthcare,Python,5.0,6.0,8.0,8.0,7.0,1.0,Neither easy nor difficult,Remote Work,Male,28,Azerbaijan,Bachelors,White or Caucasian,20.0
-0 days 00:01:47,Data Analyst,No,0-40,Finance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,32,Argentina,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:14,Data Analyst,No,0-40,Tech,Python,7.0,8.0,8.0,8.0,3.0,8.0,Easy,Better Salary,Male,24,Sudan,Bachelors,Black or African American,20.0
-0 days 00:02:21,Data Analyst,No,0-40,Tech,Python,4.0,6.0,6.0,6.0,7.0,7.0,Easy,Good Work/Life Balance,Male,31,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:07,Data Analyst,No,66-85,Other,Other,7.0,10.0,5.0,5.0,5.0,2.0,Difficult,Other,Male,23,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:20,Data Analyst,Yes,106-125,Other,Python,1.0,6.0,9.0,1.0,0.0,2.0,Difficult,Remote Work,Female,33,United States,Bachelors,Asian or Asian American,115.5
-0 days 00:01:34,Data Analyst,No,86-105,Healthcare,Other,6.0,7.0,7.0,7.0,7.0,4.0,Very Easy,Better Salary,Male,43,United States,Bachelors,White or Caucasian,95.5
-0 days 00:01:34,Student/Looking/None,Yes,0-40,Other,R,0.0,0.0,5.0,0.0,0.0,0.0,Very Difficult,Remote Work,Female,23,Nigeria,Bachelors,Other,20.0
-0 days 00:01:47,Student/Looking/None,Yes,41-65,Finance,Python,10.0,7.0,10.0,10.0,5.0,3.0,Very Difficult,Good Work/Life Balance,Male,31,United States,Bachelors,Black or African American,53.0
-0 days 00:01:38,Data Analyst,Yes,66-85,Finance,Python,5.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Other,Male,31,United Kingdom,Bachelors,White or Caucasian,75.5
-0 days 00:03:30,Data Analyst,Yes,0-40,Other (Please Specify),Python,8.0,7.0,8.0,7.0,7.0,7.0,Difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:37,Data Engineer,No,125-150,Tech,Other,8.0,10.0,10.0,9.0,9.0,9.0,Easy,Better Salary,Male,43,United States,Bachelors,White or Caucasian,137.5
-0 days 00:02:08,Data Analyst,No,41-65,Finance,Python,2.0,3.0,5.0,5.0,5.0,5.0,Difficult,Better Salary,Female,26,Canada,Bachelors,Other,53.0
-0 days 00:03:54,Other,No,41-65,Other,Python,5.0,10.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Remote Work,Male,32,Japan,Bachelors,White or Caucasian,53.0
-0 days 00:02:28,Other,No,0-40,Tech,Python,2.0,9.0,7.0,7.0,5.0,6.0,Difficult,Better Salary,Male,31,Greece,Bachelors,White or Caucasian,20.0
-0 days 00:01:33,Data Analyst,Yes,86-105,Healthcare,Other,3.0,5.0,6.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian,95.5
-0 days 00:00:56,Data Analyst,Yes,0-40,Other,Python,3.0,1.0,3.0,2.0,3.0,1.0,Neither easy nor difficult,Good Culture,Male,24,Perú ,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:38,Student/Looking/None,Yes,41-65,Construction,Python,2.0,0.0,2.0,2.0,0.0,0.0,Very Difficult,Remote Work,Male,34,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:52,Data Analyst,Yes,41-65,Other,Other,5.0,6.0,6.0,5.0,4.0,6.0,Very Difficult,Better Salary,Male,42,Australia,Bachelors,Other,53.0
-0 days 00:02:03,Student/Looking/None,Yes,0-40,Other,JavaScript,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Remote Work,Female,40,United States,Bachelors,Asian or Asian American,20.0
-0 days 00:02:32,Student/Looking/None,No,41-65,Telecommunication,Python,3.0,1.0,3.0,4.0,0.0,3.0,Easy,Good Work/Life Balance,Male,43,Spain,Bachelors,White or Caucasian,53.0
-0 days 00:02:39,Student/Looking/None,Yes,0-40,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,23,Kenya ,Bachelors,Other,20.0
-0 days 00:01:11,Student/Looking/None,Yes,0-40,Education,Python,5.0,5.0,3.0,5.0,2.0,6.0,Difficult,Better Salary,Male,23,Japan,Bachelors,Asian or Asian American,20.0
-0 days 00:03:55,Data Analyst,Yes,86-105,Other,Python,8.0,6.0,2.0,3.0,6.0,7.0,Neither easy nor difficult,Other,Male,28,United States,Bachelors,White or Caucasian,95.5
-0 days 00:01:25,Data Analyst,No,66-85,Finance,Other,5.0,7.0,1.0,1.0,0.0,8.0,Neither easy nor difficult,Better Salary,Male,32,United States,Bachelors,White or Caucasian,75.5
-0 days 00:02:47,Data Analyst,Yes,66-85,Other,R,7.0,8.0,10.0,8.0,9.0,9.0,Difficult,Remote Work,Female,41,United States,Bachelors,White or Caucasian,75.5
-0 days 00:00:56,Data Analyst,Yes,41-65,Finance,Python,5.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Remote Work,Male,33,United Kingdom,High School,White or Caucasian,53.0
-0 days 00:01:57,Other,Yes,150-225,Tech,Python,10.0,8.0,9.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,38,United States,Bachelors,Hispanic or Latino,187.5
-0 days 00:02:32,Data Analyst,No,0-40,Tech,Other,8.0,8.0,8.0,8.0,5.0,10.0,Easy,Better Salary,Female,22,India,Bachelors,Other,20.0
-0 days 00:01:59,Student/Looking/None,Yes,0-40,Other,R,1.0,3.0,6.0,6.0,6.0,9.0,Difficult,Remote Work,Male,36,Barbados,Bachelors,Black or African American,20.0
-0 days 00:01:18,Data Engineer,No,66-85,Finance,Python,2.0,1.0,1.0,1.0,3.0,7.0,Easy,Remote Work,Female,28,United States,Masters,Asian or Asian American,75.5
-0 days 00:08:11,Student/Looking/None,Yes,0-40,Other,Other,4.0,6.0,6.0,5.0,5.0,7.0,Very Easy,Other,Male,30,South Africa,Bachelors,Other,20.0
-0 days 00:01:44,Data Analyst,Yes,66-85,Tech,Python,6.0,6.0,6.0,6.0,5.0,6.0,Difficult,Other,Female,24,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:01:58,Other,No,41-65,Other,C/C++,3.0,6.0,7.0,7.0,0.0,3.0,Very Difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian,53.0
-0 days 00:02:15,Data Analyst,No,0-40,Tech,Python,4.0,9.0,10.0,9.0,9.0,10.0,Easy,Better Salary,Male,29,Colombia,Associates,Hispanic or Latino,20.0
-0 days 00:02:04,Other,Yes,41-65,Other,Python,6.0,8.0,8.0,7.0,9.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,Germany,Masters,White or Caucasian,53.0
-0 days 00:01:46,Data Analyst,Yes,0-40,Finance,Other,3.0,5.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Male,31,Bulgaria,Masters,White or Caucasian,20.0
-0 days 00:01:33,Student/Looking/None,No,0-40,Tech,Python,1.0,4.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,25,United States,Masters,White or Caucasian,20.0
-0 days 00:01:09,Data Analyst,No,66-85,Telecommunication,Python,4.0,6.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,24,United States,Masters,White or Caucasian,75.5
-0 days 00:04:03,Other,Yes,41-65,Tech,Python,6.0,7.0,4.0,3.0,9.0,8.0,Difficult,Better Salary,Male,28,Turkey,Bachelors,White or Caucasian,53.0
-0 days 00:01:03,Student/Looking/None,No,0-40,Tech,Python,7.0,5.0,8.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:01,Data Engineer,No,0-40,Tech,R,2.0,3.0,2.0,5.0,5.0,7.0,Neither easy nor difficult,Remote Work,Male,21,Spain,Masters,Hispanic or Latino,20.0
-0 days 00:02:43,Data Analyst,No,0-40,Other,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,29,France,Bachelors,Other,20.0
-0 days 00:03:15,Data Analyst,Yes,41-65,Tech,Python,5.0,6.0,7.0,7.0,7.0,6.0,Difficult,Better Salary,Male,25,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:01:24,Data Analyst,No,41-65,Tech,Python,6.0,6.0,6.0,6.0,3.0,5.0,Difficult,Good Culture,Male,27,Germany,Masters,Black or African American,53.0
-0 days 00:01:28,Data Analyst,Yes,41-65,Tech,Python,3.0,9.0,10.0,8.0,9.0,9.0,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American,53.0
-0 days 00:02:36,Other,No,86-105,Other,R,4.0,3.0,3.0,5.0,5.0,5.0,Difficult,Better Salary,Male,32,United States,Masters,Asian or Asian American,95.5
-0 days 00:02:41,Student/Looking/None,Yes,106-125,Healthcare,Python,5.0,5.0,7.0,5.0,7.0,7.0,Neither easy nor difficult,Remote Work,Male,22,India,Bachelors,Asian or Asian American,115.5
-0 days 00:04:14,Data Analyst,No,0-40,Tech,Python,2.0,9.0,9.0,8.0,6.0,2.0,Easy,Better Salary,Male,25,Thailand,Bachelors,Asian or Asian American,20.0
-0 days 00:01:15,Data Analyst,Yes,0-40,Telecommunication,Python,2.0,8.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,36,Germany,Masters,White or Caucasian,20.0
-0 days 00:02:21,Data Analyst,Yes,106-125,Tech,Other,10.0,6.0,9.0,5.0,8.0,7.0,Easy,Good Work/Life Balance,Female,27,United States,Bachelors,White or Caucasian,115.5
-0 days 00:02:17,Other,Yes,0-40,Tech,Python,5.0,5.0,5.0,5.0,5.0,1.0,Neither easy nor difficult,Other,Male,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:32,Student/Looking/None,Yes,0-40,Tech,Other,2.0,3.0,3.0,3.0,3.0,6.0,Very Difficult,Better Salary,Male,26,Netherlands,Bachelors,Black or African American,20.0
-0 days 00:01:19,Other,No,86-105,Healthcare,Python,9.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Work/Life Balance,Female,33,United States,PhD,Hispanic or Latino,95.5
-0 days 00:01:33,Data Analyst,Yes,106-125,Other,Python,3.0,5.0,3.0,3.0,5.0,5.0,Easy,Better Salary,Male,27,Turkey,Masters,White or Caucasian,115.5
-0 days 00:01:38,Data Analyst,Yes,41-65,Education,R,3.0,6.0,5.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,42,United States,Associates,White or Caucasian,53.0
-0 days 00:02:36,Data Analyst,Yes,0-40,Tech,Python,6.0,7.0,8.0,7.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,Spain,Masters,White or Caucasian,20.0
-0 days 00:01:08,Data Analyst,No,125-150,Tech,Python,4.0,7.0,6.0,4.0,2.0,4.0,Easy,Better Salary,Female,27,United States,Masters,Asian or Asian American,137.5
-0 days 00:01:41,Student/Looking/None,No,41-65,Healthcare,Python,0.0,10.0,10.0,10.0,4.0,2.0,Neither easy nor difficult,Remote Work,Female,39,United States,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:36,Data Analyst,Yes,41-65,Telecommunication,Python,6.0,6.0,7.0,5.0,6.0,7.0,Difficult,Good Culture,Male,31,Denmark,Masters,White or Caucasian,53.0
-0 days 00:03:09,Data Analyst,Yes,66-85,Other,Python,7.0,7.0,5.0,9.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,Brazil,Bachelors,Hispanic or Latino,75.5
-0 days 00:01:22,Data Analyst,Yes,66-85,Education,R,7.0,7.0,7.0,7.0,4.0,7.0,Easy,Remote Work,Male,31,United States,Masters,White or Caucasian,75.5
-0 days 00:01:30,Data Analyst,Yes,0-40,Finance,Python,10.0,9.0,9.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,30,Mexico,Masters,Hispanic or Latino,20.0
-0 days 00:03:05,Data Engineer,Yes,0-40,Tech,Python,7.0,8.0,6.0,5.0,5.0,9.0,Difficult,Better Salary,Male,33,Mexico,Masters,Hispanic or Latino,20.0
-0 days 00:00:58,Data Analyst,No,66-85,Other,Python,7.0,8.0,9.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:09,Student/Looking/None,No,0-40,Tech,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,India,Bachelors,Other,20.0
-0 days 00:01:51,Data Analyst,Yes,41-65,Other,Other,4.0,4.0,3.0,3.0,5.0,6.0,Very Difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:02:29,Other,Yes,66-85,Other,Python,7.0,9.0,9.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,Chile,Bachelors,Hispanic or Latino,75.5
-0 days 00:02:39,Data Analyst,No,41-65,Other,Python,6.0,8.0,5.0,5.0,6.0,9.0,Neither easy nor difficult,Remote Work,Female,42,Greece,Masters,White or Caucasian,53.0
-0 days 00:01:14,Data Analyst,No,66-85,Tech,Python,3.0,4.0,2.0,1.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,75.5
-0 days 00:03:00,Data Analyst,No,86-105,Other,Python,5.0,4.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Other,Male,23,United States,Bachelors,White or Caucasian,95.5
-0 days 00:02:02,Other,No,41-65,Healthcare,JavaScript,2.0,4.0,6.0,5.0,3.0,4.0,Easy,Better Salary,Female,51,United States,Bachelors,Black or African American,53.0
-0 days 00:01:45,Data Analyst,No,0-40,Telecommunication,Other,1.0,4.0,4.0,3.0,2.0,6.0,Very Difficult,Better Salary,Male,30,United Kingdom,Bachelors,Black or African American,20.0
-0 days 00:01:41,Data Analyst,Yes,41-65,Finance,Python,8.0,9.0,9.0,9.0,9.0,8.0,Very Difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American,53.0
-0 days 00:01:06,Other,Yes,41-65,Other,R,3.0,5.0,5.0,6.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,24,Canada,Bachelors,Asian or Asian American,53.0
-0 days 00:01:06,Student/Looking/None,Yes,41-65,Tech,Python,6.0,6.0,6.0,6.0,6.0,6.0,Easy,Good Culture,Male,25,Australia,Masters,Asian or Asian American,53.0
-0 days 00:02:22,Data Analyst,Yes,41-65,Finance,Python,4.0,4.0,6.0,4.0,5.0,6.0,Difficult,Better Salary,Female,55,United States,Masters,Other,53.0
-0 days 00:01:56,Data Analyst,No,86-105,Other,R,8.0,10.0,8.0,7.0,8.0,10.0,Very Easy,Remote Work,Female,30,United States,Masters,White or Caucasian,95.5
-0 days 00:01:10,Data Analyst,Yes,41-65,Other,Python,9.0,9.0,9.0,9.0,7.0,4.0,Difficult,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American,53.0
-0 days 00:00:28,Data Analyst,Yes,66-85,Other,Python,6.0,9.0,7.0,6.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,28,United States,Masters,White or Caucasian,75.5
-0 days 00:02:22,Other,Yes,41-65,Other,Python,8.0,8.0,9.0,9.0,10.0,10.0,Very Easy,Better Salary,Male,34,United Kingdom,Bachelors,White or Caucasian,53.0
-0 days 00:03:18,Data Analyst,Yes,0-40,Tech,Python,8.0,10.0,9.0,9.0,10.0,8.0,Neither easy nor difficult,Better Salary,Female,28,Costa Rica,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:55,Student/Looking/None,No,0-40,Other,Other,7.0,9.0,7.0,8.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,24,Vietnam,Bachelors,Asian or Asian American,20.0
-0 days 00:01:15,Student/Looking/None,Yes,0-40,Healthcare,Python,3.0,7.0,7.0,7.0,1.0,2.0,Difficult,Better Salary,Male,31,United States,Masters,Black or African American,20.0
-0 days 00:02:07,Data Analyst,Yes,41-65,Other,Other,3.0,6.0,6.0,6.0,4.0,4.0,Easy,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American,53.0
-0 days 00:01:05,Data Analyst,Yes,106-125,Finance,Python,5.0,1.0,4.0,3.0,3.0,4.0,Easy,Better Salary,Female,38,United States,Bachelors,White or Caucasian,115.5
-0 days 00:01:32,Data Analyst,No,41-65,Finance,Python,5.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,30,Netherlands,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:32,Data Analyst,Yes,0-40,Tech,C/C++,0.0,0.0,0.0,2.0,2.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:08,Data Analyst,Yes,0-40,Tech,Python,1.0,2.0,1.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,29,Nigeria ,Bachelors,Black or African American,20.0
-0 days 00:04:27,Data Scientist,Yes,150-225,Finance,Python,7.0,5.0,3.0,6.0,4.0,4.0,Difficult,Good Work/Life Balance,Male,21,Portugal,Masters,White or Caucasian,187.5
-0 days 00:02:00,Data Analyst,Yes,66-85,Other,Other,5.0,8.0,8.0,7.0,6.0,7.0,Very Easy,Remote Work,Female,39,United States,Bachelors,Asian or Asian American,75.5
-0 days 00:01:19,Student/Looking/None,No,0-40,Other (Please Specify),Python,0.0,0.0,0.0,0.0,0.0,5.0,Neither easy nor difficult,Better Salary,Male,25,turkey,Bachelors,White or Caucasian,20.0
-0 days 00:02:36,Other,Yes,86-105,Finance,Other,7.0,9.0,10.0,6.0,4.0,4.0,Neither easy nor difficult,Other,Female,42,United States,Masters,Hispanic or Latino,95.5
-0 days 00:00:48,Data Analyst,No,41-65,Tech,R,10.0,8.0,9.0,10.0,10.0,10.0,Easy,Better Salary,Male,25,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:20,Data Scientist,No,86-105,Finance,Python,8.0,7.0,6.0,6.0,5.0,9.0,Neither easy nor difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian,95.5
-0 days 00:02:04,Data Analyst,No,0-40,Other,Python,1.0,4.0,4.0,3.0,5.0,5.0,Easy,Better Salary,Male,23,Colombia,High School,Hispanic or Latino,20.0
-0 days 00:02:36,Data Engineer,Yes,41-65,Other,JavaScript,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Good Culture,Male,25,Egypt,High School,Other,53.0
-0 days 00:01:05,Data Engineer,Yes,66-85,Other,Python,5.0,7.0,7.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,45,Canada,Masters,White or Caucasian,75.5
-0 days 00:01:29,Data Analyst,Yes,66-85,Healthcare,Other,7.0,3.0,8.0,6.0,8.0,8.0,Easy,Good Work/Life Balance,Male,24,United States,Bachelors,White or Caucasian,75.5
-0 days 00:03:57,Student/Looking/None,No,0-40,Other,R,1.0,9.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,25,United States,Bachelors,Black or African American,20.0
-0 days 00:01:36,Data Analyst,Yes,66-85,Other,Python,9.0,8.0,9.0,9.0,8.0,8.0,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:41,Data Analyst,No,41-65,Tech,R,4.0,7.0,8.0,8.0,5.0,7.0,Easy,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American,53.0
-0 days 00:01:37,Student/Looking/None,Yes,0-40,Other,Python,1.0,1.0,1.0,0.0,0.0,3.0,Difficult,Remote Work,Female,42,United Kingdom,Masters,White or Caucasian,20.0
-0 days 00:01:30,Other,Yes,41-65,Education,Other,0.0,0.0,2.0,0.0,0.0,0.0,Very Difficult,Good Work/Life Balance,Female,42,United States,Bachelors,Black or African American,53.0
-0 days 00:01:26,Other,No,0-40,Tech,Python,0.0,6.0,5.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Male,25,India,Masters,Asian or Asian American,20.0
-0 days 00:02:24,Data Analyst,Yes,86-105,Tech,R,8.0,10.0,10.0,10.0,2.0,7.0,Easy,Remote Work,Male,38,United States,Masters,White or Caucasian,95.5
-0 days 00:02:51,Other,No,0-40,Tech,Python,5.0,6.0,6.0,6.0,6.0,4.0,Easy,Better Salary,Male,24,Costa Rica,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:37,Data Analyst,Yes,66-85,Education,R,7.0,10.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:06,Data Analyst,No,41-65,Healthcare,Python,1.0,2.0,8.0,7.0,0.0,0.0,Difficult,Better Salary,Male,21,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:01:13,Data Analyst,Yes,106-125,Healthcare,R,10.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Culture,Male,39,United States,Masters,White or Caucasian,115.5
-0 days 00:03:29,Data Analyst,Yes,0-40,Tech,Python,4.0,5.0,5.0,5.0,6.0,8.0,Difficult,Good Work/Life Balance,Male,23,Pakistan,Bachelors,Asian or Asian American,20.0
-0 days 00:01:17,Data Analyst,No,0-40,Other,R,1.0,6.0,4.0,3.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,23,Australia,Bachelors,White or Caucasian,20.0
-0 days 00:02:03,Data Analyst,Yes,66-85,Other,R,8.0,9.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,United States,Masters,White or Caucasian,75.5
-0 days 00:01:16,Data Analyst,No,41-65,Other,Python,2.0,6.0,2.0,3.0,2.0,2.0,Easy,Better Salary,Male,26,Ireland ,Masters,White or Caucasian,53.0
-0 days 00:02:18,Data Analyst,Yes,41-65,Healthcare,R,3.0,6.0,4.0,6.0,4.0,6.0,Neither easy nor difficult,Better Salary,Male,37,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:22,Data Analyst,Yes,66-85,Healthcare,Python,3.0,5.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian,75.5
-0 days 00:02:03,Data Analyst,Yes,0-40,Finance,C/C++,5.0,2.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Female,25,South Africa,Bachelors,Black or African American,20.0
-0 days 00:02:04,Data Analyst,Yes,0-40,Healthcare,Python,2.0,6.0,6.0,5.0,4.0,5.0,Easy,Better Salary,Female,26,Poland,Bachelors,White or Caucasian,20.0
-0 days 00:01:28,Data Analyst,Yes,66-85,Healthcare,Other,7.0,8.0,8.0,8.0,8.0,7.0,Very Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:39,Data Analyst,Yes,66-85,Tech,Python,9.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,39,United States,Bachelors,Black or African American,75.5
-0 days 00:00:53,Other,No,0-40,Education,Python,1.0,1.0,1.0,0.0,0.0,2.0,Easy,Good Work/Life Balance,Female,28,India,Masters,Asian or Asian American,20.0
-0 days 00:01:46,Data Analyst,Yes,66-85,Finance,Other,8.0,8.0,7.0,7.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,22,United States,Bachelors,Other,75.5
-0 days 00:02:45,Data Analyst,Yes,0-40,Telecommunication,Python,3.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Good Culture,Male,28,Mozambique,Bachelors,Black or African American,20.0
-0 days 00:01:44,Other,No,150-225,Tech,R,8.0,10.0,9.0,7.0,5.0,5.0,Neither easy nor difficult,Remote Work,Male,33,United States,Masters,White or Caucasian,187.5
-0 days 00:05:11,Data Analyst,Yes,0-40,Finance,Other,2.0,3.0,3.0,3.0,2.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,Egypt ,Bachelors,Other,20.0
-0 days 00:01:48,Student/Looking/None,No,0-40,Tech,Python,3.0,5.0,5.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Other,20.0
-0 days 00:03:42,Data Analyst,Yes,106-125,Other,Other,8.0,8.0,8.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,37,United States,Bachelors,Other,115.5
-0 days 00:22:47,Other,No,41-65,Other,R,3.0,4.0,5.0,5.0,4.0,3.0,Difficult,Better Salary,Male,24,United States,Masters,White or Caucasian,53.0
-0 days 00:01:20,Data Analyst,No,41-65,Healthcare,R,1.0,4.0,3.0,2.0,0.0,6.0,Difficult,Better Salary,Male,25,United Kingdom,Masters,Asian or Asian American,53.0
-0 days 00:01:24,Data Engineer,No,86-105,Healthcare,R,8.0,10.0,8.0,8.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,28,United States,Masters,Black or African American,95.5
-0 days 00:02:07,Data Analyst,Yes,41-65,Other,Python,5.0,5.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,32,United Kingdom,Bachelors,White or Caucasian,53.0
-0 days 00:01:34,Data Analyst,Yes,41-65,Other,Python,0.0,7.0,7.0,7.0,0.0,7.0,Easy,Good Culture,Male,29,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:02:50,Data Analyst,No,41-65,Healthcare,R,7.0,5.0,8.0,6.0,5.0,10.0,Difficult,Other,Female,26,Australia,Masters,White or Caucasian,53.0
-0 days 00:03:01,Data Engineer,Yes,41-65,Tech,Python,0.0,7.0,5.0,0.0,0.0,7.0,Neither easy nor difficult,Remote Work,Male,37,Canada,Masters,White or Caucasian,53.0
-0 days 00:01:44,Data Analyst,No,41-65,Other,R,4.0,6.0,5.0,4.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:36,Data Analyst,No,0-40,Finance,Other,4.0,4.0,5.0,6.0,6.0,0.0,Difficult,Better Salary,Male,24,Israel,High School,White or Caucasian,20.0
-0 days 00:02:45,Other,No,125-150,Finance,Other,7.0,8.0,8.0,8.0,7.0,8.0,Easy,Better Salary,Male,52,United States,Bachelors,White or Caucasian,137.5
-0 days 00:04:22,Data Analyst,Yes,41-65,Finance,Python,6.0,10.0,3.0,5.0,0.0,10.0,Difficult,Good Culture,Male,27,Singapore,Bachelors,Asian or Asian American,53.0
-0 days 00:01:07,Data Analyst,No,106-125,Healthcare,Other,6.0,6.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,29,United States,Masters,White or Caucasian,115.5
-0 days 00:01:39,Student/Looking/None,No,0-40,Tech,Python,3.0,7.0,6.0,7.0,0.0,0.0,Difficult,Better Salary,Male,42,Brazil,Associates,White or Caucasian,20.0
-0 days 00:01:24,Data Analyst,Yes,41-65,Telecommunication,R,3.0,5.0,6.0,4.0,3.0,7.0,Difficult,Other,Male,28,United States,Masters,White or Caucasian,53.0
-0 days 00:02:39,Data Analyst,Yes,0-40,Tech,Python,8.0,8.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,44,Costa Rica,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:30,Data Engineer,Yes,0-40,Tech,Python,5.0,5.0,6.0,5.0,6.0,7.0,Neither easy nor difficult,Remote Work,Male,23,Spain,Bachelors,White or Caucasian,20.0
-0 days 00:01:14,Data Analyst,No,41-65,Other,R,1.0,2.0,6.0,4.0,2.0,0.0,Easy,Better Salary,Male,27,United States,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:05,Data Analyst,No,66-85,Construction,Python,3.0,3.0,3.0,2.0,2.0,1.0,Neither easy nor difficult,Good Culture,Male,26,United States,Masters,White or Caucasian,75.5
-0 days 00:01:14,Data Analyst,Yes,86-105,Healthcare,Other,3.0,4.0,4.0,4.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Hispanic or Latino,95.5
-0 days 00:01:45,Data Analyst,Yes,66-85,Other,Python,0.0,0.0,7.0,1.0,0.0,9.0,Difficult,Better Salary,Male,33,Canada,Bachelors,Asian or Asian American,75.5
-0 days 00:01:44,Data Analyst,Yes,66-85,Other,Python,8.0,10.0,10.0,10.0,10.0,10.0,Easy,Better Salary,Male,28,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:01:29,Data Analyst,Yes,0-40,Tech,R,2.0,8.0,8.0,7.0,6.0,9.0,Neither easy nor difficult,Better Salary,Male,32,Kenya,Bachelors,Black or African American,20.0
-0 days 00:02:38,Student/Looking/None,Yes,41-65,Other,Python,2.0,4.0,6.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,34,Canada,Associates,Asian or Asian American,53.0
-0 days 00:01:04,Data Analyst,No,150-225,Tech,Python,10.0,10.0,10.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,28,United States,Bachelors,Asian or Asian American,187.5
-0 days 00:01:51,Data Scientist,Yes,125-150,Telecommunication,Python,2.0,4.0,1.0,3.0,1.0,7.0,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Other,137.5
-0 days 00:01:35,Data Engineer,Yes,41-65,Finance,Python,2.0,4.0,5.0,5.0,4.0,6.0,Difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:03,Data Analyst,No,66-85,Healthcare,Python,3.0,3.0,4.0,1.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,29,United States,Masters,White or Caucasian,75.5
-0 days 00:02:17,Data Analyst,No,66-85,Healthcare,Python,8.0,10.0,10.0,8.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,United States,Masters,White or Caucasian,75.5
-0 days 00:01:39,Data Analyst,No,66-85,Tech,Python,4.0,5.0,5.0,5.0,4.0,4.0,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian,75.5
-0 days 00:00:53,Student/Looking/None,No,0-40,Healthcare,Python,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,United States,Masters,Asian or Asian American,20.0
-0 days 00:01:19,Data Analyst,No,86-105,Other,Other,4.0,5.0,3.0,4.0,2.0,3.0,Easy,Good Culture,Male,34,United States,Masters,White or Caucasian,95.5
-0 days 00:01:16,Data Engineer,No,86-105,Tech,Python,5.0,3.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,23,United States,Bachelors,White or Caucasian,95.5
-0 days 00:02:08,Student/Looking/None,No,41-65,Construction,Other,10.0,4.0,10.0,10.0,4.0,10.0,Neither easy nor difficult,Remote Work,Male,32,Belgium,Masters,White or Caucasian,53.0
-0 days 00:01:31,Data Analyst,Yes,0-40,Healthcare,R,6.0,8.0,6.0,6.0,8.0,10.0,Easy,Remote Work,Male,29,Argentina,High School,Hispanic or Latino,20.0
-0 days 00:01:39,Data Analyst,Yes,0-40,Education,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,34,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:00:55,Data Analyst,No,66-85,Finance,Python,7.0,5.0,5.0,7.0,9.0,10.0,Very Easy,Remote Work,Male,24,United Kingdom,Bachelors,White or Caucasian,75.5
-0 days 00:02:19,Other,No,66-85,Tech,Python,0.0,10.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,30,United States,Bachelors,Other,75.5
-0 days 00:01:59,Other,No,86-105,Other,Python,5.0,5.0,6.0,4.0,5.0,5.0,Difficult,Better Salary,Male,24,United States,Masters,Hispanic or Latino,95.5
-0 days 00:01:52,Data Analyst,Yes,41-65,Other,Python,6.0,8.0,10.0,9.0,7.0,9.0,Easy,Better Salary,Male,27,United States,Bachelors,Other,53.0
-0 days 00:03:30,Data Analyst,No,0-40,Finance,Python,1.0,2.0,4.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American,20.0
-0 days 00:03:54,Data Analyst,No,0-40,Other,Python,3.0,5.0,9.0,9.0,5.0,8.0,Very Difficult,Other,Male,31,UAE,Masters,Black or African American,20.0
-0 days 00:02:38,Data Analyst,Yes,0-40,Telecommunication,R,5.0,7.0,5.0,5.0,5.0,7.0,Difficult,Better Salary,Male,41,Egypt,Bachelors,White or Caucasian,20.0
-0 days 00:02:07,Data Analyst,Yes,0-40,Tech,Python,0.0,1.0,1.0,0.0,0.0,2.0,Difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American,20.0
-0 days 00:03:59,Data Analyst,No,0-40,Finance,Other,4.0,7.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Other,Male,24,Nigeria ,Bachelors,Black or African American,20.0
-0 days 00:02:01,Data Analyst,No,0-40,Finance,Python,6.0,5.0,6.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,30, Somalia,Masters,Other,20.0
-0 days 00:03:38,Data Analyst,No,150-225,Finance,Other,7.0,7.0,7.0,5.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,United States,Bachelors,White or Caucasian,187.5
-0 days 00:02:40,Data Analyst,No,66-85,Other,Other,7.0,4.0,10.0,9.0,7.0,10.0,Difficult,Better Salary,Male,23,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:01:34,Data Analyst,Yes,66-85,Tech,Python,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,33,United Kingdom,Masters,Asian or Asian American,75.5
-0 days 00:00:48,Data Analyst,No,106-125,Finance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,115.5
-0 days 00:00:57,Data Analyst,No,0-40,Other,Python,5.0,5.0,5.0,5.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,27,Kosovo,Masters,White or Caucasian,20.0
-0 days 00:01:45,Data Analyst,Yes,0-40,Finance,C/C++,5.0,10.0,10.0,8.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian,20.0
-0 days 00:02:41,Data Analyst,Yes,0-40,Tech,Python,0.0,3.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,29,Nigeria ,Bachelors,Black or African American,20.0
-0 days 00:03:43,Other,Yes,0-40,Healthcare,Python,10.0,2.0,8.0,5.0,0.0,6.0,Easy,Better Salary,Male,25,India,Masters,Other,20.0
-0 days 00:01:28,Data Analyst,No,86-105,Telecommunication,Other,7.0,7.0,5.0,7.0,7.0,7.0,Easy,Remote Work,Male,40,United States,High School,Hispanic or Latino,95.5
-0 days 00:02:59,Data Analyst,No,41-65,Other,Other,6.0,10.0,8.0,8.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,29,Canada,Bachelors,Other (Please Specify),53.0
-0 days 00:04:44,Data Analyst,No,41-65,Other (Please Specify),Python,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Remote Work,Male,29,India,Masters,Asian or Asian American,53.0
-0 days 00:01:40,Data Analyst,Yes,0-40,Education,Python,1.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,28,Nigeria ,Masters,Black or African American,20.0
-0 days 00:02:21,Other,No,86-105,Other,Other,5.0,2.0,0.0,2.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,34,United Kingdom,Bachelors,White or Caucasian,95.5
-0 days 00:02:58,Student/Looking/None,No,0-40,Tech,Python,0.0,4.0,7.0,6.0,7.0,8.0,Easy,Other,Male,24,Belgium,Masters,White or Caucasian,20.0
-0 days 00:02:23,Data Analyst,Yes,0-40,Telecommunication,Python,5.0,8.0,8.0,9.0,7.0,9.0,Very Easy,Better Salary,Male,26,Iraq,Bachelors,Other,20.0
-0 days 00:01:21,Data Analyst,No,125-150,Tech,Python,10.0,5.0,10.0,10.0,6.0,10.0,Difficult,Good Work/Life Balance,Male,28,United States,Bachelors,Hispanic or Latino,137.5
-0 days 00:00:59,Student/Looking/None,No,0-40,Education,R,5.0,4.0,4.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,25,Germany,Masters,White or Caucasian,20.0
-0 days 00:02:52,Data Analyst,Yes,0-40,Tech,Python,1.0,4.0,9.0,7.0,8.0,10.0,Easy,Better Salary,Male,33,Colombia,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:01,Data Analyst,Yes,66-85,Finance,Python,4.0,4.0,6.0,3.0,4.0,0.0,Neither easy nor difficult,Remote Work,Male,30,Ireland ,Masters,White or Caucasian,75.5
-0 days 00:02:51,Data Analyst,Yes,0-40,Finance,Python,1.0,1.0,1.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,35,India,Bachelors,Other,20.0
-0 days 00:01:57,Data Analyst,No,0-40,Other,Other,5.0,2.0,5.0,5.0,3.0,4.0,Difficult,Better Salary,Male,25,Romania,Bachelors,White or Caucasian,20.0
-0 days 00:01:21,Data Analyst,No,0-40,Real Estate,Python,4.0,7.0,9.0,5.0,2.0,8.0,Easy,Better Salary,Male,23,Spain,Bachelors,White or Caucasian,20.0
-0 days 00:02:10,Data Engineer,No,0-40,Healthcare,Python,6.0,6.0,6.0,5.0,4.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,Mexico,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:40,Data Analyst,Yes,150-225,Education,Other,8.0,9.0,9.0,7.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Black or African American,187.5
-0 days 00:01:24,Data Analyst,Yes,66-85,Other,Python,4.0,10.0,10.0,8.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,32,United States,Bachelors,Asian or Asian American,75.5
-0 days 00:01:55,Data Analyst,Yes,41-65,Tech,Python,3.0,5.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,50,Canada,Bachelors,White or Caucasian,53.0
-0 days 00:01:25,Data Architect,Yes,66-85,Other,Python,7.0,7.0,8.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,29,United States,High School,White or Caucasian,75.5
-0 days 00:03:54,Data Analyst,Yes,0-40,Telecommunication,R,2.0,8.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Peru,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:54,Other,No,0-40,Other,R,1.0,7.0,7.0,1.0,4.0,10.0,Neither easy nor difficult,Better Salary,Male,23,United States,Associates,White or Caucasian,20.0
-0 days 00:03:34,Data Analyst,Yes,0-40,Finance,Python,4.0,7.0,8.0,7.0,8.0,8.0,Difficult,Better Salary,Male,31,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:01:27,Data Analyst,No,0-40,Healthcare,Python,0.0,10.0,10.0,10.0,10.0,10.0,Difficult,Better Salary,Male,22,Philippines,Bachelors,Native Hawaiian or other Pacific Islander,20.0
-0 days 00:01:51,Data Analyst,No,66-85,Finance,Python,3.0,5.0,5.0,5.0,3.0,3.0,Very Difficult,Better Salary,Male,29,United States,Masters,Hispanic or Latino,75.5
-0 days 00:02:04,Data Scientist,Yes,0-40,Tech,Python,4.0,4.0,4.0,0.0,0.0,6.0,Difficult,Good Culture,Male,23,Malaysia,Bachelors,Other,20.0
-0 days 00:01:25,Student/Looking/None,No,0-40,Other,Other,0.0,0.0,1.0,1.0,0.0,1.0,Neither easy nor difficult,Remote Work,Female,24,United States,High School,Hispanic or Latino,20.0
-0 days 00:02:09,Data Analyst,Yes,66-85,Other,Python,5.0,9.0,10.0,10.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,26,United States,Bachelors,Black or African American,75.5
-0 days 00:01:30,Student/Looking/None,Yes,0-40,Finance,Python,4.0,3.0,5.0,2.0,2.0,3.0,Difficult,Good Culture,Male,31,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:31,Data Analyst,Yes,0-40,Other,Python,1.0,1.0,1.0,1.0,7.0,9.0,Neither easy nor difficult,Remote Work,Male,22,nigeria,Bachelors,Black or African American,20.0
-0 days 00:02:32,Data Analyst,Yes,66-85,Other,Python,7.0,8.0,10.0,8.0,7.0,5.0,Neither easy nor difficult,Remote Work,Male,31,Germany,Bachelors,White or Caucasian,75.5
-0 days 00:01:21,Student/Looking/None,Yes,0-40,Tech,Python,0.0,4.0,0.0,0.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Asian or Asian American,20.0
-0 days 00:01:32,Student/Looking/None,No,0-40,Other,Python,1.0,1.0,2.0,1.0,1.0,1.0,Difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American,20.0
-0 days 00:24:18,Data Analyst,Yes,0-40,Healthcare,Python,4.0,10.0,10.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,30,Colombia,Masters,Hispanic or Latino,20.0
-0 days 00:01:44,Data Analyst,Yes,41-65,Healthcare,R,0.0,6.0,5.0,6.0,0.0,2.0,Easy,Other,Male,28,United States,Masters,Hispanic or Latino,53.0
-0 days 00:01:37,Data Analyst,No,125-150,Finance,Python,6.0,6.0,5.0,4.0,2.0,4.0,Easy,Remote Work,Male,26,United States,Bachelors,White or Caucasian,137.5
-0 days 00:01:40,Data Scientist,Yes,125-150,Other,Python,6.0,7.0,7.0,10.0,6.0,7.0,Neither easy nor difficult,Remote Work,Female,32,United States,Masters,White or Caucasian,137.5
-0 days 00:02:41,Data Analyst,Yes,0-40,Other,Other,3.0,5.0,6.0,4.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,40,Poland,PhD,White or Caucasian,20.0
-0 days 00:02:38,Data Engineer,Yes,0-40,Other,Python,4.0,7.0,7.0,6.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,36,Singapore,Associates,Asian or Asian American,20.0
-0 days 00:01:29,Data Analyst,Yes,66-85,Finance,Python,6.0,10.0,9.0,9.0,9.0,10.0,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:00:59,Data Analyst,Yes,66-85,Tech,Python,3.0,4.0,4.0,4.0,5.0,5.0,Very Difficult,Good Work/Life Balance,Male,29,United States,Masters,Asian or Asian American,75.5
-0 days 00:04:08,Data Analyst,No,41-65,Finance,Python,6.0,5.0,9.0,9.0,7.0,5.0,Neither easy nor difficult,Other,Female,25,Germany,Masters,Hispanic or Latino,53.0
-0 days 00:02:05,Database Developer,Yes,41-65,Other,Python,6.0,8.0,8.0,9.0,6.0,8.0,Difficult,Remote Work,Male,29,United States,Bachelors,White or Caucasian,53.0
-0 days 00:02:04,Data Analyst,No,86-105,Agriculture,Python,7.0,6.0,7.0,4.0,5.0,8.0,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American,95.5
-0 days 00:02:02,Data Analyst,No,0-40,Other,R,1.0,1.0,1.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,34,Ghana,Bachelors,Black or African American,20.0
-0 days 00:01:27,Data Analyst,Yes,0-40,Finance,Python,5.0,2.0,5.0,4.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,Egypt,Bachelors,White or Caucasian,20.0
-0 days 00:02:11,Data Analyst,No,0-40,Tech,Python,3.0,3.0,5.0,4.0,3.0,2.0,Difficult,Other,Female,22,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:40,Student/Looking/None,Yes,0-40,Construction,Python,0.0,2.0,0.0,1.0,1.0,2.0,Very Difficult,Remote Work,Female,24,Kenya,Bachelors,Black or African American,20.0
-0 days 00:03:09,Data Analyst,No,0-40,Other,Python,3.0,6.0,6.0,6.0,4.0,3.0,Neither easy nor difficult,Better Salary,Male,26,Costa Rica,Bachelors,Hispanic or Latino,20.0
-0 days 00:03:13,Data Architect,Yes,0-40,Finance,Python,5.0,6.0,2.0,3.0,3.0,5.0,Very Difficult,Good Work/Life Balance,Female,34,Portugsl,Masters,White or Caucasian,20.0
-0 days 00:02:27,Data Analyst,No,0-40,Tech,Python,3.0,5.0,4.0,5.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,29,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:27,Data Scientist,No,0-40,Tech,R,2.0,7.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,21,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:02:47,Other,No,0-40,Other,Python,2.0,4.0,5.0,3.0,1.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Macedonia,Masters,White or Caucasian,20.0
-0 days 00:01:43,Data Analyst,No,41-65,Education,Python,7.0,7.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American,53.0
-0 days 00:01:42,Data Analyst,Yes,41-65,Other,Python,2.0,4.0,7.0,10.0,5.0,10.0,Neither easy nor difficult,Remote Work,Male,28,United States,Bachelors,White or Caucasian,53.0
-0 days 00:02:02,Other,No,41-65,Other,Python,1.0,5.0,5.0,1.0,0.0,3.0,Easy,Better Salary,Female,33,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:57,Data Analyst,Yes,66-85,Other,Other,7.0,6.0,5.0,7.0,4.0,4.0,Easy,Better Salary,Female,56,United States,Bachelors,White or Caucasian,75.5
-0 days 00:04:30,Other,No,0-40,Other,Python,3.0,3.0,6.0,5.0,5.0,4.0,Difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:16,Data Scientist,Yes,125-150,Healthcare,Python,4.0,5.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,28,United States,Masters,White or Caucasian,137.5
-0 days 00:01:44,Student/Looking/None,No,0-40,Other,JavaScript,0.0,0.0,0.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,21,Egypt,High School,White or Caucasian,20.0
-0 days 00:02:14,Student/Looking/None,No,66-85,Other,Python,2.0,2.0,4.0,1.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,United States,Masters,Black or African American,75.5
-0 days 00:01:25,Data Analyst,No,41-65,Healthcare,Python,7.0,5.0,9.0,9.0,9.0,8.0,Neither easy nor difficult,Remote Work,Male,29,Irel,Masters,Asian or Asian American,53.0
-0 days 00:01:18,Data Analyst,No,86-105,Tech,Python,9.0,10.0,8.0,8.0,7.0,7.0,Neither easy nor difficult,Other,Female,23,United States,Bachelors,Asian or Asian American,95.5
-0 days 00:03:06,Other,No,41-65,Finance,Python,3.0,3.0,3.0,0.0,0.0,1.0,Difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American,53.0
-0 days 00:01:36,Data Engineer,Yes,86-105,Other,Python,8.0,7.0,10.0,9.0,10.0,10.0,Easy,Better Salary,Male,27,United States,Masters,White or Caucasian,95.5
-0 days 00:01:54,Data Analyst,No,0-40,Tech,Python,3.0,8.0,7.0,5.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,22,India,Bachelors,Other,20.0
-0 days 00:02:02,Data Analyst,Yes,0-40,Other,Python,6.0,3.0,5.0,7.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:41,Other (Please Specify),No,106-125,Other (Please Specify),Java,7.0,7.0,4.0,5.0,5.0,4.0,Neither easy nor difficult,Better Salary,Male,43,United States,Masters,Asian or Asian American,115.5
-0 days 00:05:13,Other,Yes,0-40,Tech,Python,3.0,5.0,8.0,4.0,5.0,5.0,Difficult,Better Salary,Female,32,United States,Bachelors,Asian or Asian American,20.0
-0 days 00:01:06,Student/Looking/None,Yes,66-85,Healthcare,Other,4.0,6.0,6.0,5.0,5.0,0.0,Difficult,Good Work/Life Balance,Female,42,United States,Masters,Asian or Asian American,75.5
-0 days 00:01:40,Other,No,66-85,Other,Python,4.0,6.0,2.0,3.0,3.0,2.0,Very Difficult,Remote Work,Male,31,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:01:20,Data Engineer,No,0-40,Other,Python,0.0,10.0,10.0,5.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,25,United Kingdom,Bachelors,White or Caucasian,20.0
-0 days 00:01:49,Data Analyst,No,41-65,Agriculture,Other,3.0,5.0,5.0,5.0,3.0,2.0,Neither easy nor difficult,Better Salary,Female,25,United States,Masters,Asian or Asian American,53.0
-0 days 00:01:27,Data Analyst,Yes,106-125,Other,Other,9.0,9.0,9.0,6.0,9.0,8.0,Difficult,Good Work/Life Balance,Male,31,United States,Masters,Asian or Asian American,115.5
-0 days 00:01:23,Data Scientist,Yes,0-40,Education,Python,3.0,3.0,1.0,1.0,1.0,6.0,Difficult,Better Salary,Male,36,Morocco,Masters,White or Caucasian,20.0
-0 days 00:02:24,Other,No,41-65,Healthcare,Python,6.0,8.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Bulgaria,Masters,White or Caucasian,53.0
-0 days 00:01:40,Data Analyst,Yes,66-85,Other,R,6.0,10.0,10.0,10.0,9.0,8.0,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:55,Data Analyst,No,0-40,Other,Python,8.0,8.0,9.0,9.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,27,Peru,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:23,Data Analyst,Yes,0-40,Other,Python,7.0,4.0,7.0,4.0,8.0,10.0,Easy,Good Work/Life Balance,Male,25,Costa Rica ,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:59,Data Analyst,No,0-40,Other,Python,6.0,6.0,10.0,8.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,25,Poland,Bachelors,White or Caucasian,20.0
-0 days 00:01:10,Other,No,41-65,Other,R,5.0,5.0,5.0,5.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,22,United States,Masters,White or Caucasian,53.0
-0 days 00:03:49,Data Analyst,Yes,41-65,Healthcare,Other,7.0,8.0,8.0,4.0,6.0,8.0,Neither easy nor difficult,Good Culture,Male,38,Germany,High School,White or Caucasian,53.0
-0 days 00:01:47,Data Analyst,Yes,0-40,Education,Python,0.0,0.0,5.0,0.0,0.0,0.0,Difficult,Good Culture,Male,27,Kenya,Bachelors,Black or African American,20.0
-0 days 00:02:55,Data Analyst,Yes,86-105,Other,Other,4.0,4.0,2.0,2.0,2.0,2.0,Easy,Remote Work,Female,34,Canada,Bachelors,Black or African American,95.5
-0 days 00:01:45,Data Analyst,Yes,66-85,Other,Python,9.0,10.0,10.0,9.0,8.0,10.0,Difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian,75.5
-0 days 00:03:52,Data Analyst,Yes,41-65,Tech,Python,4.0,9.0,8.0,8.0,6.0,10.0,Neither easy nor difficult,Better Salary,Female,33,Canada,Masters,Black or African American,53.0
-0 days 00:00:59,Student/Looking/None,Yes,0-40,Tech,Python,2.0,5.0,5.0,5.0,5.0,5.0,Very Difficult,Remote Work,Male,23,United States,Bachelors,Asian or Asian American,20.0
-0 days 00:01:26,Data Analyst,Yes,41-65,Healthcare,Other,3.0,10.0,9.0,10.0,5.0,0.0,Neither easy nor difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:01:54,Data Analyst,Yes,0-40,Tech,Python,4.0,4.0,4.0,5.0,2.0,1.0,Difficult,Better Salary,Male,29,Iran,Masters,White or Caucasian,20.0
-0 days 00:02:16,Other,Yes,41-65,Healthcare,R,5.0,7.0,9.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Female,29,United States,Masters,Black or African American,53.0
-0 days 00:01:45,Data Analyst,Yes,0-40,Tech,R,3.0,4.0,4.0,4.0,4.0,2.0,Easy,Better Salary,Male,31,India,Masters,Asian or Asian American,20.0
-0 days 00:01:33,Student/Looking/None,No,0-40,Real Estate,R,0.0,5.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,34,South Africa ,High School,Black or African American,20.0
-0 days 00:02:04,Data Analyst,Yes,0-40,Tech,Python,3.0,2.0,4.0,3.0,7.0,8.0,Easy,Good Work/Life Balance,Male,26,Bangladesh ,Bachelors,Other,20.0
-0 days 00:01:34,Other,No,86-105,Healthcare,Python,4.0,6.0,5.0,6.0,6.0,4.0,Neither easy nor difficult,Remote Work,Female,26,United States,Bachelors,White or Caucasian,95.5
-0 days 00:02:55,Other,Yes,41-65,Other,Other,3.0,6.0,9.0,6.0,5.0,10.0,Difficult,Other,Male,27,United States,Masters,Black or African American,53.0
-0 days 00:01:42,Data Analyst,Yes,66-85,Other,Python,8.0,5.0,9.0,6.0,6.0,10.0,Neither easy nor difficult,Remote Work,Male,26,United States,Bachelors,White or Caucasian,75.5
-0 days 00:03:01,Student/Looking/None,Yes,0-40,Tech,Python,4.0,5.0,4.0,4.0,3.0,4.0,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American,20.0
-0 days 00:01:18,Data Analyst,Yes,41-65,Finance,R,2.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian,53.0
-0 days 00:02:18,Data Analyst,Yes,86-105,Other,Python,4.0,6.0,3.0,4.0,4.0,2.0,Easy,Better Salary,Female,28,Ire,Masters,Other,95.5
-0 days 00:01:18,Data Analyst,Yes,106-125,Other,R,8.0,8.0,10.0,9.0,7.0,5.0,Easy,Better Salary,Male,29,United States,Bachelors,White or Caucasian,115.5
-0 days 00:01:02,Data Analyst,Yes,66-85,Finance,Python,3.0,2.0,1.0,1.0,0.0,2.0,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American,75.5
-0 days 00:01:19,Data Analyst,Yes,41-65,Other,Python,3.0,5.0,3.0,3.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,28,United Kingdom,Bachelors,White or Caucasian,53.0
-0 days 00:04:19,Data Analyst,No,0-40,Finance,Python,6.0,8.0,7.0,6.0,2.0,4.0,Easy,Other,Male,25,France,Masters,White or Caucasian,20.0
-0 days 00:01:30,Data Analyst,Yes,66-85,Finance,R,5.0,7.0,7.0,3.0,7.0,9.0,Difficult,Better Salary,Female,26,United States,Bachelors,Asian or Asian American,75.5
-0 days 00:05:36,Data Engineer,Yes,125-150,Healthcare,Python,6.0,3.0,9.0,5.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,38,United States,Masters,White or Caucasian,137.5
-0 days 00:02:00,Other (Please Specify),Yes,0-40,Other,Other,0.0,3.0,3.0,3.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,20,Nigeria ,High School,Black or African American,20.0
-0 days 00:02:04,Data Analyst,No,66-85,Education,Other,4.0,6.0,7.0,7.0,2.0,2.0,Neither easy nor difficult,Remote Work,Female,45,United States,Masters,Black or African American,75.5
-0 days 00:01:18,Data Analyst,No,86-105,Other,Python,5.0,3.0,5.0,6.0,6.0,4.0,Difficult,Good Work/Life Balance,Male,27,Canada,Masters,Other,95.5
-0 days 00:02:58,Data Analyst,Yes,41-65,Other,Python,3.0,7.0,7.0,7.0,7.0,6.0,Difficult,Good Culture,Male,28,Canada,Masters,Asian or Asian American,53.0
-0 days 00:04:30,Student/Looking/None,Yes,0-40,Other,R,2.0,10.0,10.0,10.0,10.0,3.0,Neither easy nor difficult,Remote Work,Female,29,Germany,Bachelors,Other,20.0
-0 days 00:01:57,Other,No,41-65,Tech,C/C++,7.0,7.0,7.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Female,43,Singapore,High School,Asian or Asian American,53.0
-0 days 00:02:27,Data Analyst,Yes,0-40,Finance,Python,0.0,5.0,9.0,9.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,26,Antigua ,Bachelors,Black or African American,20.0
-0 days 00:04:17,Student/Looking/None,No,41-65,Tech,Other,7.0,8.0,7.0,7.0,8.0,7.0,Neither easy nor difficult,Other,Female,47,United States,Bachelors,Black or African American,53.0
-0 days 00:01:42,Student/Looking/None,Yes,0-40,Finance,Python,4.0,6.0,6.0,8.0,10.0,10.0,Easy,Remote Work,Male,23,Nigeria ,Bachelors,Black or African American,20.0
-0 days 00:01:20,Data Analyst,Yes,0-40,Tech,Python,0.0,1.0,1.0,1.0,1.0,2.0,Very Difficult,Better Salary,Male,25,Egypt,Bachelors,Other,20.0
-0 days 00:02:02,Other,No,0-40,Finance,Python,6.0,6.0,3.0,7.0,2.0,4.0,Very Difficult,Other,Male,32,Poland,Masters,White or Caucasian,20.0
-0 days 00:01:09,Data Analyst,Yes,0-40,Finance,Python,1.0,10.0,10.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Female,25,United States,Bachelors,White or Caucasian,20.0
-0 days 00:02:40,Data Analyst,No,0-40,Finance,Python,1.0,2.0,10.0,1.0,2.0,8.0,Difficult,Remote Work,Female,29,Venezuela,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:11,Data Analyst,No,41-65,Healthcare,Other,3.0,7.0,5.0,5.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,33,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:04:51,Data Analyst,No,106-125,Education,Python,6.0,10.0,10.0,10.0,7.0,6.0,Easy,Other,Male,36,United States,Masters,Asian or Asian American,115.5
-0 days 00:01:32,Data Analyst,Yes,41-65,Healthcare,Python,4.0,10.0,9.0,3.0,0.0,10.0,Difficult,Good Work/Life Balance,Male,25,United States,Bachelors,White or Caucasian,53.0
-0 days 00:03:19,Data Scientist,No,150-225,Other (Please Specify),Python,8.0,7.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,United States,Masters,White or Caucasian,187.5
-0 days 00:03:42,Data Analyst,Yes,66-85,Other,R,3.0,2.0,6.0,6.0,5.0,4.0,Difficult,Good Work/Life Balance,Male,30,United States,Masters,Other,75.5
-0 days 00:01:48,Data Analyst,Yes,41-65,Tech,Python,3.0,5.0,6.0,6.0,6.0,7.0,Difficult,Good Culture,Male,35,United States,Masters,Black or African American,53.0
-0 days 00:01:44,Other,No,41-65,Education,Other,0.0,1.0,10.0,5.0,0.0,0.0,Difficult,Better Salary,Female,42,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:40,Data Analyst,Yes,66-85,Healthcare,Python,3.0,5.0,4.0,6.0,4.0,6.0,Easy,Remote Work,Male,30,United States,Masters,White or Caucasian,75.5
-0 days 00:01:57,Student/Looking/None,Yes,0-40,Other,Python,0.0,0.0,0.0,0.0,0.0,4.0,Very Difficult,Better Salary,Female,25,Nigeria,Bachelors,Black or African American,20.0
-0 days 01:09:45,Data Analyst,No,86-105,Healthcare,Python,5.0,9.0,5.0,2.0,5.0,1.0,Difficult,Good Culture,Female,28,United States,Bachelors,Asian or Asian American,95.5
-0 days 00:04:54,Data Analyst,Yes,0-40,Other,Python,5.0,10.0,8.0,5.0,7.0,10.0,Very Difficult,Other,Male,28,Canada,Bachelors,Asian or Asian American,20.0
-0 days 00:00:59,Student/Looking/None,No,0-40,Other,Other,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Better Salary,Male,20,Malaysia,High School,Asian or Asian American,20.0
-0 days 00:02:26,Data Analyst,Yes,106-125,Construction,Other,7.0,8.0,7.0,7.0,10.0,10.0,Easy,Good Culture,Male,33,United States,Masters,Hispanic or Latino,115.5
-0 days 00:12:09,Data Analyst,No,66-85,Tech,Python,8.0,6.0,7.0,7.0,8.0,8.0,Easy,Better Salary,Male,23,United States,Associates,White or Caucasian,75.5
-0 days 00:00:43,Data Analyst,Yes,0-40,Healthcare,R,4.0,5.0,7.0,7.0,5.0,7.0,Neither easy nor difficult,Better Salary,Female,35,Brazik,Bachelors,Hispanic or Latino,20.0
-0 days 00:04:01,Student/Looking/None,Yes,0-40,Other,Python,2.0,2.0,3.0,3.0,2.0,3.0,Difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:40,Data Analyst,Yes,0-40,Tech,Python,5.0,10.0,5.0,6.0,6.0,8.0,Very Difficult,Better Salary,Male,33,India,Bachelors,Asian or Asian American,20.0
-0 days 00:00:59,Data Engineer,No,0-40,Real Estate,Python,1.0,7.0,7.0,7.0,1.0,2.0,Very Easy,Better Salary,Male,22,United States,Bachelors,White or Caucasian,20.0
-0 days 00:03:27,Data Analyst,Yes,86-105,Other,R,7.0,8.0,8.0,7.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,United States,Bachelors,White or Caucasian,95.5
-0 days 00:02:55,Data Analyst,Yes,66-85,Agriculture,Other,8.0,5.0,6.0,4.0,4.0,8.0,Easy,Good Work/Life Balance,Female,37,United States,Masters,White or Caucasian,75.5
-0 days 00:00:51,Student/Looking/None,Yes,0-40,Finance,Python,4.0,6.0,6.0,5.0,5.0,6.0,Very Easy,Better Salary,Male,22,United States,Associates,Other,20.0
-0 days 00:02:12,Data Analyst,Yes,66-85,Healthcare,Python,10.0,10.0,10.0,7.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian,75.5
-0 days 00:02:29,Data Scientist,Yes,86-105,Other,Python,6.0,5.0,8.0,8.0,7.0,9.0,Easy,Good Work/Life Balance,Male,26,India,Bachelors,Hispanic or Latino,95.5
-0 days 00:05:15,Data Analyst,Yes,0-40,Other,R,3.0,2.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Good Culture,Female,25,South Korea,Bachelors,Asian or Asian American,20.0
-0 days 00:02:55,Data Analyst,Yes,41-65,Other,R,4.0,6.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,34,United States,High School,White or Caucasian,53.0
-0 days 00:02:58,Data Analyst,Yes,0-40,Other,Python,4.0,8.0,8.0,8.0,7.0,8.0,Difficult,Remote Work,Male,33,Chile,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:00,Student/Looking/None,No,41-65,Other,Python,0.0,4.0,0.0,1.0,4.0,2.0,Very Difficult,Good Work/Life Balance,Male,37,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:27,Data Analyst,No,66-85,Other,Python,5.0,5.0,7.0,6.0,4.0,6.0,Very Easy,Better Salary,Female,54,United States,High School,White or Caucasian,75.5
-0 days 00:00:59,Data Analyst,Yes,0-40,Finance,Python,2.0,6.0,6.0,5.0,5.0,6.0,Very Easy,Better Salary,Male,26,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:49,Data Analyst,No,41-65,Education,R,4.0,7.0,7.0,7.0,2.0,7.0,Neither easy nor difficult,Better Salary,Female,27,United States,Masters,Hispanic or Latino,53.0
-0 days 00:02:20,Database Developer,Yes,0-40,Telecommunication,Other,2.0,3.0,6.0,6.0,3.0,5.0,Difficult,Better Salary,Male,24,United Kingdom,Bachelors,White or Caucasian,20.0
-0 days 00:01:41,Data Analyst,Yes,0-40,Finance,Python,5.0,5.0,5.0,5.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,24,Egypt,Bachelors,White or Caucasian,20.0
-0 days 00:01:29,Other,Yes,0-40,Other,Python,3.0,4.0,5.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,27,Panama,Bachelors,White or Caucasian,20.0
-0 days 00:01:37,Student/Looking/None,No,0-40,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,25,indonesia,Bachelors,Asian or Asian American,20.0
-0 days 00:02:47,Data Analyst,Yes,0-40,Tech,Python,1.0,7.0,7.0,7.0,7.0,1.0,Difficult,Better Salary,Female,28,United Kingdom,Masters,Black or African American,20.0
-0 days 00:01:23,Other,No,41-65,Education,Python,3.0,6.0,5.0,5.0,3.0,4.0,Easy,Remote Work,Male,21,United States,Bachelors,Asian or Asian American,53.0
-0 days 00:01:15,Data Analyst,Yes,86-105,Healthcare,Other,4.0,4.0,5.0,5.0,4.0,6.0,Difficult,Good Work/Life Balance,Female,28,United States,Bachelors,White or Caucasian,95.5
-0 days 00:03:20,Data Analyst,Yes,0-40,Tech,Python,3.0,5.0,5.0,5.0,5.0,2.0,Neither easy nor difficult,Remote Work,Male,30,Ghana,Masters,Black or African American,20.0
-0 days 00:02:39,Data Analyst,No,0-40,Education,Python,0.0,10.0,0.0,9.0,5.0,10.0,Easy,Remote Work,Male,24,Angola,Associates,Black or African American,20.0
-0 days 00:02:01,Data Analyst,Yes,0-40,Healthcare,Python,7.0,4.0,6.0,5.0,6.0,6.0,Difficult,Remote Work,Male,26,India,Bachelors,Other,20.0
-0 days 00:03:23,Data Analyst,Yes,0-40,Tech,Python,4.0,6.0,6.0,5.0,5.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,19,Bangladesh ,High School,Asian or Asian American,20.0
-0 days 00:04:03,Student/Looking/None,No,0-40,Other,Python,5.0,6.0,6.0,5.0,1.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Female,92,India,Masters,Asian or Asian American,20.0
-0 days 00:02:33,Data Analyst,Yes,0-40,Healthcare,Python,1.0,8.0,5.0,1.0,7.0,8.0,Neither easy nor difficult,Remote Work,Male,28,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:01:34,Student/Looking/None,Yes,0-40,Education,Python,0.0,1.0,2.0,2.0,1.0,1.0,Neither easy nor difficult,Better Salary,Female,24,India,Masters,Asian or Asian American,20.0
-0 days 00:03:39,Other,No,41-65,Healthcare,Python,7.0,10.0,10.0,10.0,5.0,10.0,Easy,Better Salary,Male,25,United States,Masters,Asian or Asian American,53.0
-0 days 00:04:04,Data Analyst,Yes,41-65,Finance,Python,4.0,5.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,United Kingdom,Masters,Black or African American,53.0
-0 days 00:01:05,Data Analyst,Yes,0-40,Tech,Python,2.0,3.0,3.0,3.0,3.0,3.0,Difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:36,Data Analyst,No,66-85,Healthcare,Python,7.0,8.0,9.0,7.0,7.0,6.0,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian,75.5
-0 days 00:02:32,Data Analyst,Yes,41-65,Healthcare,Python,4.0,7.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Female,26,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:16,Data Analyst,Yes,0-40,Other,Python,2.0,8.0,8.0,9.0,8.0,10.0,Difficult,Better Salary,Male,30,United Kingdom,Bachelors,White or Caucasian,20.0
-0 days 00:05:51,Data Engineer,Yes,86-105,Other,Other,6.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,27,United States,Bachelors,Black or African American,95.5
-0 days 00:02:01,Data Engineer,Yes,0-40,Tech,Python,0.0,4.0,1.0,0.0,1.0,3.0,Easy,Better Salary,Male,28,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:27,Data Analyst,No,66-85,Real Estate,Other,6.0,8.0,7.0,7.0,5.0,6.0,Easy,Better Salary,Female,29,United Kingdom,Bachelors,White or Caucasian,75.5
-0 days 00:02:43,Data Analyst,No,0-40,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:47,Data Engineer,Yes,0-40,Finance,Python,3.0,3.0,3.0,3.0,3.0,4.0,Neither easy nor difficult,Remote Work,Male,29,Africa (Nigeria),Bachelors,Black or African American,20.0
-0 days 00:01:51,Other,No,66-85,Finance,Other,3.0,5.0,7.0,2.0,5.0,7.0,Easy,Remote Work,Male,60,United Kingdom,Masters,White or Caucasian,75.5
-0 days 00:01:55,Data Analyst,Yes,0-40,Healthcare,Python,5.0,8.0,8.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,Nigeria ,Bachelors,Black or African American,20.0
-0 days 00:03:13,Other,No,0-40,Construction,R,0.0,0.0,1.0,3.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,37,Nigeria ,Masters,Other,20.0
-0 days 00:01:31,Data Analyst,Yes,66-85,Finance,Python,6.0,8.0,3.0,4.0,5.0,1.0,Neither easy nor difficult,Better Salary,Female,30,Canada,Bachelors,Asian or Asian American,75.5
-0 days 00:04:48,Data Analyst,Yes,0-40,Healthcare,Python,0.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Better Salary,Female,27,Nigeria ,Masters,Black or African American,20.0
-0 days 00:01:04,Data Scientist,Yes,225,Tech,R,5.0,6.0,5.0,5.0,6.0,6.0,Difficult,Other,Male,31,United States,PhD,White or Caucasian,225.0
-0 days 00:02:11,Student/Looking/None,No,0-40,Other,R,10.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,United Kingdom,Masters,Asian or Asian American,20.0
-0 days 00:03:11,Data Analyst,No,0-40,Finance,Other,0.0,6.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,20,United States,Bachelors,Black or African American,20.0
-0 days 00:02:30,Other,No,0-40,Tech,R,2.0,1.0,4.0,1.0,1.0,1.0,Easy,Good Work/Life Balance,Male,24,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:32,Student/Looking/None,Yes,0-40,Other,R,3.0,6.0,7.0,6.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,Romania,Bachelors,White or Caucasian,20.0
-0 days 00:01:30,Student/Looking/None,No,0-40,Other,R,0.0,1.0,3.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Spain,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:12,Data Analyst,Yes,86-105,Tech,R,8.0,8.0,8.0,8.0,8.0,8.0,Difficult,Better Salary,Male,41,United States,Bachelors,White or Caucasian,95.5
-0 days 00:01:52,Other,No,150-225,Other,Python,9.0,8.0,9.0,10.0,8.0,10.0,Neither easy nor difficult,Good Culture,Male,43,United States,Bachelors,White or Caucasian,187.5
-0 days 00:01:53,Data Analyst,No,66-85,Healthcare,Python,7.0,7.0,8.0,4.0,6.0,9.0,Easy,Remote Work,Female,38,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:53,Data Analyst,Yes,0-40,Other,Python,5.0,5.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,28,Philippines,Bachelors,Asian or Asian American,20.0
-0 days 00:01:30,Data Analyst,Yes,86-105,Healthcare,Python,10.0,8.0,6.0,10.0,7.0,5.0,Neither easy nor difficult,Good Culture,Female,31,Germany,Bachelors,Hispanic or Latino,95.5
-0 days 00:01:31,Data Analyst,Yes,86-105,Other,Other,8.0,7.0,8.0,6.0,7.0,8.0,Difficult,Good Work/Life Balance,Female,28,United States,Masters,White or Caucasian,95.5
-0 days 00:00:55,Data Analyst,No,41-65,Healthcare,C/C++,7.0,8.0,9.0,9.0,4.0,9.0,Easy,Remote Work,Male,23,United States,Masters,Asian or Asian American,53.0
-0 days 00:01:47,Data Analyst,No,41-65,Other,Python,5.0,5.0,4.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,United Kingdom,Bachelors,Black or African American,53.0
-0 days 00:01:22,Other,No,0-40,Tech,R,2.0,5.0,2.0,8.0,9.0,10.0,Difficult,Remote Work,Male,26,Poland,Masters,White or Caucasian,20.0
-0 days 00:00:47,Data Scientist,Yes,125-150,Finance,Python,9.0,4.0,8.0,7.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,35,United States,Bachelors,White or Caucasian,137.5
-0 days 00:01:43,Data Analyst,Yes,106-125,Other,R,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Remote Work,Male,30,Denmark,Masters,White or Caucasian,115.5
-0 days 00:01:38,Data Analyst,Yes,86-105,Tech,R,3.0,6.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,35,United Kingdom,Bachelors,White or Caucasian,95.5
-0 days 00:02:06,Data Analyst,Yes,0-40,Telecommunication,Python,0.0,8.0,5.0,5.0,2.0,2.0,Easy,Better Salary,Male,28,Panama,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:01,Student/Looking/None,No,0-40,Tech,Python,0.0,2.0,3.0,3.0,2.0,3.0,Easy,Good Work/Life Balance,Female,24,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:04:32,Data Analyst,Yes,41-65,Tech,Python,8.0,10.0,7.0,5.0,6.0,5.0,Neither easy nor difficult,Good Culture,Female,34,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:52,Data Analyst,Yes,41-65,Tech,Python,3.0,5.0,4.0,5.0,3.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,Germany,Masters,White or Caucasian,53.0
-0 days 00:01:06,Data Analyst,Yes,0-40,Tech,Python,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Good Work/Life Balance,Male,30,United Kingdom,Masters,Asian or Asian American,20.0
-0 days 00:01:28,Data Engineer,Yes,86-105,Other,JavaScript,4.0,4.0,1.0,6.0,1.0,5.0,Difficult,Better Salary,Male,40,United Kingdom,Bachelors,White or Caucasian,95.5
-0 days 00:02:02,Data Analyst,No,41-65,Other,R,4.0,10.0,10.0,10.0,8.0,6.0,Very Difficult,Better Salary,Male,26,United States,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:00,Data Analyst,No,125-150,Healthcare,R,9.0,9.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Good Culture,Male,25,United States,Bachelors,White or Caucasian,137.5
-0 days 00:02:27,Data Analyst,Yes,0-40,Other,Other,4.0,5.0,8.0,4.0,8.0,4.0,Easy,Good Culture,Male,45,Greece,Associates,White or Caucasian,20.0
-0 days 00:03:12,Data Analyst,No,41-65,Finance,R,7.0,9.0,8.0,6.0,6.0,9.0,Neither easy nor difficult,Good Culture,Male,26,United States,Masters,Black or African American,53.0
-0 days 00:01:43,Data Scientist,No,0-40,Finance,Python,7.0,7.0,8.0,6.0,6.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,India,Masters,Other,20.0
-0 days 00:02:44,Other,Yes,0-40,Finance,Python,3.0,2.0,4.0,2.0,2.0,3.0,Difficult,Better Salary,Male,23,India,Masters,Asian or Asian American,20.0
-0 days 00:00:56,Data Engineer,Yes,106-125,Tech,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American,115.5
-0 days 00:01:11,Data Analyst,Yes,41-65,Healthcare,R,4.0,5.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,33,United States,High School,White or Caucasian,53.0
-0 days 00:02:02,Other,No,0-40,Other,Other,6.0,3.0,3.0,6.0,6.0,4.0,Very Easy,Other,Male,33,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:13,Data Analyst,Yes,86-105,Healthcare,R,7.0,8.0,7.0,8.0,3.0,4.0,Easy,Good Culture,Male,27,United States,Bachelors,White or Caucasian,95.5
-0 days 00:01:59,Data Analyst,Yes,106-125,Tech,Python,9.0,9.0,9.0,8.0,8.0,9.0,Difficult,Remote Work,Female,28,United States,Masters,Hispanic or Latino,115.5
-0 days 00:03:18,Data Analyst,Yes,66-85,Tech,Python,5.0,6.0,7.0,6.0,6.0,7.0,Very Easy,Better Salary,Male,32,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:01:24,Data Analyst,Yes,0-40,Tech,Python,2.0,6.0,3.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,35,India,Masters,Asian or Asian American,20.0
-0 days 00:01:49,Data Analyst,Yes,86-105,Real Estate,Python,8.0,9.0,10.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,34,United States,Masters,Hispanic or Latino,95.5
-0 days 00:01:39,Data Analyst,No,41-65,Other,Python,9.0,8.0,3.0,5.0,2.0,4.0,Easy,Better Salary,Male,27,Germany,Masters,White or Caucasian,53.0
-0 days 00:02:30,Other,Yes,66-85,Education,R,4.0,5.0,5.0,3.0,3.0,4.0,Easy,Good Culture,Female,30,United States,Masters,White or Caucasian,75.5
-0 days 00:02:06,Data Analyst,No,66-85,Other,Python,8.0,9.0,9.0,9.0,9.0,10.0,Neither easy nor difficult,Better Salary,Male,34,United States,Masters,White or Caucasian,75.5
-0 days 00:02:20,Other,No,41-65,Other,Python,3.0,10.0,6.0,5.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,22,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:02,Data Analyst,Yes,0-40,Finance,Python,2.0,2.0,5.0,5.0,2.0,3.0,Very Difficult,Good Work/Life Balance,Female,33,India,Masters,Asian or Asian American,20.0
-0 days 00:01:53,Data Analyst,No,0-40,Finance,Python,8.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Female,26,India,Masters,Asian or Asian American,20.0
-0 days 00:01:36,Data Engineer,Yes,0-40,Tech,Python,0.0,5.0,8.0,6.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,28,Argentina,Bachelors,Hispanic or Latino,20.0
-0 days 00:05:32,Other,No,0-40,Other,Python,2.0,2.0,7.0,4.0,8.0,1.0,Difficult,Remote Work,Male,42,United Kingdom,Bachelors,Other,20.0
-0 days 00:02:06,Data Analyst,No,0-40,Other,R,4.0,10.0,2.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,30,Morocco,Masters,Other,20.0
-0 days 00:01:22,Data Scientist,Yes,106-125,Tech,Other,10.0,9.0,8.0,8.0,9.0,10.0,Difficult,Better Salary,Male,25,United States,Associates,White or Caucasian,115.5
-0 days 00:01:00,Data Analyst,Yes,41-65,Construction,Python,4.0,6.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,32,United States,Bachelors,Black or African American,53.0
-0 days 00:01:56,Data Analyst,No,0-40,Tech,Python,3.0,4.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,31,Germany,Masters,Asian or Asian American,20.0
-0 days 10:34:43,Data Analyst,Yes,150-225,Education,Python,8.0,7.0,5.0,4.0,7.0,7.0,Easy,Remote Work,Male,30,UAE,High School,White or Caucasian,187.5
-0 days 00:02:26,Student/Looking/None,Yes,0-40,Other,Python,0.0,6.0,6.0,2.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American,20.0
-0 days 00:02:17,Other,No,66-85,Education,R,7.0,7.0,6.0,7.0,6.0,6.0,Easy,Remote Work,Female,31,United Kingdom,Bachelors,White or Caucasian,75.5
-0 days 00:02:40,Data Analyst,No,41-65,Other,Python,7.0,5.0,9.0,9.0,4.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Female,29,Fin,Masters,Black or African American,53.0
-0 days 00:02:38,Data Analyst,Yes,0-40,Tech,Python,5.0,4.0,4.0,5.0,7.0,10.0,Neither easy nor difficult,Remote Work,Male,24,Nigeria,Bachelors,Other,20.0
-0 days 00:02:38,Other,No,41-65,Other,Python,2.0,7.0,6.0,5.0,6.0,4.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,Asian or Asian American,53.0
-0 days 00:02:29,Data Analyst,Yes,41-65,Real Estate,R,4.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,32,United States,Masters,White or Caucasian,53.0
-0 days 00:03:55,Other,Yes,86-105,Healthcare,Python,8.0,9.0,7.0,7.0,7.0,9.0,Difficult,Remote Work,Female,36,United States,Bachelors,White or Caucasian,95.5
-0 days 00:01:53,Data Engineer,No,106-125,Healthcare,Other,8.0,6.0,5.0,2.0,3.0,2.0,Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian,115.5
-0 days 00:05:09,Student/Looking/None,Yes,0-40,Other,R,0.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,Sudan,Masters,Black or African American,20.0
-0 days 00:03:26,Data Analyst,Yes,86-105,Healthcare,Other,6.0,6.0,6.0,5.0,4.0,4.0,Easy,Remote Work,Male,53,Austr,PhD,White or Caucasian,95.5
-0 days 00:03:17,Data Analyst,No,0-40,Finance,Python,1.0,7.0,4.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,25,Kenya,High School,Other,20.0
-0 days 00:02:21,Data Analyst,No,0-40,Healthcare,Python,1.0,5.0,4.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,23,Leba,Bachelors,White or Caucasian,20.0
-0 days 00:03:25,Data Analyst,Yes,0-40,Agriculture,Python,2.0,1.0,3.0,3.0,3.0,4.0,Difficult,Better Salary,Male,36,Saudi Arabia,Bachelors,Other,20.0
-0 days 00:09:42,Data Analyst,Yes,41-65,Healthcare,Other,4.0,6.0,6.0,5.0,5.0,6.0,Easy,Good Work/Life Balance,Male,32,United Arab Emirates ,Bachelors,Other,53.0
-0 days 00:01:23,Data Analyst,No,86-105,Finance,Python,3.0,6.0,4.0,2.0,2.0,3.0,Difficult,Other,Male,25,United States,Masters,Hispanic or Latino,95.5
-0 days 00:03:19,Data Engineer,Yes,41-65,Tech,Python,4.0,4.0,3.0,4.0,4.0,5.0,Neither easy nor difficult,Remote Work,Female,35,United Kingdom,Masters,Asian or Asian American,53.0
-0 days 00:01:19,Data Analyst,Yes,66-85,Other,R,3.0,4.0,4.0,5.0,4.0,4.0,Very Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:07,Student/Looking/None,No,0-40,Tech,Python,2.0,7.0,9.0,7.0,3.0,3.0,Difficult,Remote Work,Male,22,United States,Bachelors,White or Caucasian,20.0
-0 days 00:01:43,Data Scientist,Yes,86-105,Other,Python,6.0,8.0,10.0,9.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,30,Canada,Masters,Asian or Asian American,95.5
-0 days 00:02:37,Data Analyst,Yes,66-85,Other,Python,2.0,8.0,6.0,1.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian,75.5
-0 days 00:02:25,Data Analyst,Yes,66-85,Healthcare,R,4.0,4.0,5.0,5.0,4.0,6.0,Neither easy nor difficult,Other,Female,30,United States,Masters,White or Caucasian,75.5
-0 days 00:01:35,Data Scientist,Yes,106-125,Finance,Python,9.0,8.0,10.0,10.0,10.0,10.0,Difficult,Remote Work,Male,29,United States,Bachelors,Asian or Asian American,115.5
-0 days 00:04:47,Other,Yes,66-85,Other,R,8.0,10.0,10.0,7.0,8.0,5.0,Difficult,Other,Male,30,United States,Masters,White or Caucasian,75.5
-0 days 00:01:03,Data Engineer,No,41-65,Finance,Python,0.0,6.0,6.0,6.0,6.0,6.0,Very Easy,Better Salary,Male,24,United States,Bachelors,Black or African American,53.0
-0 days 00:01:37,Data Engineer,Yes,225,Tech,Other,3.0,3.0,4.0,4.0,3.0,5.0,Neither easy nor difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American,225.0
-0 days 00:01:37,Data Analyst,No,106-125,Other,Python,10.0,10.0,10.0,10.0,10.0,6.0,Easy,Better Salary,Female,42,United States,Bachelors,White or Caucasian,115.5
-0 days 00:01:54,Data Analyst,Yes,41-65,Healthcare,Python,1.0,10.0,10.0,8.0,10.0,3.0,Neither easy nor difficult,Better Salary,Female,36,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:43,Data Analyst,Yes,41-65,Other,Python,2.0,3.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,27,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:35,Data Analyst,No,0-40,Tech,Python,8.0,7.0,8.0,7.0,7.0,9.0,Easy,Other,Female,21,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:31,Data Analyst,Yes,41-65,Healthcare,Python,8.0,5.0,8.0,8.0,5.0,10.0,Difficult,Remote Work,Female,34,Israel,Masters,White or Caucasian,53.0
-0 days 00:01:20,Student/Looking/None,No,0-40,Education,Python,2.0,5.0,5.0,5.0,2.0,4.0,Difficult,Better Salary,Male,27,Netherlands,Bachelors,White or Caucasian,20.0
-0 days 00:01:58,Other,Yes,0-40,Tech,Python,7.0,8.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Good Culture,Male,27,France,Masters,White or Caucasian,20.0
-0 days 00:03:34,Student/Looking/None,No,0-40,Education,R,1.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,Kenya,Associates,Other,20.0
-0 days 00:01:29,Data Analyst,Yes,66-85,Other,Other,2.0,0.0,0.0,0.0,0.0,2.0,Difficult,Better Salary,Female,33,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:57,Data Analyst,Yes,86-105,Finance,Python,3.0,3.0,4.0,4.0,4.0,4.0,Difficult,Good Culture,Male,47,India,Masters,American Indian or Alaska Native,95.5
-0 days 00:01:34,Data Analyst,Yes,66-85,Other,Other,4.0,5.0,4.0,5.0,4.0,4.0,Difficult,Other,Male,27,United States,Masters,Asian or Asian American,75.5
-0 days 00:03:19,Data Analyst,No,0-40,Healthcare,Python,6.0,7.0,8.0,7.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,26,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:41,Data Analyst,No,0-40,Finance,Python,2.0,3.0,2.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,35,India,Masters,Asian or Asian American,20.0
-0 days 00:01:11,Data Analyst,Yes,86-105,Education,Python,0.0,1.0,1.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,31,United States,Masters,Hispanic or Latino,95.5
-0 days 00:03:44,Data Analyst,Yes,0-40,Education,Python,2.0,1.0,2.0,3.0,4.0,3.0,Difficult,Remote Work,Male,25,Zambia,Bachelors,Black or African American,20.0
-0 days 00:02:11,Data Engineer,Yes,66-85,Real Estate,Python,3.0,10.0,8.0,8.0,10.0,10.0,Easy,Remote Work,Male,27,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:57,Data Analyst,Yes,41-65,Tech,Python,5.0,8.0,3.0,2.0,4.0,8.0,Neither easy nor difficult,Good Culture,Male,32,Netherlands,Bachelors,White or Caucasian,53.0
-0 days 00:02:42,Student/Looking/None,Yes,0-40,Real Estate,Python,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Good Work/Life Balance,Male,47,Portugal,Bachelors,White or Caucasian,20.0
-0 days 00:01:31,Other,No,66-85,Finance,Python,0.0,10.0,10.0,5.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Female,30,United States,Masters,Asian or Asian American,75.5
-0 days 00:01:52,Data Analyst,Yes,106-125,Other,Python,8.0,6.0,6.0,7.0,9.0,10.0,Easy,Better Salary,Female,35,United States,Masters,Black or African American,115.5
-0 days 00:02:16,Data Analyst,Yes,41-65,Finance,Python,6.0,9.0,5.0,7.0,8.0,9.0,Difficult,Remote Work,Male,25,United States,High School,Hispanic or Latino,53.0
-0 days 00:03:02,Other,No,66-85,Other,Python,3.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,United States,Bachelors,White or Caucasian,75.5
-0 days 00:01:20,Data Analyst,Yes,41-65,Healthcare,R,1.0,5.0,3.0,3.0,6.0,5.0,Difficult,Remote Work,Female,27,United States,Masters,Black or African American,53.0
-0 days 00:01:52,Student/Looking/None,No,0-40,Other,Python,1.0,8.0,8.0,1.0,3.0,7.0,Very Easy,Better Salary,Female,23,India,Masters,Asian or Asian American,20.0
-0 days 00:02:10,Data Scientist,No,41-65,Other,Python,9.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,18,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:42,Data Analyst,Yes,0-40,Healthcare,Python,8.0,10.0,9.0,6.0,8.0,9.0,Easy,Remote Work,Female,28,Costa Rica ,Masters,Hispanic or Latino,20.0
-0 days 00:01:20,Other,Yes,125-150,Healthcare,Python,7.0,6.0,8.0,8.0,8.0,7.0,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian,137.5
-0 days 00:01:35,Student/Looking/None,No,0-40,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,United States,Bachelors,American Indian or Alaska Native,20.0
-0 days 00:01:57,Student/Looking/None,No,0-40,Education,Python,0.0,0.0,3.0,0.0,0.0,8.0,Difficult,Better Salary,Male,27,ghana,Bachelors,Black or African American,20.0
-0 days 00:02:48,Data Analyst,No,41-65,Tech,Python,9.0,7.0,9.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,India,Masters,Asian or Asian American,53.0
-0 days 00:01:56,Data Analyst,Yes,0-40,Tech,R,0.0,8.0,7.0,6.0,3.0,9.0,Very Difficult,Better Salary,Male,27,United States,High School,White or Caucasian,20.0
-0 days 00:01:43,Data Engineer,Yes,0-40,Other,Python,5.0,7.0,6.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:46,Data Analyst,Yes,0-40,Tech,Python,3.0,2.0,4.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Male,25,Nigeria,High School,Black or African American,20.0
-0 days 00:01:52,Data Analyst,No,0-40,Healthcare,Python,2.0,6.0,6.0,7.0,7.0,9.0,Difficult,Better Salary,Male,32,United Kingdom,Bachelors,Hispanic or Latino,20.0
-0 days 00:10:34,Student/Looking/None,Yes,0-40,Finance,Other,7.0,9.0,10.0,10.0,3.0,4.0,Easy,Remote Work,Male,33,Uruguay,Bachelors,White or Caucasian,20.0
-0 days 00:02:53,Data Analyst,No,41-65,Other,Python,5.0,6.0,5.0,2.0,3.0,3.0,Easy,Remote Work,Male,23,Canada,Masters,Black or African American,53.0
-0 days 00:01:49,Student/Looking/None,Yes,0-40,Finance,R,4.0,5.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,40,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:02:39,Data Analyst,Yes,41-65,Other,Python,7.0,9.0,9.0,9.0,7.0,9.0,Easy,Better Salary,Female,28,United Kingdom,Bachelors,Asian or Asian American,53.0
-0 days 00:03:50,Data Analyst,No,0-40,Real Estate,R,3.0,7.0,8.0,6.0,6.0,9.0,Difficult,Remote Work,Male,26,Nigeria,High School,Black or African American,20.0
-0 days 00:03:59,Other,Yes,0-40,Tech,Python,3.0,5.0,5.0,4.0,3.0,2.0,Difficult,Better Salary,Female,24,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:04,Other,Yes,86-105,Finance,Python,7.0,5.0,5.0,8.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,40,United States,Associates,Other,95.5
-0 days 00:01:46,Data Analyst,Yes,66-85,Other,Python,8.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Male,26,United States,Bachelors,Black or African American,75.5
-0 days 00:02:29,Data Scientist,Yes,41-65,Other,Python,8.0,8.0,10.0,10.0,10.0,10.0,Easy,Good Culture,Female,44,United Kingdom,Bachelors,White or Caucasian,53.0
-0 days 00:01:58,Other,Yes,66-85,Other,Python,7.0,9.0,8.0,8.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian,75.5
-0 days 00:01:37,Other,Yes,0-40,Other,Python,1.0,5.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,30,Costa Rica,Bachelors,Hispanic or Latino,20.0
-0 days 00:04:36,Other,Yes,0-40,Other,Python,3.0,3.0,3.0,2.0,2.0,2.0,Very Easy,Good Work/Life Balance,Male,48,Indonesia,Masters,Other,20.0
-0 days 00:03:16,Data Analyst,Yes,41-65,Construction,Other,1.0,4.0,1.0,2.0,2.0,3.0,Easy,Better Salary,Female,30,Canada,Masters,Asian or Asian American,53.0
-0 days 00:04:53,Other,No,0-40,Telecommunication,Python,3.0,8.0,8.0,5.0,3.0,5.0,Difficult,Better Salary,Male,28,India,Bachelors,Other,20.0
-0 days 00:01:58,Other,No,0-40,Tech,Python,5.0,8.0,7.0,7.0,3.0,2.0,Difficult,Better Salary,Male,25,India,Bachelors,Other,20.0
-0 days 00:01:30,Other,No,106-125,Tech,Other,6.0,5.0,4.0,4.0,3.0,4.0,Easy,Better Salary,Male,24,United States,Masters,American Indian or Alaska Native,115.5
-0 days 00:02:51,Data Analyst,Yes,41-65,Other,Python,5.0,10.0,7.0,7.0,4.0,8.0,Easy,Better Salary,Male,31,United States,Bachelors,Black or African American,53.0
-0 days 00:01:47,Data Engineer,No,0-40,Real Estate,Python,3.0,3.0,8.0,9.0,5.0,3.0,Easy,Better Salary,Male,23,United Kingdom,Bachelors,Other,20.0
-0 days 00:03:06,Data Analyst,No,41-65,Other,Other,1.0,4.0,4.0,1.0,1.0,4.0,Easy,Good Culture,Female,48,United Kingdom,Masters,White or Caucasian,53.0
-0 days 00:01:00,Data Analyst,Yes,66-85,Healthcare,Python,6.0,9.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,28,United States,Bachelors,Black or African American,75.5
-0 days 00:02:04,Data Analyst,Yes,41-65,Other,Python,5.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Male,32,United Kingdom,Masters,Hispanic or Latino,53.0
-0 days 00:04:45,Data Scientist,Yes,41-65,Finance,Python,5.0,7.0,7.0,4.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,30,Hong Kong,Bachelors,Asian or Asian American,53.0
-0 days 00:03:29,Data Analyst,Yes,0-40,Other,Python,5.0,5.0,7.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,32,TUNISIA,Masters,White or Caucasian,20.0
-0 days 00:01:50,Data Analyst,Yes,0-40,Tech,Python,0.0,3.0,0.0,1.0,0.0,0.0,Easy,Good Culture,Female,30,Sri lanka,Masters,Other,20.0
-0 days 00:02:49,Data Analyst,Yes,0-40,Other,Python,4.0,2.0,5.0,2.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Spain,Masters,White or Caucasian,20.0
-0 days 00:03:13,Student/Looking/None,Yes,0-40,Tech,R,4.0,6.0,6.0,5.0,5.0,10.0,Easy,Remote Work,Female,38,United Kingdom,Masters,Black or African American,20.0
-0 days 00:01:09,Other,Yes,66-85,Other,Python,6.0,6.0,7.0,7.0,6.0,7.0,Easy,Good Culture,Female,30,United States,Masters,Asian or Asian American,75.5
-0 days 00:01:26,Data Analyst,Yes,41-65,Tech,Python,3.0,3.0,5.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,48,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:26,Data Analyst,Yes,66-85,Finance,Other,5.0,8.0,5.0,5.0,5.0,4.0,Easy,Remote Work,Male,32,Canada,Masters,Asian or Asian American,75.5
-0 days 00:01:12,Other,Yes,41-65,Telecommunication,Python,4.0,5.0,4.0,5.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,27,India,Bachelors,American Indian or Alaska Native,53.0
-0 days 00:01:34,Other,No,41-65,Tech,Python,7.0,9.0,5.0,6.0,6.0,7.0,Easy,Other,Male,27,United Kingdom,Masters,White or Caucasian,53.0
-0 days 00:02:45,Student/Looking/None,No,0-40,Finance,Python,8.0,7.0,6.0,7.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,24,Kenua,Bachelors,Other,20.0
-0 days 00:00:43,Data Scientist,Yes,150-225,Finance,R,9.0,9.0,9.0,9.0,8.0,8.0,Difficult,Better Salary,Male,42,United States,PhD,Asian or Asian American,187.5
-0 days 00:02:58,Other,No,41-65,Tech,Python,8.0,6.0,6.0,8.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,24,United States,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:08,Database Developer,Yes,0-40,Tech,Python,5.0,9.0,7.0,7.0,6.0,9.0,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:21,Data Analyst,No,0-40,Tech,Python,7.0,9.0,8.0,8.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,26,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:01,Data Analyst,No,41-65,Other,Other,5.0,6.0,6.0,2.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,32,Germany,Bachelors,Black or African American,53.0
-0 days 00:02:52,Other,No,0-40,Telecommunication,Python,4.0,3.0,2.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,Argentina ,Bachelors,White or Caucasian,20.0
-0 days 00:01:18,Data Analyst,Yes,106-125,Healthcare,Python,4.0,3.0,4.0,2.0,2.0,2.0,Easy,Good Work/Life Balance,Male,41,United States,High School,White or Caucasian,115.5
-0 days 00:00:59,Other,No,41-65,Education,Python,4.0,9.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,25,United States,Masters,White or Caucasian,53.0
-0 days 00:01:04,Data Analyst,Yes,0-40,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Female,28,United States,Masters,Asian or Asian American,20.0
-0 days 00:00:50,Data Analyst,Yes,41-65,Agriculture,Python,3.0,6.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian,53.0
-0 days 00:01:30,Student/Looking/None,No,0-40,Telecommunication,Python,8.0,10.0,6.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,19,United States,High School,White or Caucasian,20.0
-0 days 00:01:25,Data Analyst,Yes,41-65,Other,Python,5.0,6.0,9.0,6.0,7.0,10.0,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American,53.0
-0 days 00:01:33,Student/Looking/None,Yes,0-40,Finance,Python,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,25,Other (Please Specify),Bachelors,White or Caucasian,20.0
-0 days 00:01:46,Data Analyst,Yes,41-65,Other,Python,6.0,10.0,10.0,10.0,10.0,8.0,Difficult,Better Salary,Female,26,Canada,Masters,Asian or Asian American,53.0
-0 days 00:02:42,Data Analyst,Yes,0-40,Healthcare,Python,3.0,4.0,5.0,5.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,25,Spain,Bachelors,White or Caucasian,20.0
-0 days 00:00:50,Data Analyst,Yes,0-40,Other,Python,6.0,6.0,9.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,25,Portugal,Bachelors,White or Caucasian,20.0
-0 days 00:01:57,Data Analyst,Yes,0-40,Healthcare,R,2.0,3.0,4.0,3.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,Liberia,Bachelors,Black or African American,20.0
-0 days 00:01:07,Data Analyst,Yes,125-150,Education,Python,8.0,8.0,7.0,6.0,7.0,9.0,Neither easy nor difficult,Good Culture,Male,35,United States,Bachelors,White or Caucasian,137.5
-0 days 00:01:23,Data Analyst,Yes,86-105,Other,Python,6.0,7.0,7.0,6.0,7.0,6.0,Difficult,Remote Work,Male,29,United States,Masters,Black or African American,95.5
-0 days 00:01:45,Data Analyst,Yes,86-105,Tech,Python,7.0,6.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Better Salary,Female,41,United States,Associates,Hispanic or Latino,95.5
-0 days 00:01:15,Student/Looking/None,No,0-40,Education,Python,0.0,6.0,4.0,5.0,2.0,4.0,Very Difficult,Remote Work,Female,22,United States,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:30,Data Analyst,Yes,66-85,Healthcare,Other,2.0,6.0,6.0,4.0,3.0,3.0,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino,75.5
-0 days 00:02:04,Data Analyst,Yes,66-85,Finance,Python,4.0,3.0,4.0,4.0,4.0,6.0,Very Difficult,Better Salary,Male,30,SG,Bachelors,Asian or Asian American,75.5
-0 days 00:01:13,Data Engineer,No,150-225,Real Estate,Python,4.0,6.0,3.0,2.0,3.0,3.0,Neither easy nor difficult,Good Culture,Male,37,Canada,Bachelors,Asian or Asian American,187.5
-0 days 00:03:15,Data Analyst,Yes,66-85,Other,Python,6.0,7.0,7.0,5.0,5.0,9.0,Difficult,Better Salary,Female,28,United States,Masters,Black or African American,75.5
-0 days 00:00:58,Data Analyst,No,86-105,Real Estate,Python,7.0,5.0,6.0,6.0,4.0,6.0,Neither easy nor difficult,Good Culture,Male,23,United States,High School,White or Caucasian,95.5
-0 days 00:01:54,Student/Looking/None,No,0-40,Finance,Python,3.0,4.0,8.0,5.0,5.0,3.0,Neither easy nor difficult,Better Salary,Male,26,United States,High School,Asian or Asian American,20.0
-0 days 00:01:22,Data Analyst,No,66-85,Other,Python,2.0,4.0,4.0,3.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,Australia,Bachelors,Native Hawaiian or other Pacific Islander,75.5
-0 days 00:01:27,Data Analyst,No,0-40,Tech,Python,0.0,1.0,2.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:53,Student/Looking/None,Yes,0-40,Other,Other,0.0,1.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,53,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:01:37,Data Engineer,Yes,0-40,Tech,Python,4.0,6.0,6.0,3.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,33,Romania,Bachelors,White or Caucasian,20.0
-0 days 00:04:29,Student/Looking/None,Yes,0-40,Finance,R,3.0,5.0,5.0,4.0,5.0,6.0,Difficult,Better Salary,Male,39,Other (Please Specify),High School,Black or African American,20.0
-0 days 00:01:05,Data Analyst,Yes,0-40,Healthcare,Other,6.0,7.0,5.0,7.0,7.0,9.0,Difficult,Better Salary,Female,22,United Kingdom,Bachelors,White or Caucasian,20.0
-0 days 00:01:34,Data Analyst,No,41-65,Finance,Python,4.0,7.0,7.0,7.0,5.0,5.0,Easy,Better Salary,Male,24,Germany,Bachelors,White or Caucasian,53.0
-0 days 00:01:36,Data Architect,No,86-105,Other,Python,5.0,1.0,3.0,1.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,31,Canada,High School,White or Caucasian,95.5
-0 days 00:00:53,Data Analyst,Yes,0-40,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,25,Aisa,Bachelors,Asian or Asian American,20.0
-0 days 00:02:07,Student/Looking/None,No,0-40,Tech,R,4.0,7.0,7.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:07,Data Analyst,No,0-40,Tech,Python,3.0,4.0,4.0,4.0,2.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:56,Other,Yes,41-65,Other,Other,6.0,7.0,7.0,7.0,7.0,6.0,Neither easy nor difficult,Other,Male,23,India,Bachelors,Asian or Asian American,53.0
-0 days 00:01:35,Data Analyst,No,86-105,Healthcare,Python,8.0,9.0,8.0,8.0,8.0,9.0,Difficult,Better Salary,Male,40,United States,High School,White or Caucasian,95.5
-0 days 00:02:02,Data Analyst,No,41-65,Other,C/C++,5.0,6.0,6.0,2.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,Hispanic or Latino,53.0
-0 days 00:03:16,Data Analyst,Yes,0-40,Tech,Python,1.0,7.0,5.0,5.0,4.0,4.0,Difficult,Better Salary,Male,28,India,Bachelors,Other,20.0
-0 days 00:01:44,Data Analyst,Yes,0-40,Healthcare,R,3.0,6.0,6.0,4.0,6.0,3.0,Very Easy,Better Salary,Female,28,United Kingdom,Masters,Black or African American,20.0
-0 days 00:01:02,Student/Looking/None,Yes,0-40,Telecommunication,Python,0.0,3.0,3.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Female,26,India,Masters,Asian or Asian American,20.0
-0 days 00:02:43,Data Engineer,No,41-65,Construction,Python,6.0,8.0,8.0,5.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,30,Netherlands,Masters,White or Caucasian,53.0
-0 days 00:01:26,Data Analyst,Yes,66-85,Education,Other,5.0,9.0,7.0,9.0,8.0,9.0,Neither easy nor difficult,Better Salary,Male,27,Australia,Bachelors,Asian or Asian American,75.5
-0 days 00:01:24,Data Analyst,Yes,0-40,Other,Other,2.0,0.0,5.0,3.0,0.0,3.0,Very Difficult,Remote Work,Male,28,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:02:08,Data Analyst,No,66-85,Education,Python,3.0,3.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,38,Nigeria,Masters,Black or African American,75.5
-0 days 00:01:56,Data Analyst,No,0-40,Finance,Python,2.0,6.0,5.0,5.0,6.0,6.0,Easy,Good Culture,Male,22,Mexico,Bachelors,White or Caucasian,20.0
-0 days 00:01:32,Data Analyst,Yes,86-105,Other,Python,7.0,8.0,9.0,9.0,9.0,9.0,Difficult,Better Salary,Male,34,United States,Bachelors,Hispanic or Latino,95.5
-0 days 00:02:07,Data Analyst,No,0-40,Tech,Python,3.0,8.0,8.0,5.0,7.0,9.0,Easy,Better Salary,Male,26,Indonesia,Bachelors,Asian or Asian American,20.0
-0 days 00:01:06,Data Analyst,Yes,66-85,Tech,Python,5.0,9.0,7.0,7.0,8.0,9.0,Neither easy nor difficult,Better Salary,Female,26,Canada,Bachelors,Asian or Asian American,75.5
-0 days 00:01:23,Data Engineer,No,66-85,Education,Python,10.0,10.0,10.0,9.0,9.0,10.0,Difficult,Remote Work,Male,25,Greece,Bachelors,Other,75.5
-0 days 00:03:23,Data Scientist,Yes,125-150,Tech,Python,5.0,3.0,7.0,4.0,5.0,3.0,Easy,Other,Male,34,United States,Bachelors,Black or African American,137.5
-0 days 00:03:51,Other,Yes,41-65,Finance,Other,7.0,10.0,10.0,10.0,4.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,32,Poland,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:15,Student/Looking/None,No,0-40,Construction,R,2.0,2.0,2.0,2.0,2.0,2.0,Difficult,Better Salary,Male,24,United States,Associates,Black or African American,20.0
-0 days 00:06:20,Data Engineer,Yes,0-40,Tech,Python,7.0,3.0,3.0,2.0,5.0,9.0,Difficult,Better Salary,Male,26,Argentine,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:00,Data Analyst,Yes,41-65,Telecommunication,Other,4.0,7.0,5.0,6.0,4.0,6.0,Difficult,Better Salary,Female,32,Sweden,Masters,Black or African American,53.0
-0 days 00:02:24,Data Scientist,No,41-65,Tech,R,5.0,1.0,7.0,1.0,1.0,2.0,Neither easy nor difficult,Good Work/Life Balance,Male,40,Portugal,Masters,White or Caucasian,53.0
-0 days 00:01:49,Data Analyst,No,0-40,Other,Python,0.0,7.0,1.0,6.0,0.0,0.0,Easy,Better Salary,Male,27,United States,Bachelors,Black or African American,20.0
-0 days 00:01:03,Data Analyst,Yes,66-85,Tech,R,4.0,3.0,6.0,7.0,4.0,7.0,Easy,Better Salary,Male,28,United States,Masters,Black or African American,75.5
-0 days 00:02:13,Data Analyst,Yes,0-40,Other,Python,1.0,9.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,30,Nigeria,Bachelors,Other,20.0
-0 days 00:01:10,Data Analyst,Yes,0-40,Other,Python,0.0,6.0,5.0,5.0,5.0,6.0,Difficult,Remote Work,Male,37,United States,Bachelors,White or Caucasian,20.0
-0 days 00:02:35,Other,No,41-65,Tech,JavaScript,7.0,7.0,5.0,5.0,0.0,0.0,Difficult,Good Culture,Male,32,Australia,Bachelors,Asian or Asian American,53.0
-0 days 00:02:20,Data Analyst,Yes,41-65,Tech,Python,9.0,7.0,10.0,10.0,5.0,8.0,Neither easy nor difficult,Better Salary,Male,24,Saudi Arabia ,Bachelors,Other,53.0
-0 days 00:02:50,Data Analyst,Yes,0-40,Tech,Python,6.0,7.0,7.0,7.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,39,Argentina,Associates,White or Caucasian,20.0
-0 days 00:06:15,Data Analyst,Yes,125-150,Finance,Python,6.0,8.0,7.0,4.0,4.0,2.0,Easy,Other,Male,34,Australia,Bachelors,Asian or Asian American,137.5
-0 days 00:01:38,Data Analyst,No,41-65,Other,Python,5.0,6.0,10.0,7.0,3.0,3.0,Neither easy nor difficult,Remote Work,Male,27,United States,Bachelors,Black or African American,53.0
-0 days 00:01:17,Data Analyst,Yes,66-85,Healthcare,Other,7.0,7.0,4.0,7.0,7.0,7.0,Difficult,Better Salary,Male,54,United States,High School,White or Caucasian,75.5
-0 days 00:01:50,Student/Looking/None,No,0-40,Tech,Python,0.0,6.0,6.0,5.0,5.0,6.0,Difficult,Remote Work,Female,20,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:22,Student/Looking/None,Yes,0-40,Finance,Other,3.0,3.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American,20.0
-0 days 00:01:42,Student/Looking/None,No,0-40,Tech,Python,7.0,7.0,2.0,2.0,7.0,9.0,Easy,Good Work/Life Balance,Male,33,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:17,Data Analyst,Yes,41-65,Tech,Python,4.0,8.0,8.0,8.0,10.0,10.0,Very Easy,Remote Work,Male,30,United Kingdom,Masters,White or Caucasian,53.0
-0 days 00:12:16,Student/Looking/None,Yes,0-40,Tech,Python,0.0,4.0,2.0,0.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,31,Niger,High School,Black or African American,20.0
-0 days 00:02:11,Student/Looking/None,Yes,0-40,Other,Python,5.0,6.0,5.0,6.0,2.0,1.0,Difficult,Remote Work,Male,22,France,Masters,Other,20.0
-0 days 00:01:29,Data Analyst,Yes,66-85,Tech,R,8.0,10.0,10.0,10.0,8.0,9.0,Neither easy nor difficult,Remote Work,Female,38,United States,Bachelors,Black or African American,75.5
-0 days 00:02:41,Data Analyst,No,0-40,Other,Python,6.0,9.0,7.0,7.0,5.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,Malaysia,Bachelors,Other,20.0
-0 days 00:01:20,Data Scientist,Yes,0-40,Real Estate,Python,2.0,3.0,4.0,5.0,3.0,6.0,Very Easy,Better Salary,Male,33,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:11,Data Analyst,Yes,41-65,Tech,Python,3.0,6.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,27,Canada,Bachelors,White or Caucasian,53.0
-0 days 00:02:14,Data Analyst,No,0-40,Tech,R,0.0,6.0,3.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,19,Algeria,Bachelors,White or Caucasian,20.0
-0 days 00:01:24,Other,No,0-40,Other,Python,1.0,6.0,2.0,5.0,1.0,0.0,Neither easy nor difficult,Better Salary,Male,24,India,Bachelors,Other,20.0
-0 days 00:03:50,Other,No,150-225,Finance,Other,8.0,10.0,9.0,10.0,8.0,10.0,Very Easy,Good Culture,Female,58,United States,Masters,White or Caucasian,187.5
-0 days 00:01:38,Data Analyst,No,0-40,Tech,Python,2.0,2.0,5.0,6.0,6.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,Nigeria ,Bachelors,Black or African American,20.0
-0 days 00:01:26,Data Analyst,No,86-105,Tech,Python,4.0,4.0,4.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,26,Ireland,Masters,Asian or Asian American,95.5
-0 days 00:02:06,Other,No,41-65,Tech,Other,4.0,5.0,4.0,5.0,5.0,3.0,Easy,Good Culture,Female,31,United Kingdom,Bachelors,White or Caucasian,53.0
-0 days 00:01:32,Data Analyst,No,41-65,Agriculture,Python,2.0,2.0,4.0,5.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,23,United States,High School,Hispanic or Latino,53.0
-0 days 00:01:20,Data Analyst,No,86-105,Healthcare,Python,7.0,10.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,31,United States,Masters,Asian or Asian American,95.5
-0 days 00:01:47,Student/Looking/None,No,66-85,Construction,Other,5.0,5.0,7.0,7.0,9.0,10.0,Difficult,Better Salary,Female,24,United States,Bachelors,Asian or Asian American,75.5
-0 days 00:02:05,Other,Yes,41-65,Finance,Python,8.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,29,Mexico,Bachelors,Hispanic or Latino,53.0
-0 days 00:01:20,Student/Looking/None,Yes,0-40,Education,Python,7.0,8.0,9.0,8.0,9.0,10.0,Difficult,Good Work/Life Balance,Male,26,Indonesia,Bachelors,Asian or Asian American,20.0
-0 days 00:01:52,Student/Looking/None,Yes,0-40,Other,Python,3.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Male,20,India,High School,Asian or Asian American,20.0
-0 days 00:01:24,Data Analyst,Yes,0-40,Education,Python,0.0,2.0,3.0,2.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American,20.0
-0 days 00:01:47,Data Analyst,No,106-125,Tech,Python,8.0,8.0,9.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,United States,Masters,White or Caucasian,115.5
-0 days 00:01:40,Student/Looking/None,Yes,0-40,Tech,Python,2.0,3.0,3.0,5.0,5.0,9.0,Easy,Remote Work,Male,26,Nigeria,Bachelors,Black or African American,20.0
-0 days 00:03:57,Data Analyst,Yes,0-40,Other,R,3.0,9.0,8.0,8.0,6.0,6.0,Difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American,20.0
-0 days 00:02:21,Student/Looking/None,No,0-40,Agriculture,Other,0.0,8.0,8.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,22,uzb,Bachelors,Asian or Asian American,20.0
-0 days 00:02:06,Data Analyst,Yes,0-40,Tech,Python,3.0,9.0,9.0,6.0,9.0,4.0,Easy,Better Salary,Male,23,Spain,Masters,White or Caucasian,20.0
-0 days 00:01:54,Other,Yes,0-40,Other,Python,3.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,28,Mexico,Bachelors,Hispanic or Latino,20.0
-0 days 00:02:28,Data Analyst,No,41-65,Finance,Other,7.0,5.0,4.0,6.0,4.0,5.0,Easy,Good Work/Life Balance,Female,39,Portugal,Masters,White or Caucasian,53.0
-0 days 00:03:25,Other,No,106-125,Other,Python,3.0,2.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,37,United States,Masters,White or Caucasian,115.5
-0 days 00:01:33,Database Developer,Yes,41-65,Education,Other,4.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Female,29,United States,Masters,White or Caucasian,53.0
-0 days 00:01:24,Data Analyst,Yes,106-125,Finance,Python,5.0,6.0,6.0,5.0,4.0,3.0,Easy,Good Work/Life Balance,Male,42,United States,Masters,White or Caucasian,115.5
-0 days 00:01:11,Student/Looking/None,No,0-40,Tech,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,25,Canada,Bachelors,Asian or Asian American,20.0
-0 days 00:01:20,Database Developer,Yes,0-40,Telecommunication,Python,5.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,66,Morocco ,High School,Black or African American,20.0
-0 days 00:00:50,Data Analyst,Yes,125-150,Other,R,8.0,5.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian,137.5
-0 days 00:03:12,Other,No,0-40,Other,R,4.0,6.0,7.0,7.0,4.0,6.0,Difficult,Better Salary,Male,21,United States,Bachelors,White or Caucasian,20.0
-0 days 00:04:43,Student/Looking/None,Yes,0-40,Tech,Python,1.0,2.0,1.0,2.0,1.0,2.0,Difficult,Better Salary,Male,26,Oman,Bachelors,Asian or Asian American,20.0
-0 days 00:02:17,Data Engineer,No,0-40,Tech,Python,6.0,6.0,6.0,6.0,4.0,3.0,Easy,Other,Male,24,Costa Rica,Bachelors,Hispanic or Latino,20.0
-0 days 00:01:19,Data Analyst,No,41-65,Other,Python,8.0,7.0,6.0,7.0,6.0,8.0,Easy,Remote Work,Male,22,United States,Bachelors,Asian or Asian American,53.0
+0 days 00:00:44,Data Analyst,Yes,106-125,Healthcare,Python,9,9,7,5,5,7,Very Difficult,Remote Work,Male,26,United States,Bachelors,White or Caucasian,115.5
+0 days 00:01:30,Data Analyst,No,41-65,Finance,R,1,2,5,2,1,3,Very Difficult,Remote Work,Male,36,Canada,Bachelors,Asian or Asian American,53
+0 days 00:02:18,Data Engineer,No,0-40,Other,Python,0,8,7,5,7,7,Easy,Good Work/Life Balance,Male,23,Nigeria,Bachelors,Black or African American,20
+0 days 00:02:10,Other,Yes,150-225,Finance,R,10,6,7,10,7,10,Very Easy,Remote Work,Female,35,Canada,Bachelors,White or Caucasian,187.5
+0 days 00:01:51,Data Analyst,Yes,41-65,Healthcare,R,1,4,4,4,0,1,Difficult,Better Salary,Male,44,United States,Bachelors,Black or African American,53
+0 days 00:02:34,Data Analyst,Yes,0-40,Other,Python,2,3,3,3,3,2,Difficult,Good Work/Life Balance,Male,33,Republic democratic of Congo ,Bachelors,Black or African American,20
+0 days 00:01:15,Data Scientist,Yes,0-40,Finance,Python,0,6,6,6,6,5,Difficult,Better Salary,Male,24,Other (Please Specify),Bachelors,Black or African American,20
+0 days 00:01:25,Data Engineer,Yes,125-150,Other,Other,10,5,5,5,5,9,Neither easy nor difficult,Remote Work,Male,35,United States,Bachelors,Asian or Asian American,137.5
+0 days 00:02:10,Data Analyst,Yes,86-105,Healthcare,R,4,4,4,4,5,5,Neither easy nor difficult,Better Salary,Male,35,United States,Bachelors,Asian or Asian American,95.5
+0 days 00:01:27,Data Analyst,Yes,41-65,Telecommunication,Python,2,0,3,3,0,4,Very Difficult,Better Salary,Male,28,United States,Bachelors,Hispanic or Latino,53
+0 days 00:01:29,Data Analyst,Yes,66-85,Other,Python,10,10,8,8,8,10,Neither easy nor difficult,Remote Work,Male,37,Canada,Bachelors,White or Caucasian,75.5
+0 days 00:02:31,Data Analyst,Yes,0-40,Other,Python,3,8,10,10,7,8,Neither easy nor difficult,Better Salary,Male,32,Serbia,Bachelors,White or Caucasian,20
+0 days 00:03:20,Data Analyst,Yes,0-40,Tech,R,1,10,9,9,5,10,Neither easy nor difficult,Better Salary,Male,34,Argentina,Bachelors,Other,20
+0 days 00:00:55,Data Scientist,Yes,0-40,Education,Python,3,10,10,6,7,8,Easy,Good Work/Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian,20
+0 days 00:01:24,Data Analyst,No,41-65,Construction,R,4,5,5,5,4,5,Neither easy nor difficult,Good Culture,Male,31,United States,Bachelors,White or Caucasian,53
+0 days 00:00:47,Data Analyst,Yes,41-65,Finance,Python,4,10,7,7,7,5,Difficult,Good Culture,Male,29,United States,Bachelors,White or Caucasian,53
+0 days 00:01:06,Data Analyst,Yes,0-40,Tech,Python,1,2,4,2,2,2,Neither easy nor difficult,Better Salary,Male,22,Niger,Bachelors,Black or African American,20
+0 days 00:01:04,Student/Looking/None,Yes,0-40,Other,Python,1,3,2,2,4,1,Difficult,Better Salary,Male,23,United States,Bachelors,Black or African American,20
+0 days 00:01:05,Student/Looking/None,No,41-65,Tech,R,7,8,8,6,8,3,Very Difficult,Better Salary,Female,26,Canada,Bachelors,Asian or Asian American,53
+0 days 00:01:21,Data Analyst,No,0-40,Other,Python,1,1,1,1,2,0,Very Difficult,Better Salary,Male,28,Nigeria,Bachelors,Black or African American,20
+0 days 00:01:23,Data Analyst,Yes,41-65,Finance,Python,5,5,5,5,5,5,Easy,Remote Work,Male,29,Kenya,Bachelors,Black or African American,53
+0 days 00:01:35,Data Analyst,Yes,106-125,Tech,Other,10,5,10,6,10,10,Neither easy nor difficult,Remote Work,Female,31,United States,Bachelors,White or Caucasian,115.5
+0 days 00:01:25,Data Analyst,Yes,0-40,Healthcare,Python,5,6,8,8,7,1,Neither easy nor difficult,Remote Work,Male,28,Azerbaijan,Bachelors,White or Caucasian,20
+0 days 00:01:47,Data Analyst,No,0-40,Finance,Python,4,4,4,4,4,4,Neither easy nor difficult,Better Salary,Male,32,Argentina,Bachelors,Hispanic or Latino,20
+0 days 00:02:14,Data Analyst,No,0-40,Tech,Python,7,8,8,8,3,8,Easy,Better Salary,Male,24,Sudan,Bachelors,Black or African American,20
+0 days 00:02:21,Data Analyst,No,0-40,Tech,Python,4,6,6,6,7,7,Easy,Good Work/Life Balance,Male,31,India,Bachelors,Asian or Asian American,20
+0 days 00:02:07,Data Analyst,No,66-85,Other,Other,7,10,5,5,5,2,Difficult,Other,Male,23,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:20,Data Analyst,Yes,106-125,Other,Python,1,6,9,1,0,2,Difficult,Remote Work,Female,33,United States,Bachelors,Asian or Asian American,115.5
+0 days 00:01:34,Data Analyst,No,86-105,Healthcare,Other,6,7,7,7,7,4,Very Easy,Better Salary,Male,43,United States,Bachelors,White or Caucasian,95.5
+0 days 00:01:34,Student/Looking/None,Yes,0-40,Other,R,0,0,5,0,0,0,Very Difficult,Remote Work,Female,23,Nigeria,Bachelors,Other,20
+0 days 00:01:47,Student/Looking/None,Yes,41-65,Finance,Python,10,7,10,10,5,3,Very Difficult,Good Work/Life Balance,Male,31,United States,Bachelors,Black or African American,53
+0 days 00:01:38,Data Analyst,Yes,66-85,Finance,Python,5,6,7,5,4,4,Neither easy nor difficult,Other,Male,31,United Kingdom,Bachelors,White or Caucasian,75.5
+0 days 00:03:30,Data Analyst,Yes,0-40,Other (Please Specify),Python,8,7,8,7,7,7,Difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American,20
+0 days 00:01:37,Data Engineer,No,125-150,Tech,Other,8,10,10,9,9,9,Easy,Better Salary,Male,43,United States,Bachelors,White or Caucasian,137.5
+0 days 00:02:08,Data Analyst,No,41-65,Finance,Python,2,3,5,5,5,5,Difficult,Better Salary,Female,26,Canada,Bachelors,Other,53
+0 days 00:03:54,Other,No,41-65,Other,Python,5,10,8,8,8,7,Neither easy nor difficult,Remote Work,Male,32,Japan,Bachelors,White or Caucasian,53
+0 days 00:02:28,Other,No,0-40,Tech,Python,2,9,7,7,5,6,Difficult,Better Salary,Male,31,Greece,Bachelors,White or Caucasian,20
+0 days 00:01:33,Data Analyst,Yes,86-105,Healthcare,Other,3,5,6,4,4,5,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian,95.5
+0 days 00:00:56,Data Analyst,Yes,0-40,Other,Python,3,1,3,2,3,1,Neither easy nor difficult,Good Culture,Male,24,Perú ,Bachelors,Hispanic or Latino,20
+0 days 00:02:38,Student/Looking/None,Yes,41-65,Construction,Python,2,0,2,2,0,0,Very Difficult,Remote Work,Male,34,United States,Bachelors,White or Caucasian,53
+0 days 00:01:52,Data Analyst,Yes,41-65,Other,Other,5,6,6,5,4,6,Very Difficult,Better Salary,Male,42,Australia,Bachelors,Other,53
+0 days 00:02:03,Student/Looking/None,Yes,0-40,Other,JavaScript,0,0,0,0,0,0,Difficult,Remote Work,Female,40,United States,Bachelors,Asian or Asian American,20
+0 days 00:02:32,Student/Looking/None,No,41-65,Telecommunication,Python,3,1,3,4,0,3,Easy,Good Work/Life Balance,Male,43,Spain,Bachelors,White or Caucasian,53
+0 days 00:02:39,Student/Looking/None,Yes,0-40,Construction,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Male,23,Kenya ,Bachelors,Other,20
+0 days 00:01:11,Student/Looking/None,Yes,0-40,Education,Python,5,5,3,5,2,6,Difficult,Better Salary,Male,23,Japan,Bachelors,Asian or Asian American,20
+0 days 00:03:55,Data Analyst,Yes,86-105,Other,Python,8,6,2,3,6,7,Neither easy nor difficult,Other,Male,28,United States,Bachelors,White or Caucasian,95.5
+0 days 00:01:25,Data Analyst,No,66-85,Finance,Other,5,7,1,1,0,8,Neither easy nor difficult,Better Salary,Male,32,United States,Bachelors,White or Caucasian,75.5
+0 days 00:02:47,Data Analyst,Yes,66-85,Other,R,7,8,10,8,9,9,Difficult,Remote Work,Female,41,United States,Bachelors,White or Caucasian,75.5
+0 days 00:00:56,Data Analyst,Yes,41-65,Finance,Python,5,6,6,6,6,6,Neither easy nor difficult,Remote Work,Male,33,United Kingdom,High School,White or Caucasian,53
+0 days 00:01:57,Other,Yes,150-225,Tech,Python,10,8,9,8,8,10,Easy,Good Work/Life Balance,Male,38,United States,Bachelors,Hispanic or Latino,187.5
+0 days 00:02:32,Data Analyst,No,0-40,Tech,Other,8,8,8,8,5,10,Easy,Better Salary,Female,22,India,Bachelors,Other,20
+0 days 00:01:59,Student/Looking/None,Yes,0-40,Other,R,1,3,6,6,6,9,Difficult,Remote Work,Male,36,Barbados,Bachelors,Black or African American,20
+0 days 00:01:18,Data Engineer,No,66-85,Finance,Python,2,1,1,1,3,7,Easy,Remote Work,Female,28,United States,Masters,Asian or Asian American,75.5
+0 days 00:08:11,Student/Looking/None,Yes,0-40,Other,Other,4,6,6,5,5,7,Very Easy,Other,Male,30,South Africa,Bachelors,Other,20
+0 days 00:01:44,Data Analyst,Yes,66-85,Tech,Python,6,6,6,6,5,6,Difficult,Other,Female,24,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:01:58,Other,No,41-65,Other,C/C++,3,6,7,7,0,3,Very Difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian,53
+0 days 00:02:15,Data Analyst,No,0-40,Tech,Python,4,9,10,9,9,10,Easy,Better Salary,Male,29,Colombia,Associates,Hispanic or Latino,20
+0 days 00:02:04,Other,Yes,41-65,Other,Python,6,8,8,7,9,7,Neither easy nor difficult,Good Work/Life Balance,Male,38,Germany,Masters,White or Caucasian,53
+0 days 00:01:46,Data Analyst,Yes,0-40,Finance,Other,3,5,4,3,3,3,Difficult,Good Work/Life Balance,Male,31,Bulgaria,Masters,White or Caucasian,20
+0 days 00:01:33,Student/Looking/None,No,0-40,Tech,Python,1,4,5,5,1,1,Difficult,Better Salary,Male,25,United States,Masters,White or Caucasian,20
+0 days 00:01:09,Data Analyst,No,66-85,Telecommunication,Python,4,6,4,5,4,4,Neither easy nor difficult,Better Salary,Male,24,United States,Masters,White or Caucasian,75.5
+0 days 00:04:03,Other,Yes,41-65,Tech,Python,6,7,4,3,9,8,Difficult,Better Salary,Male,28,Turkey,Bachelors,White or Caucasian,53
+0 days 00:01:03,Student/Looking/None,No,0-40,Tech,Python,7,5,8,0,0,0,Neither easy nor difficult,Good Culture,Female,23,India,Bachelors,Asian or Asian American,20
+0 days 00:01:01,Data Engineer,No,0-40,Tech,R,2,3,2,5,5,7,Neither easy nor difficult,Remote Work,Male,21,Spain,Masters,Hispanic or Latino,20
+0 days 00:02:43,Data Analyst,No,0-40,Other,Python,4,4,4,4,5,6,Neither easy nor difficult,Remote Work,Male,29,France,Bachelors,Other,20
+0 days 00:03:15,Data Analyst,Yes,41-65,Tech,Python,5,6,7,7,7,6,Difficult,Better Salary,Male,25,United States,Bachelors,Asian or Asian American,53
+0 days 00:01:24,Data Analyst,No,41-65,Tech,Python,6,6,6,6,3,5,Difficult,Good Culture,Male,27,Germany,Masters,Black or African American,53
+0 days 00:01:28,Data Analyst,Yes,41-65,Tech,Python,3,9,10,8,9,9,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American,53
+0 days 00:02:36,Other,No,86-105,Other,R,4,3,3,5,5,5,Difficult,Better Salary,Male,32,United States,Masters,Asian or Asian American,95.5
+0 days 00:02:41,Student/Looking/None,Yes,106-125,Healthcare,Python,5,5,7,5,7,7,Neither easy nor difficult,Remote Work,Male,22,India,Bachelors,Asian or Asian American,115.5
+0 days 00:04:14,Data Analyst,No,0-40,Tech,Python,2,9,9,8,6,2,Easy,Better Salary,Male,25,Thailand,Bachelors,Asian or Asian American,20
+0 days 00:01:15,Data Analyst,Yes,0-40,Telecommunication,Python,2,8,6,6,5,5,Neither easy nor difficult,Remote Work,Female,36,Germany,Masters,White or Caucasian,20
+0 days 00:02:21,Data Analyst,Yes,106-125,Tech,Other,10,6,9,5,8,7,Easy,Good Work/Life Balance,Female,27,United States,Bachelors,White or Caucasian,115.5
+0 days 00:02:17,Other,Yes,0-40,Tech,Python,5,5,5,5,5,1,Neither easy nor difficult,Other,Male,23,India,Bachelors,Asian or Asian American,20
+0 days 00:01:32,Student/Looking/None,Yes,0-40,Tech,Other,2,3,3,3,3,6,Very Difficult,Better Salary,Male,26,Netherlands,Bachelors,Black or African American,20
+0 days 00:01:19,Other,No,86-105,Healthcare,Python,9,10,10,10,10,10,Very Easy,Good Work/Life Balance,Female,33,United States,PhD,Hispanic or Latino,95.5
+0 days 00:01:33,Data Analyst,Yes,106-125,Other,Python,3,5,3,3,5,5,Easy,Better Salary,Male,27,Turkey,Masters,White or Caucasian,115.5
+0 days 00:01:38,Data Analyst,Yes,41-65,Education,R,3,6,5,4,3,4,Neither easy nor difficult,Better Salary,Male,42,United States,Associates,White or Caucasian,53
+0 days 00:02:36,Data Analyst,Yes,0-40,Tech,Python,6,7,8,7,7,8,Easy,Good Work/Life Balance,Male,29,Spain,Masters,White or Caucasian,20
+0 days 00:01:08,Data Analyst,No,125-150,Tech,Python,4,7,6,4,2,4,Easy,Better Salary,Female,27,United States,Masters,Asian or Asian American,137.5
+0 days 00:01:41,Student/Looking/None,No,41-65,Healthcare,Python,0,10,10,10,4,2,Neither easy nor difficult,Remote Work,Female,39,United States,Bachelors,Hispanic or Latino,53
+0 days 00:01:36,Data Analyst,Yes,41-65,Telecommunication,Python,6,6,7,5,6,7,Difficult,Good Culture,Male,31,Denmark,Masters,White or Caucasian,53
+0 days 00:03:09,Data Analyst,Yes,66-85,Other,Python,7,7,5,9,7,8,Easy,Good Work/Life Balance,Male,29,Brazil,Bachelors,Hispanic or Latino,75.5
+0 days 00:01:22,Data Analyst,Yes,66-85,Education,R,7,7,7,7,4,7,Easy,Remote Work,Male,31,United States,Masters,White or Caucasian,75.5
+0 days 00:01:30,Data Analyst,Yes,0-40,Finance,Python,10,9,9,10,9,10,Neither easy nor difficult,Good Culture,Male,30,Mexico,Masters,Hispanic or Latino,20
+0 days 00:03:05,Data Engineer,Yes,0-40,Tech,Python,7,8,6,5,5,9,Difficult,Better Salary,Male,33,Mexico,Masters,Hispanic or Latino,20
+0 days 00:00:58,Data Analyst,No,66-85,Other,Python,7,8,9,7,7,7,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:09,Student/Looking/None,No,0-40,Tech,R,0,0,0,0,0,0,Neither easy nor difficult,Good Work/Life Balance,Male,23,India,Bachelors,Other,20
+0 days 00:01:51,Data Analyst,Yes,41-65,Other,Other,4,4,3,3,5,6,Very Difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American,53
+0 days 00:02:29,Other,Yes,66-85,Other,Python,7,9,9,8,8,9,Neither easy nor difficult,Good Work/Life Balance,Male,35,Chile,Bachelors,Hispanic or Latino,75.5
+0 days 00:02:39,Data Analyst,No,41-65,Other,Python,6,8,5,5,6,9,Neither easy nor difficult,Remote Work,Female,42,Greece,Masters,White or Caucasian,53
+0 days 00:01:14,Data Analyst,No,66-85,Tech,Python,3,4,2,1,0,4,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,75.5
+0 days 00:03:00,Data Analyst,No,86-105,Other,Python,5,4,5,4,3,6,Neither easy nor difficult,Other,Male,23,United States,Bachelors,White or Caucasian,95.5
+0 days 00:02:02,Other,No,41-65,Healthcare,JavaScript,2,4,6,5,3,4,Easy,Better Salary,Female,51,United States,Bachelors,Black or African American,53
+0 days 00:01:45,Data Analyst,No,0-40,Telecommunication,Other,1,4,4,3,2,6,Very Difficult,Better Salary,Male,30,United Kingdom,Bachelors,Black or African American,20
+0 days 00:01:41,Data Analyst,Yes,41-65,Finance,Python,8,9,9,9,9,8,Very Difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American,53
+0 days 00:01:06,Other,Yes,41-65,Other,R,3,5,5,6,3,4,Neither easy nor difficult,Better Salary,Male,24,Canada,Bachelors,Asian or Asian American,53
+0 days 00:01:06,Student/Looking/None,Yes,41-65,Tech,Python,6,6,6,6,6,6,Easy,Good Culture,Male,25,Australia,Masters,Asian or Asian American,53
+0 days 00:02:22,Data Analyst,Yes,41-65,Finance,Python,4,4,6,4,5,6,Difficult,Better Salary,Female,55,United States,Masters,Other,53
+0 days 00:01:56,Data Analyst,No,86-105,Other,R,8,10,8,7,8,10,Very Easy,Remote Work,Female,30,United States,Masters,White or Caucasian,95.5
+0 days 00:01:10,Data Analyst,Yes,41-65,Other,Python,9,9,9,9,7,4,Difficult,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American,53
+0 days 00:00:28,Data Analyst,Yes,66-85,Other,Python,6,9,7,6,7,7,Neither easy nor difficult,Better Salary,Male,28,United States,Masters,White or Caucasian,75.5
+0 days 00:02:22,Other,Yes,41-65,Other,Python,8,8,9,9,10,10,Very Easy,Better Salary,Male,34,United Kingdom,Bachelors,White or Caucasian,53
+0 days 00:03:18,Data Analyst,Yes,0-40,Tech,Python,8,10,9,9,10,8,Neither easy nor difficult,Better Salary,Female,28,Costa Rica,Bachelors,Hispanic or Latino,20
+0 days 00:01:55,Student/Looking/None,No,0-40,Other,Other,7,9,7,8,8,10,Neither easy nor difficult,Better Salary,Male,24,Vietnam,Bachelors,Asian or Asian American,20
+0 days 00:01:15,Student/Looking/None,Yes,0-40,Healthcare,Python,3,7,7,7,1,2,Difficult,Better Salary,Male,31,United States,Masters,Black or African American,20
+0 days 00:02:07,Data Analyst,Yes,41-65,Other,Other,3,6,6,6,4,4,Easy,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American,53
+0 days 00:01:05,Data Analyst,Yes,106-125,Finance,Python,5,1,4,3,3,4,Easy,Better Salary,Female,38,United States,Bachelors,White or Caucasian,115.5
+0 days 00:01:32,Data Analyst,No,41-65,Finance,Python,5,5,5,5,4,5,Neither easy nor difficult,Good Culture,Male,30,Netherlands,Bachelors,Hispanic or Latino,53
+0 days 00:01:32,Data Analyst,Yes,0-40,Tech,C/C++,0,0,0,2,2,5,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American,20
+0 days 00:01:08,Data Analyst,Yes,0-40,Tech,Python,1,2,1,5,6,6,Neither easy nor difficult,Better Salary,Female,29,Nigeria ,Bachelors,Black or African American,20
+0 days 00:04:27,Data Scientist,Yes,150-225,Finance,Python,7,5,3,6,4,4,Difficult,Good Work/Life Balance,Male,21,Portugal,Masters,White or Caucasian,187.5
+0 days 00:02:00,Data Analyst,Yes,66-85,Other,Other,5,8,8,7,6,7,Very Easy,Remote Work,Female,39,United States,Bachelors,Asian or Asian American,75.5
+0 days 00:01:19,Student/Looking/None,No,0-40,Other (Please Specify),Python,0,0,0,0,0,5,Neither easy nor difficult,Better Salary,Male,25,turkey,Bachelors,White or Caucasian,20
+0 days 00:02:36,Other,Yes,86-105,Finance,Other,7,9,10,6,4,4,Neither easy nor difficult,Other,Female,42,United States,Masters,Hispanic or Latino,95.5
+0 days 00:00:48,Data Analyst,No,41-65,Tech,R,10,8,9,10,10,10,Easy,Better Salary,Male,25,United States,Bachelors,White or Caucasian,53
+0 days 00:01:20,Data Scientist,No,86-105,Finance,Python,8,7,6,6,5,9,Neither easy nor difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian,95.5
+0 days 00:02:04,Data Analyst,No,0-40,Other,Python,1,4,4,3,5,5,Easy,Better Salary,Male,23,Colombia,High School,Hispanic or Latino,20
+0 days 00:02:36,Data Engineer,Yes,41-65,Other,JavaScript,6,6,6,6,6,6,Difficult,Good Culture,Male,25,Egypt,High School,Other,53
+0 days 00:01:05,Data Engineer,Yes,66-85,Other,Python,5,7,7,6,6,7,Neither easy nor difficult,Better Salary,Male,45,Canada,Masters,White or Caucasian,75.5
+0 days 00:01:29,Data Analyst,Yes,66-85,Healthcare,Other,7,3,8,6,8,8,Easy,Good Work/Life Balance,Male,24,United States,Bachelors,White or Caucasian,75.5
+0 days 00:03:57,Student/Looking/None,No,0-40,Other,R,1,9,6,0,0,0,Difficult,Better Salary,Male,25,United States,Bachelors,Black or African American,20
+0 days 00:01:36,Data Analyst,Yes,66-85,Other,Python,9,8,9,9,8,8,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:41,Data Analyst,No,41-65,Tech,R,4,7,8,8,5,7,Easy,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American,53
+0 days 00:01:37,Student/Looking/None,Yes,0-40,Other,Python,1,1,1,0,0,3,Difficult,Remote Work,Female,42,United Kingdom,Masters,White or Caucasian,20
+0 days 00:01:30,Other,Yes,41-65,Education,Other,0,0,2,0,0,0,Very Difficult,Good Work/Life Balance,Female,42,United States,Bachelors,Black or African American,53
+0 days 00:01:26,Other,No,0-40,Tech,Python,0,6,5,5,3,1,Neither easy nor difficult,Better Salary,Male,25,India,Masters,Asian or Asian American,20
+0 days 00:02:24,Data Analyst,Yes,86-105,Tech,R,8,10,10,10,2,7,Easy,Remote Work,Male,38,United States,Masters,White or Caucasian,95.5
+0 days 00:02:51,Other,No,0-40,Tech,Python,5,6,6,6,6,4,Easy,Better Salary,Male,24,Costa Rica,Bachelors,Hispanic or Latino,20
+0 days 00:01:37,Data Analyst,Yes,66-85,Education,R,7,10,10,10,8,10,Neither easy nor difficult,Good Work/Life Balance,Male,28,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:06,Data Analyst,No,41-65,Healthcare,Python,1,2,8,7,0,0,Difficult,Better Salary,Male,21,United States,Bachelors,Asian or Asian American,53
+0 days 00:01:13,Data Analyst,Yes,106-125,Healthcare,R,10,10,10,10,10,10,Very Easy,Good Culture,Male,39,United States,Masters,White or Caucasian,115.5
+0 days 00:03:29,Data Analyst,Yes,0-40,Tech,Python,4,5,5,5,6,8,Difficult,Good Work/Life Balance,Male,23,Pakistan,Bachelors,Asian or Asian American,20
+0 days 00:01:17,Data Analyst,No,0-40,Other,R,1,6,4,3,5,6,Neither easy nor difficult,Good Work/Life Balance,Female,23,Australia,Bachelors,White or Caucasian,20
+0 days 00:02:03,Data Analyst,Yes,66-85,Other,R,8,9,8,7,7,8,Neither easy nor difficult,Good Work/Life Balance,Male,30,United States,Masters,White or Caucasian,75.5
+0 days 00:01:16,Data Analyst,No,41-65,Other,Python,2,6,2,3,2,2,Easy,Better Salary,Male,26,Ireland ,Masters,White or Caucasian,53
+0 days 00:02:18,Data Analyst,Yes,41-65,Healthcare,R,3,6,4,6,4,6,Neither easy nor difficult,Better Salary,Male,37,United States,Bachelors,White or Caucasian,53
+0 days 00:01:22,Data Analyst,Yes,66-85,Healthcare,Python,3,5,4,5,4,4,Neither easy nor difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian,75.5
+0 days 00:02:03,Data Analyst,Yes,0-40,Finance,C/C++,5,2,4,3,3,3,Difficult,Good Work/Life Balance,Female,25,South Africa,Bachelors,Black or African American,20
+0 days 00:02:04,Data Analyst,Yes,0-40,Healthcare,Python,2,6,6,5,4,5,Easy,Better Salary,Female,26,Poland,Bachelors,White or Caucasian,20
+0 days 00:01:28,Data Analyst,Yes,66-85,Healthcare,Other,7,8,8,8,8,7,Very Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:39,Data Analyst,Yes,66-85,Tech,Python,9,10,10,10,7,9,Neither easy nor difficult,Better Salary,Female,39,United States,Bachelors,Black or African American,75.5
+0 days 00:00:53,Other,No,0-40,Education,Python,1,1,1,0,0,2,Easy,Good Work/Life Balance,Female,28,India,Masters,Asian or Asian American,20
+0 days 00:01:46,Data Analyst,Yes,66-85,Finance,Other,8,8,7,7,10,10,Very Easy,Good Work/Life Balance,Male,22,United States,Bachelors,Other,75.5
+0 days 00:02:45,Data Analyst,Yes,0-40,Telecommunication,Python,3,2,4,2,2,2,Neither easy nor difficult,Good Culture,Male,28,Mozambique,Bachelors,Black or African American,20
+0 days 00:01:44,Other,No,150-225,Tech,R,8,10,9,7,5,5,Neither easy nor difficult,Remote Work,Male,33,United States,Masters,White or Caucasian,187.5
+0 days 00:05:11,Data Analyst,Yes,0-40,Finance,Other,2,3,3,3,2,4,Neither easy nor difficult,Good Work/Life Balance,Female,22,Egypt ,Bachelors,Other,20
+0 days 00:01:48,Student/Looking/None,No,0-40,Tech,Python,3,5,5,4,4,5,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Other,20
+0 days 00:03:42,Data Analyst,Yes,106-125,Other,Other,8,8,8,8,10,10,Easy,Good Work/Life Balance,Male,37,United States,Bachelors,Other,115.5
+0 days 00:22:47,Other,No,41-65,Other,R,3,4,5,5,4,3,Difficult,Better Salary,Male,24,United States,Masters,White or Caucasian,53
+0 days 00:01:20,Data Analyst,No,41-65,Healthcare,R,1,4,3,2,0,6,Difficult,Better Salary,Male,25,United Kingdom,Masters,Asian or Asian American,53
+0 days 00:01:24,Data Engineer,No,86-105,Healthcare,R,8,10,8,8,9,10,Neither easy nor difficult,Good Culture,Male,28,United States,Masters,Black or African American,95.5
+0 days 00:02:07,Data Analyst,Yes,41-65,Other,Python,5,5,7,7,7,7,Easy,Better Salary,Male,32,United Kingdom,Bachelors,White or Caucasian,53
+0 days 00:01:34,Data Analyst,Yes,41-65,Other,Python,0,7,7,7,0,7,Easy,Good Culture,Male,29,United States,Bachelors,Asian or Asian American,53
+0 days 00:02:50,Data Analyst,No,41-65,Healthcare,R,7,5,8,6,5,10,Difficult,Other,Female,26,Australia,Masters,White or Caucasian,53
+0 days 00:03:01,Data Engineer,Yes,41-65,Tech,Python,0,7,5,0,0,7,Neither easy nor difficult,Remote Work,Male,37,Canada,Masters,White or Caucasian,53
+0 days 00:01:44,Data Analyst,No,41-65,Other,R,4,6,5,4,5,6,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,53
+0 days 00:01:36,Data Analyst,No,0-40,Finance,Other,4,4,5,6,6,0,Difficult,Better Salary,Male,24,Israel,High School,White or Caucasian,20
+0 days 00:02:45,Other,No,125-150,Finance,Other,7,8,8,8,7,8,Easy,Better Salary,Male,52,United States,Bachelors,White or Caucasian,137.5
+0 days 00:04:22,Data Analyst,Yes,41-65,Finance,Python,6,10,3,5,0,10,Difficult,Good Culture,Male,27,Singapore,Bachelors,Asian or Asian American,53
+0 days 00:01:07,Data Analyst,No,106-125,Healthcare,Other,6,6,3,3,3,3,Neither easy nor difficult,Better Salary,Female,29,United States,Masters,White or Caucasian,115.5
+0 days 00:01:39,Student/Looking/None,No,0-40,Tech,Python,3,7,6,7,0,0,Difficult,Better Salary,Male,42,Brazil,Associates,White or Caucasian,20
+0 days 00:01:24,Data Analyst,Yes,41-65,Telecommunication,R,3,5,6,4,3,7,Difficult,Other,Male,28,United States,Masters,White or Caucasian,53
+0 days 00:02:39,Data Analyst,Yes,0-40,Tech,Python,8,8,8,8,8,9,Neither easy nor difficult,Good Work/Life Balance,Male,44,Costa Rica,Bachelors,Hispanic or Latino,20
+0 days 00:01:30,Data Engineer,Yes,0-40,Tech,Python,5,5,6,5,6,7,Neither easy nor difficult,Remote Work,Male,23,Spain,Bachelors,White or Caucasian,20
+0 days 00:01:14,Data Analyst,No,41-65,Other,R,1,2,6,4,2,0,Easy,Better Salary,Male,27,United States,Bachelors,Hispanic or Latino,53
+0 days 00:01:05,Data Analyst,No,66-85,Construction,Python,3,3,3,2,2,1,Neither easy nor difficult,Good Culture,Male,26,United States,Masters,White or Caucasian,75.5
+0 days 00:01:14,Data Analyst,Yes,86-105,Healthcare,Other,3,4,4,4,1,3,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Hispanic or Latino,95.5
+0 days 00:01:45,Data Analyst,Yes,66-85,Other,Python,0,0,7,1,0,9,Difficult,Better Salary,Male,33,Canada,Bachelors,Asian or Asian American,75.5
+0 days 00:01:44,Data Analyst,Yes,66-85,Other,Python,8,10,10,10,10,10,Easy,Better Salary,Male,28,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:01:29,Data Analyst,Yes,0-40,Tech,R,2,8,8,7,6,9,Neither easy nor difficult,Better Salary,Male,32,Kenya,Bachelors,Black or African American,20
+0 days 00:02:38,Student/Looking/None,Yes,41-65,Other,Python,2,4,6,1,1,1,Very Difficult,Better Salary,Male,34,Canada,Associates,Asian or Asian American,53
+0 days 00:01:04,Data Analyst,No,150-225,Tech,Python,10,10,10,8,10,10,Easy,Good Work/Life Balance,Male,28,United States,Bachelors,Asian or Asian American,187.5
+0 days 00:01:51,Data Scientist,Yes,125-150,Telecommunication,Python,2,4,1,3,1,7,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Other,137.5
+0 days 00:01:35,Data Engineer,Yes,41-65,Finance,Python,2,4,5,5,4,6,Difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian,53
+0 days 00:01:03,Data Analyst,No,66-85,Healthcare,Python,3,3,4,1,2,2,Neither easy nor difficult,Better Salary,Male,29,United States,Masters,White or Caucasian,75.5
+0 days 00:02:17,Data Analyst,No,66-85,Healthcare,Python,8,10,10,8,5,7,Neither easy nor difficult,Good Work/Life Balance,Female,31,United States,Masters,White or Caucasian,75.5
+0 days 00:01:39,Data Analyst,No,66-85,Tech,Python,4,5,5,5,4,4,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian,75.5
+0 days 00:00:53,Student/Looking/None,No,0-40,Healthcare,Python,0,0,0,0,0,0,Neither easy nor difficult,Good Work/Life Balance,Male,24,United States,Masters,Asian or Asian American,20
+0 days 00:01:19,Data Analyst,No,86-105,Other,Other,4,5,3,4,2,3,Easy,Good Culture,Male,34,United States,Masters,White or Caucasian,95.5
+0 days 00:01:16,Data Engineer,No,86-105,Tech,Python,5,3,5,5,4,5,Difficult,Better Salary,Male,23,United States,Bachelors,White or Caucasian,95.5
+0 days 00:02:08,Student/Looking/None,No,41-65,Construction,Other,10,4,10,10,4,10,Neither easy nor difficult,Remote Work,Male,32,Belgium,Masters,White or Caucasian,53
+0 days 00:01:31,Data Analyst,Yes,0-40,Healthcare,R,6,8,6,6,8,10,Easy,Remote Work,Male,29,Argentina,High School,Hispanic or Latino,20
+0 days 00:01:39,Data Analyst,Yes,0-40,Education,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Male,34,Nigeria,Bachelors,Black or African American,20
+0 days 00:00:55,Data Analyst,No,66-85,Finance,Python,7,5,5,7,9,10,Very Easy,Remote Work,Male,24,United Kingdom,Bachelors,White or Caucasian,75.5
+0 days 00:02:19,Other,No,66-85,Tech,Python,0,10,6,0,0,0,Difficult,Better Salary,Male,30,United States,Bachelors,Other,75.5
+0 days 00:01:59,Other,No,86-105,Other,Python,5,5,6,4,5,5,Difficult,Better Salary,Male,24,United States,Masters,Hispanic or Latino,95.5
+0 days 00:01:52,Data Analyst,Yes,41-65,Other,Python,6,8,10,9,7,9,Easy,Better Salary,Male,27,United States,Bachelors,Other,53
+0 days 00:03:30,Data Analyst,No,0-40,Finance,Python,1,2,4,4,4,5,Neither easy nor difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American,20
+0 days 00:03:54,Data Analyst,No,0-40,Other,Python,3,5,9,9,5,8,Very Difficult,Other,Male,31,UAE,Masters,Black or African American,20
+0 days 00:02:38,Data Analyst,Yes,0-40,Telecommunication,R,5,7,5,5,5,7,Difficult,Better Salary,Male,41,Egypt,Bachelors,White or Caucasian,20
+0 days 00:02:07,Data Analyst,Yes,0-40,Tech,Python,0,1,1,0,0,2,Difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American,20
+0 days 00:03:59,Data Analyst,No,0-40,Finance,Other,4,7,8,8,8,9,Neither easy nor difficult,Other,Male,24,Nigeria ,Bachelors,Black or African American,20
+0 days 00:02:01,Data Analyst,No,0-40,Finance,Python,6,5,6,5,6,6,Neither easy nor difficult,Better Salary,Male,30, Somalia,Masters,Other,20
+0 days 00:03:38,Data Analyst,No,150-225,Finance,Other,7,7,7,5,5,7,Neither easy nor difficult,Good Work/Life Balance,Male,33,United States,Bachelors,White or Caucasian,187.5
+0 days 00:02:40,Data Analyst,No,66-85,Other,Other,7,4,10,9,7,10,Difficult,Better Salary,Male,23,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:01:34,Data Analyst,Yes,66-85,Tech,Python,6,6,6,6,6,6,Difficult,Remote Work,Female,33,United Kingdom,Masters,Asian or Asian American,75.5
+0 days 00:00:48,Data Analyst,No,106-125,Finance,Python,4,4,4,4,4,4,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian,115.5
+0 days 00:00:57,Data Analyst,No,0-40,Other,Python,5,5,5,5,5,5,Neither easy nor difficult,Remote Work,Female,27,Kosovo,Masters,White or Caucasian,20
+0 days 00:01:45,Data Analyst,Yes,0-40,Finance,C/C++,5,10,10,8,10,10,Very Easy,Good Work/Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian,20
+0 days 00:02:41,Data Analyst,Yes,0-40,Tech,Python,0,3,6,5,5,6,Neither easy nor difficult,Remote Work,Male,29,Nigeria ,Bachelors,Black or African American,20
+0 days 00:03:43,Other,Yes,0-40,Healthcare,Python,10,2,8,5,0,6,Easy,Better Salary,Male,25,India,Masters,Other,20
+0 days 00:01:28,Data Analyst,No,86-105,Telecommunication,Other,7,7,5,7,7,7,Easy,Remote Work,Male,40,United States,High School,Hispanic or Latino,95.5
+0 days 00:02:59,Data Analyst,No,41-65,Other,Other,6,10,8,8,4,4,Neither easy nor difficult,Better Salary,Female,29,Canada,Bachelors,Other (Please Specify),53
+0 days 00:04:44,Data Analyst,No,41-65,Other (Please Specify),Python,0,3,3,3,3,6,Difficult,Remote Work,Male,29,India,Masters,Asian or Asian American,53
+0 days 00:01:40,Data Analyst,Yes,0-40,Education,Python,1,2,2,3,3,4,Neither easy nor difficult,Better Salary,Male,28,Nigeria ,Masters,Black or African American,20
+0 days 00:02:21,Other,No,86-105,Other,Other,5,2,0,2,0,0,Neither easy nor difficult,Good Work/Life Balance,Male,34,United Kingdom,Bachelors,White or Caucasian,95.5
+0 days 00:02:58,Student/Looking/None,No,0-40,Tech,Python,0,4,7,6,7,8,Easy,Other,Male,24,Belgium,Masters,White or Caucasian,20
+0 days 00:02:23,Data Analyst,Yes,0-40,Telecommunication,Python,5,8,8,9,7,9,Very Easy,Better Salary,Male,26,Iraq,Bachelors,Other,20
+0 days 00:01:21,Data Analyst,No,125-150,Tech,Python,10,5,10,10,6,10,Difficult,Good Work/Life Balance,Male,28,United States,Bachelors,Hispanic or Latino,137.5
+0 days 00:00:59,Student/Looking/None,No,0-40,Education,R,5,4,4,4,5,5,Difficult,Good Work/Life Balance,Male,25,Germany,Masters,White or Caucasian,20
+0 days 00:02:52,Data Analyst,Yes,0-40,Tech,Python,1,4,9,7,8,10,Easy,Better Salary,Male,33,Colombia,Bachelors,Hispanic or Latino,20
+0 days 00:01:01,Data Analyst,Yes,66-85,Finance,Python,4,4,6,3,4,0,Neither easy nor difficult,Remote Work,Male,30,Ireland ,Masters,White or Caucasian,75.5
+0 days 00:02:51,Data Analyst,Yes,0-40,Finance,Python,1,1,1,1,1,1,Very Difficult,Better Salary,Male,35,India,Bachelors,Other,20
+0 days 00:01:57,Data Analyst,No,0-40,Other,Other,5,2,5,5,3,4,Difficult,Better Salary,Male,25,Romania,Bachelors,White or Caucasian,20
+0 days 00:01:21,Data Analyst,No,0-40,Real Estate,Python,4,7,9,5,2,8,Easy,Better Salary,Male,23,Spain,Bachelors,White or Caucasian,20
+0 days 00:02:10,Data Engineer,No,0-40,Healthcare,Python,6,6,6,5,4,7,Neither easy nor difficult,Good Work/Life Balance,Male,24,Mexico,Bachelors,Hispanic or Latino,20
+0 days 00:02:40,Data Analyst,Yes,150-225,Education,Other,8,9,9,7,6,6,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Black or African American,187.5
+0 days 00:01:24,Data Analyst,Yes,66-85,Other,Python,4,10,10,8,5,6,Neither easy nor difficult,Remote Work,Male,32,United States,Bachelors,Asian or Asian American,75.5
+0 days 00:01:55,Data Analyst,Yes,41-65,Tech,Python,3,5,4,4,4,4,Neither easy nor difficult,Good Work/Life Balance,Male,50,Canada,Bachelors,White or Caucasian,53
+0 days 00:01:25,Data Architect,Yes,66-85,Other,Python,7,7,8,9,10,10,Neither easy nor difficult,Remote Work,Male,29,United States,High School,White or Caucasian,75.5
+0 days 00:03:54,Data Analyst,Yes,0-40,Telecommunication,R,2,8,7,6,5,6,Neither easy nor difficult,Good Work/Life Balance,Male,41,Peru,Bachelors,Hispanic or Latino,20
+0 days 00:01:54,Other,No,0-40,Other,R,1,7,7,1,4,10,Neither easy nor difficult,Better Salary,Male,23,United States,Associates,White or Caucasian,20
+0 days 00:03:34,Data Analyst,Yes,0-40,Finance,Python,4,7,8,7,8,8,Difficult,Better Salary,Male,31,Nigeria,Bachelors,Black or African American,20
+0 days 00:01:27,Data Analyst,No,0-40,Healthcare,Python,0,10,10,10,10,10,Difficult,Better Salary,Male,22,Philippines,Bachelors,Native Hawaiian or other Pacific Islander,20
+0 days 00:01:51,Data Analyst,No,66-85,Finance,Python,3,5,5,5,3,3,Very Difficult,Better Salary,Male,29,United States,Masters,Hispanic or Latino,75.5
+0 days 00:02:04,Data Scientist,Yes,0-40,Tech,Python,4,4,4,0,0,6,Difficult,Good Culture,Male,23,Malaysia,Bachelors,Other,20
+0 days 00:01:25,Student/Looking/None,No,0-40,Other,Other,0,0,1,1,0,1,Neither easy nor difficult,Remote Work,Female,24,United States,High School,Hispanic or Latino,20
+0 days 00:02:09,Data Analyst,Yes,66-85,Other,Python,5,9,10,10,5,10,Neither easy nor difficult,Better Salary,Male,26,United States,Bachelors,Black or African American,75.5
+0 days 00:01:30,Student/Looking/None,Yes,0-40,Finance,Python,4,3,5,2,2,3,Difficult,Good Culture,Male,31,India,Bachelors,Asian or Asian American,20
+0 days 00:01:31,Data Analyst,Yes,0-40,Other,Python,1,1,1,1,7,9,Neither easy nor difficult,Remote Work,Male,22,nigeria,Bachelors,Black or African American,20
+0 days 00:02:32,Data Analyst,Yes,66-85,Other,Python,7,8,10,8,7,5,Neither easy nor difficult,Remote Work,Male,31,Germany,Bachelors,White or Caucasian,75.5
+0 days 00:01:21,Student/Looking/None,Yes,0-40,Tech,Python,0,4,0,0,4,5,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Asian or Asian American,20
+0 days 00:01:32,Student/Looking/None,No,0-40,Other,Python,1,1,2,1,1,1,Difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American,20
+0 days 00:24:18,Data Analyst,Yes,0-40,Healthcare,Python,4,10,10,8,8,10,Easy,Good Work/Life Balance,Male,30,Colombia,Masters,Hispanic or Latino,20
+0 days 00:01:44,Data Analyst,Yes,41-65,Healthcare,R,0,6,5,6,0,2,Easy,Other,Male,28,United States,Masters,Hispanic or Latino,53
+0 days 00:01:37,Data Analyst,No,125-150,Finance,Python,6,6,5,4,2,4,Easy,Remote Work,Male,26,United States,Bachelors,White or Caucasian,137.5
+0 days 00:01:40,Data Scientist,Yes,125-150,Other,Python,6,7,7,10,6,7,Neither easy nor difficult,Remote Work,Female,32,United States,Masters,White or Caucasian,137.5
+0 days 00:02:41,Data Analyst,Yes,0-40,Other,Other,3,5,6,4,6,6,Neither easy nor difficult,Better Salary,Female,40,Poland,PhD,White or Caucasian,20
+0 days 00:02:38,Data Engineer,Yes,0-40,Other,Python,4,7,7,6,8,7,Neither easy nor difficult,Better Salary,Male,36,Singapore,Associates,Asian or Asian American,20
+0 days 00:01:29,Data Analyst,Yes,66-85,Finance,Python,6,10,9,9,9,10,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:00:59,Data Analyst,Yes,66-85,Tech,Python,3,4,4,4,5,5,Very Difficult,Good Work/Life Balance,Male,29,United States,Masters,Asian or Asian American,75.5
+0 days 00:04:08,Data Analyst,No,41-65,Finance,Python,6,5,9,9,7,5,Neither easy nor difficult,Other,Female,25,Germany,Masters,Hispanic or Latino,53
+0 days 00:02:05,Database Developer,Yes,41-65,Other,Python,6,8,8,9,6,8,Difficult,Remote Work,Male,29,United States,Bachelors,White or Caucasian,53
+0 days 00:02:04,Data Analyst,No,86-105,Agriculture,Python,7,6,7,4,5,8,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American,95.5
+0 days 00:02:02,Data Analyst,No,0-40,Other,R,1,1,1,1,1,1,Neither easy nor difficult,Remote Work,Male,34,Ghana,Bachelors,Black or African American,20
+0 days 00:01:27,Data Analyst,Yes,0-40,Finance,Python,5,2,5,4,3,5,Neither easy nor difficult,Good Work/Life Balance,Male,26,Egypt,Bachelors,White or Caucasian,20
+0 days 00:02:11,Data Analyst,No,0-40,Tech,Python,3,3,5,4,3,2,Difficult,Other,Female,22,India,Bachelors,Asian or Asian American,20
+0 days 00:01:40,Student/Looking/None,Yes,0-40,Construction,Python,0,2,0,1,1,2,Very Difficult,Remote Work,Female,24,Kenya,Bachelors,Black or African American,20
+0 days 00:03:09,Data Analyst,No,0-40,Other,Python,3,6,6,6,4,3,Neither easy nor difficult,Better Salary,Male,26,Costa Rica,Bachelors,Hispanic or Latino,20
+0 days 00:03:13,Data Architect,Yes,0-40,Finance,Python,5,6,2,3,3,5,Very Difficult,Good Work/Life Balance,Female,34,Portugsl,Masters,White or Caucasian,20
+0 days 00:02:27,Data Analyst,No,0-40,Tech,Python,3,5,4,5,4,2,Neither easy nor difficult,Better Salary,Male,29,India,Bachelors,Asian or Asian American,20
+0 days 00:01:27,Data Scientist,No,0-40,Tech,R,2,7,7,7,7,7,Easy,Better Salary,Male,21,Nigeria,Bachelors,Black or African American,20
+0 days 00:02:47,Other,No,0-40,Other,Python,2,4,5,3,1,1,Neither easy nor difficult,Good Work/Life Balance,Female,35,Macedonia,Masters,White or Caucasian,20
+0 days 00:01:43,Data Analyst,No,41-65,Education,Python,7,7,8,8,6,7,Neither easy nor difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American,53
+0 days 00:01:42,Data Analyst,Yes,41-65,Other,Python,2,4,7,10,5,10,Neither easy nor difficult,Remote Work,Male,28,United States,Bachelors,White or Caucasian,53
+0 days 00:02:02,Other,No,41-65,Other,Python,1,5,5,1,0,3,Easy,Better Salary,Female,33,United States,Bachelors,White or Caucasian,53
+0 days 00:01:57,Data Analyst,Yes,66-85,Other,Other,7,6,5,7,4,4,Easy,Better Salary,Female,56,United States,Bachelors,White or Caucasian,75.5
+0 days 00:04:30,Other,No,0-40,Other,Python,3,3,6,5,5,4,Difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American,20
+0 days 00:01:16,Data Scientist,Yes,125-150,Healthcare,Python,4,5,5,5,4,5,Difficult,Better Salary,Male,28,United States,Masters,White or Caucasian,137.5
+0 days 00:01:44,Student/Looking/None,No,0-40,Other,JavaScript,0,0,0,0,0,10,Neither easy nor difficult,Remote Work,Male,21,Egypt,High School,White or Caucasian,20
+0 days 00:02:14,Student/Looking/None,No,66-85,Other,Python,2,2,4,1,2,1,Neither easy nor difficult,Good Work/Life Balance,Male,35,United States,Masters,Black or African American,75.5
+0 days 00:01:25,Data Analyst,No,41-65,Healthcare,Python,7,5,9,9,9,8,Neither easy nor difficult,Remote Work,Male,29,Irel,Masters,Asian or Asian American,53
+0 days 00:01:18,Data Analyst,No,86-105,Tech,Python,9,10,8,8,7,7,Neither easy nor difficult,Other,Female,23,United States,Bachelors,Asian or Asian American,95.5
+0 days 00:03:06,Other,No,41-65,Finance,Python,3,3,3,0,0,1,Difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American,53
+0 days 00:01:36,Data Engineer,Yes,86-105,Other,Python,8,7,10,9,10,10,Easy,Better Salary,Male,27,United States,Masters,White or Caucasian,95.5
+0 days 00:01:54,Data Analyst,No,0-40,Tech,Python,3,8,7,5,8,7,Neither easy nor difficult,Better Salary,Male,22,India,Bachelors,Other,20
+0 days 00:02:02,Data Analyst,Yes,0-40,Other,Python,6,3,5,7,5,7,Neither easy nor difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American,20
+0 days 00:01:41,Other (Please Specify),No,106-125,Other (Please Specify),Java,7,7,4,5,5,4,Neither easy nor difficult,Better Salary,Male,43,United States,Masters,Asian or Asian American,115.5
+0 days 00:05:13,Other,Yes,0-40,Tech,Python,3,5,8,4,5,5,Difficult,Better Salary,Female,32,United States,Bachelors,Asian or Asian American,20
+0 days 00:01:06,Student/Looking/None,Yes,66-85,Healthcare,Other,4,6,6,5,5,0,Difficult,Good Work/Life Balance,Female,42,United States,Masters,Asian or Asian American,75.5
+0 days 00:01:40,Other,No,66-85,Other,Python,4,6,2,3,3,2,Very Difficult,Remote Work,Male,31,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:01:20,Data Engineer,No,0-40,Other,Python,0,10,10,5,0,3,Neither easy nor difficult,Better Salary,Male,25,United Kingdom,Bachelors,White or Caucasian,20
+0 days 00:01:49,Data Analyst,No,41-65,Agriculture,Other,3,5,5,5,3,2,Neither easy nor difficult,Better Salary,Female,25,United States,Masters,Asian or Asian American,53
+0 days 00:01:27,Data Analyst,Yes,106-125,Other,Other,9,9,9,6,9,8,Difficult,Good Work/Life Balance,Male,31,United States,Masters,Asian or Asian American,115.5
+0 days 00:01:23,Data Scientist,Yes,0-40,Education,Python,3,3,1,1,1,6,Difficult,Better Salary,Male,36,Morocco,Masters,White or Caucasian,20
+0 days 00:02:24,Other,No,41-65,Healthcare,Python,6,8,8,8,8,10,Neither easy nor difficult,Good Work/Life Balance,Female,35,Bulgaria,Masters,White or Caucasian,53
+0 days 00:01:40,Data Analyst,Yes,66-85,Other,R,6,10,10,10,9,8,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:55,Data Analyst,No,0-40,Other,Python,8,8,9,9,8,7,Neither easy nor difficult,Better Salary,Male,27,Peru,Bachelors,Hispanic or Latino,20
+0 days 00:01:23,Data Analyst,Yes,0-40,Other,Python,7,4,7,4,8,10,Easy,Good Work/Life Balance,Male,25,Costa Rica ,Bachelors,Hispanic or Latino,20
+0 days 00:01:59,Data Analyst,No,0-40,Other,Python,6,6,10,8,6,8,Neither easy nor difficult,Better Salary,Male,25,Poland,Bachelors,White or Caucasian,20
+0 days 00:01:10,Other,No,41-65,Other,R,5,5,5,5,5,5,Difficult,Good Work/Life Balance,Male,22,United States,Masters,White or Caucasian,53
+0 days 00:03:49,Data Analyst,Yes,41-65,Healthcare,Other,7,8,8,4,6,8,Neither easy nor difficult,Good Culture,Male,38,Germany,High School,White or Caucasian,53
+0 days 00:01:47,Data Analyst,Yes,0-40,Education,Python,0,0,5,0,0,0,Difficult,Good Culture,Male,27,Kenya,Bachelors,Black or African American,20
+0 days 00:02:55,Data Analyst,Yes,86-105,Other,Other,4,4,2,2,2,2,Easy,Remote Work,Female,34,Canada,Bachelors,Black or African American,95.5
+0 days 00:01:45,Data Analyst,Yes,66-85,Other,Python,9,10,10,9,8,10,Difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian,75.5
+0 days 00:03:52,Data Analyst,Yes,41-65,Tech,Python,4,9,8,8,6,10,Neither easy nor difficult,Better Salary,Female,33,Canada,Masters,Black or African American,53
+0 days 00:00:59,Student/Looking/None,Yes,0-40,Tech,Python,2,5,5,5,5,5,Very Difficult,Remote Work,Male,23,United States,Bachelors,Asian or Asian American,20
+0 days 00:01:26,Data Analyst,Yes,41-65,Healthcare,Other,3,10,9,10,5,0,Neither easy nor difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American,53
+0 days 00:01:54,Data Analyst,Yes,0-40,Tech,Python,4,4,4,5,2,1,Difficult,Better Salary,Male,29,Iran,Masters,White or Caucasian,20
+0 days 00:02:16,Other,Yes,41-65,Healthcare,R,5,7,9,8,8,8,Neither easy nor difficult,Better Salary,Female,29,United States,Masters,Black or African American,53
+0 days 00:01:45,Data Analyst,Yes,0-40,Tech,R,3,4,4,4,4,2,Easy,Better Salary,Male,31,India,Masters,Asian or Asian American,20
+0 days 00:01:33,Student/Looking/None,No,0-40,Real Estate,R,0,5,0,0,0,0,Very Difficult,Remote Work,Male,34,South Africa ,High School,Black or African American,20
+0 days 00:02:04,Data Analyst,Yes,0-40,Tech,Python,3,2,4,3,7,8,Easy,Good Work/Life Balance,Male,26,Bangladesh ,Bachelors,Other,20
+0 days 00:01:34,Other,No,86-105,Healthcare,Python,4,6,5,6,6,4,Neither easy nor difficult,Remote Work,Female,26,United States,Bachelors,White or Caucasian,95.5
+0 days 00:02:55,Other,Yes,41-65,Other,Other,3,6,9,6,5,10,Difficult,Other,Male,27,United States,Masters,Black or African American,53
+0 days 00:01:42,Data Analyst,Yes,66-85,Other,Python,8,5,9,6,6,10,Neither easy nor difficult,Remote Work,Male,26,United States,Bachelors,White or Caucasian,75.5
+0 days 00:03:01,Student/Looking/None,Yes,0-40,Tech,Python,4,5,4,4,3,4,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American,20
+0 days 00:01:18,Data Analyst,Yes,41-65,Finance,R,2,5,5,5,4,5,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian,53
+0 days 00:02:18,Data Analyst,Yes,86-105,Other,Python,4,6,3,4,4,2,Easy,Better Salary,Female,28,Ire,Masters,Other,95.5
+0 days 00:01:18,Data Analyst,Yes,106-125,Other,R,8,8,10,9,7,5,Easy,Better Salary,Male,29,United States,Bachelors,White or Caucasian,115.5
+0 days 00:01:02,Data Analyst,Yes,66-85,Finance,Python,3,2,1,1,0,2,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American,75.5
+0 days 00:01:19,Data Analyst,Yes,41-65,Other,Python,3,5,3,3,1,1,Neither easy nor difficult,Better Salary,Male,28,United Kingdom,Bachelors,White or Caucasian,53
+0 days 00:04:19,Data Analyst,No,0-40,Finance,Python,6,8,7,6,2,4,Easy,Other,Male,25,France,Masters,White or Caucasian,20
+0 days 00:01:30,Data Analyst,Yes,66-85,Finance,R,5,7,7,3,7,9,Difficult,Better Salary,Female,26,United States,Bachelors,Asian or Asian American,75.5
+0 days 00:05:36,Data Engineer,Yes,125-150,Healthcare,Python,6,3,9,5,8,8,Neither easy nor difficult,Remote Work,Female,38,United States,Masters,White or Caucasian,137.5
+0 days 00:02:00,Other (Please Specify),Yes,0-40,Other,Other,0,3,3,3,4,4,Neither easy nor difficult,Better Salary,Female,20,Nigeria ,High School,Black or African American,20
+0 days 00:02:04,Data Analyst,No,66-85,Education,Other,4,6,7,7,2,2,Neither easy nor difficult,Remote Work,Female,45,United States,Masters,Black or African American,75.5
+0 days 00:01:18,Data Analyst,No,86-105,Other,Python,5,3,5,6,6,4,Difficult,Good Work/Life Balance,Male,27,Canada,Masters,Other,95.5
+0 days 00:02:58,Data Analyst,Yes,41-65,Other,Python,3,7,7,7,7,6,Difficult,Good Culture,Male,28,Canada,Masters,Asian or Asian American,53
+0 days 00:04:30,Student/Looking/None,Yes,0-40,Other,R,2,10,10,10,10,3,Neither easy nor difficult,Remote Work,Female,29,Germany,Bachelors,Other,20
+0 days 00:01:57,Other,No,41-65,Tech,C/C++,7,7,7,7,7,7,Neither easy nor difficult,Better Salary,Female,43,Singapore,High School,Asian or Asian American,53
+0 days 00:02:27,Data Analyst,Yes,0-40,Finance,Python,0,5,9,9,0,10,Neither easy nor difficult,Remote Work,Male,26,Antigua ,Bachelors,Black or African American,20
+0 days 00:04:17,Student/Looking/None,No,41-65,Tech,Other,7,8,7,7,8,7,Neither easy nor difficult,Other,Female,47,United States,Bachelors,Black or African American,53
+0 days 00:01:42,Student/Looking/None,Yes,0-40,Finance,Python,4,6,6,8,10,10,Easy,Remote Work,Male,23,Nigeria ,Bachelors,Black or African American,20
+0 days 00:01:20,Data Analyst,Yes,0-40,Tech,Python,0,1,1,1,1,2,Very Difficult,Better Salary,Male,25,Egypt,Bachelors,Other,20
+0 days 00:02:02,Other,No,0-40,Finance,Python,6,6,3,7,2,4,Very Difficult,Other,Male,32,Poland,Masters,White or Caucasian,20
+0 days 00:01:09,Data Analyst,Yes,0-40,Finance,Python,1,10,10,5,3,1,Neither easy nor difficult,Better Salary,Female,25,United States,Bachelors,White or Caucasian,20
+0 days 00:02:40,Data Analyst,No,0-40,Finance,Python,1,2,10,1,2,8,Difficult,Remote Work,Female,29,Venezuela,Bachelors,Hispanic or Latino,20
+0 days 00:01:11,Data Analyst,No,41-65,Healthcare,Other,3,7,5,5,3,3,Neither easy nor difficult,Better Salary,Female,33,United States,Bachelors,Asian or Asian American,53
+0 days 00:04:51,Data Analyst,No,106-125,Education,Python,6,10,10,10,7,6,Easy,Other,Male,36,United States,Masters,Asian or Asian American,115.5
+0 days 00:01:32,Data Analyst,Yes,41-65,Healthcare,Python,4,10,9,3,0,10,Difficult,Good Work/Life Balance,Male,25,United States,Bachelors,White or Caucasian,53
+0 days 00:03:19,Data Scientist,No,150-225,Other (Please Specify),Python,8,7,8,7,7,8,Neither easy nor difficult,Good Work/Life Balance,Male,38,United States,Masters,White or Caucasian,187.5
+0 days 00:03:42,Data Analyst,Yes,66-85,Other,R,3,2,6,6,5,4,Difficult,Good Work/Life Balance,Male,30,United States,Masters,Other,75.5
+0 days 00:01:48,Data Analyst,Yes,41-65,Tech,Python,3,5,6,6,6,7,Difficult,Good Culture,Male,35,United States,Masters,Black or African American,53
+0 days 00:01:44,Other,No,41-65,Education,Other,0,1,10,5,0,0,Difficult,Better Salary,Female,42,United States,Bachelors,White or Caucasian,53
+0 days 00:01:40,Data Analyst,Yes,66-85,Healthcare,Python,3,5,4,6,4,6,Easy,Remote Work,Male,30,United States,Masters,White or Caucasian,75.5
+0 days 00:01:57,Student/Looking/None,Yes,0-40,Other,Python,0,0,0,0,0,4,Very Difficult,Better Salary,Female,25,Nigeria,Bachelors,Black or African American,20
+0 days 01:09:45,Data Analyst,No,86-105,Healthcare,Python,5,9,5,2,5,1,Difficult,Good Culture,Female,28,United States,Bachelors,Asian or Asian American,95.5
+0 days 00:04:54,Data Analyst,Yes,0-40,Other,Python,5,10,8,5,7,10,Very Difficult,Other,Male,28,Canada,Bachelors,Asian or Asian American,20
+0 days 00:00:59,Student/Looking/None,No,0-40,Other,Other,0,0,0,0,0,0,Neither easy nor difficult,Better Salary,Male,20,Malaysia,High School,Asian or Asian American,20
+0 days 00:02:26,Data Analyst,Yes,106-125,Construction,Other,7,8,7,7,10,10,Easy,Good Culture,Male,33,United States,Masters,Hispanic or Latino,115.5
+0 days 00:12:09,Data Analyst,No,66-85,Tech,Python,8,6,7,7,8,8,Easy,Better Salary,Male,23,United States,Associates,White or Caucasian,75.5
+0 days 00:00:43,Data Analyst,Yes,0-40,Healthcare,R,4,5,7,7,5,7,Neither easy nor difficult,Better Salary,Female,35,Brazik,Bachelors,Hispanic or Latino,20
+0 days 00:04:01,Student/Looking/None,Yes,0-40,Other,Python,2,2,3,3,2,3,Difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American,20
+0 days 00:02:40,Data Analyst,Yes,0-40,Tech,Python,5,10,5,6,6,8,Very Difficult,Better Salary,Male,33,India,Bachelors,Asian or Asian American,20
+0 days 00:00:59,Data Engineer,No,0-40,Real Estate,Python,1,7,7,7,1,2,Very Easy,Better Salary,Male,22,United States,Bachelors,White or Caucasian,20
+0 days 00:03:27,Data Analyst,Yes,86-105,Other,R,7,8,8,7,5,9,Neither easy nor difficult,Remote Work,Male,35,United States,Bachelors,White or Caucasian,95.5
+0 days 00:02:55,Data Analyst,Yes,66-85,Agriculture,Other,8,5,6,4,4,8,Easy,Good Work/Life Balance,Female,37,United States,Masters,White or Caucasian,75.5
+0 days 00:00:51,Student/Looking/None,Yes,0-40,Finance,Python,4,6,6,5,5,6,Very Easy,Better Salary,Male,22,United States,Associates,Other,20
+0 days 00:02:12,Data Analyst,Yes,66-85,Healthcare,Python,10,10,10,7,10,10,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian,75.5
+0 days 00:02:29,Data Scientist,Yes,86-105,Other,Python,6,5,8,8,7,9,Easy,Good Work/Life Balance,Male,26,India,Bachelors,Hispanic or Latino,95.5
+0 days 00:05:15,Data Analyst,Yes,0-40,Other,R,3,2,6,5,5,6,Neither easy nor difficult,Good Culture,Female,25,South Korea,Bachelors,Asian or Asian American,20
+0 days 00:02:55,Data Analyst,Yes,41-65,Other,R,4,6,6,5,5,6,Neither easy nor difficult,Remote Work,Female,34,United States,High School,White or Caucasian,53
+0 days 00:02:58,Data Analyst,Yes,0-40,Other,Python,4,8,8,8,7,8,Difficult,Remote Work,Male,33,Chile,Bachelors,Hispanic or Latino,20
+0 days 00:02:00,Student/Looking/None,No,41-65,Other,Python,0,4,0,1,4,2,Very Difficult,Good Work/Life Balance,Male,37,United States,Bachelors,White or Caucasian,53
+0 days 00:01:27,Data Analyst,No,66-85,Other,Python,5,5,7,6,4,6,Very Easy,Better Salary,Female,54,United States,High School,White or Caucasian,75.5
+0 days 00:00:59,Data Analyst,Yes,0-40,Finance,Python,2,6,6,5,5,6,Very Easy,Better Salary,Male,26,India,Bachelors,Asian or Asian American,20
+0 days 00:01:49,Data Analyst,No,41-65,Education,R,4,7,7,7,2,7,Neither easy nor difficult,Better Salary,Female,27,United States,Masters,Hispanic or Latino,53
+0 days 00:02:20,Database Developer,Yes,0-40,Telecommunication,Other,2,3,6,6,3,5,Difficult,Better Salary,Male,24,United Kingdom,Bachelors,White or Caucasian,20
+0 days 00:01:41,Data Analyst,Yes,0-40,Finance,Python,5,5,5,5,5,10,Neither easy nor difficult,Better Salary,Male,24,Egypt,Bachelors,White or Caucasian,20
+0 days 00:01:29,Other,Yes,0-40,Other,Python,3,4,5,3,2,3,Neither easy nor difficult,Better Salary,Male,27,Panama,Bachelors,White or Caucasian,20
+0 days 00:01:37,Student/Looking/None,No,0-40,Other,Python,0,0,0,0,0,0,Very Difficult,Remote Work,Male,25,indonesia,Bachelors,Asian or Asian American,20
+0 days 00:02:47,Data Analyst,Yes,0-40,Tech,Python,1,7,7,7,7,1,Difficult,Better Salary,Female,28,United Kingdom,Masters,Black or African American,20
+0 days 00:01:23,Other,No,41-65,Education,Python,3,6,5,5,3,4,Easy,Remote Work,Male,21,United States,Bachelors,Asian or Asian American,53
+0 days 00:01:15,Data Analyst,Yes,86-105,Healthcare,Other,4,4,5,5,4,6,Difficult,Good Work/Life Balance,Female,28,United States,Bachelors,White or Caucasian,95.5
+0 days 00:03:20,Data Analyst,Yes,0-40,Tech,Python,3,5,5,5,5,2,Neither easy nor difficult,Remote Work,Male,30,Ghana,Masters,Black or African American,20
+0 days 00:02:39,Data Analyst,No,0-40,Education,Python,0,10,0,9,5,10,Easy,Remote Work,Male,24,Angola,Associates,Black or African American,20
+0 days 00:02:01,Data Analyst,Yes,0-40,Healthcare,Python,7,4,6,5,6,6,Difficult,Remote Work,Male,26,India,Bachelors,Other,20
+0 days 00:03:23,Data Analyst,Yes,0-40,Tech,Python,4,6,6,5,5,5,Neither easy nor difficult,Good Work/Life Balance,Female,19,Bangladesh ,High School,Asian or Asian American,20
+0 days 00:04:03,Student/Looking/None,No,0-40,Other,Python,5,6,6,5,1,3,Neither easy nor difficult,Good Work/Life Balance,Female,92,India,Masters,Asian or Asian American,20
+0 days 00:02:33,Data Analyst,Yes,0-40,Healthcare,Python,1,8,5,1,7,8,Neither easy nor difficult,Remote Work,Male,28,Nigeria,Bachelors,Black or African American,20
+0 days 00:01:34,Student/Looking/None,Yes,0-40,Education,Python,0,1,2,2,1,1,Neither easy nor difficult,Better Salary,Female,24,India,Masters,Asian or Asian American,20
+0 days 00:03:39,Other,No,41-65,Healthcare,Python,7,10,10,10,5,10,Easy,Better Salary,Male,25,United States,Masters,Asian or Asian American,53
+0 days 00:04:04,Data Analyst,Yes,41-65,Finance,Python,4,5,5,5,6,6,Neither easy nor difficult,Good Work/Life Balance,Male,42,United Kingdom,Masters,Black or African American,53
+0 days 00:01:05,Data Analyst,Yes,0-40,Tech,Python,2,3,3,3,3,3,Difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American,20
+0 days 00:02:36,Data Analyst,No,66-85,Healthcare,Python,7,8,9,7,7,6,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian,75.5
+0 days 00:02:32,Data Analyst,Yes,41-65,Healthcare,Python,4,7,6,6,6,7,Neither easy nor difficult,Better Salary,Female,26,United States,Bachelors,White or Caucasian,53
+0 days 00:01:16,Data Analyst,Yes,0-40,Other,Python,2,8,8,9,8,10,Difficult,Better Salary,Male,30,United Kingdom,Bachelors,White or Caucasian,20
+0 days 00:05:51,Data Engineer,Yes,86-105,Other,Other,6,10,10,10,10,10,Neither easy nor difficult,Good Culture,Male,27,United States,Bachelors,Black or African American,95.5
+0 days 00:02:01,Data Engineer,Yes,0-40,Tech,Python,0,4,1,0,1,3,Easy,Better Salary,Male,28,India,Bachelors,Asian or Asian American,20
+0 days 00:02:27,Data Analyst,No,66-85,Real Estate,Other,6,8,7,7,5,6,Easy,Better Salary,Female,29,United Kingdom,Bachelors,White or Caucasian,75.5
+0 days 00:02:43,Data Analyst,No,0-40,Other,Python,0,0,0,0,0,0,Easy,Good Work/Life Balance,Female,26,India,Bachelors,Asian or Asian American,20
+0 days 00:02:47,Data Engineer,Yes,0-40,Finance,Python,3,3,3,3,3,4,Neither easy nor difficult,Remote Work,Male,29,Africa (Nigeria),Bachelors,Black or African American,20
+0 days 00:01:51,Other,No,66-85,Finance,Other,3,5,7,2,5,7,Easy,Remote Work,Male,60,United Kingdom,Masters,White or Caucasian,75.5
+0 days 00:01:55,Data Analyst,Yes,0-40,Healthcare,Python,5,8,8,5,5,6,Neither easy nor difficult,Better Salary,Male,25,Nigeria ,Bachelors,Black or African American,20
+0 days 00:03:13,Other,No,0-40,Construction,R,0,0,1,3,2,1,Neither easy nor difficult,Good Work/Life Balance,Female,37,Nigeria ,Masters,Other,20
+0 days 00:01:31,Data Analyst,Yes,66-85,Finance,Python,6,8,3,4,5,1,Neither easy nor difficult,Better Salary,Female,30,Canada,Bachelors,Asian or Asian American,75.5
+0 days 00:04:48,Data Analyst,Yes,0-40,Healthcare,Python,0,1,2,1,0,3,Neither easy nor difficult,Better Salary,Female,27,Nigeria ,Masters,Black or African American,20
+0 days 00:01:04,Data Scientist,Yes,225,Tech,R,5,6,5,5,6,6,Difficult,Other,Male,31,United States,PhD,White or Caucasian,225
+0 days 00:02:11,Student/Looking/None,No,0-40,Other,R,10,10,10,10,10,10,Neither easy nor difficult,Good Work/Life Balance,Male,24,United Kingdom,Masters,Asian or Asian American,20
+0 days 00:03:11,Data Analyst,No,0-40,Finance,Other,0,6,6,6,5,6,Neither easy nor difficult,Better Salary,Female,20,United States,Bachelors,Black or African American,20
+0 days 00:02:30,Other,No,0-40,Tech,R,2,1,4,1,1,1,Easy,Good Work/Life Balance,Male,24,India,Bachelors,Asian or Asian American,20
+0 days 00:01:32,Student/Looking/None,Yes,0-40,Other,R,3,6,7,6,4,4,Neither easy nor difficult,Good Work/Life Balance,Male,24,Romania,Bachelors,White or Caucasian,20
+0 days 00:01:30,Student/Looking/None,No,0-40,Other,R,0,1,3,0,0,0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Spain,Bachelors,Hispanic or Latino,20
+0 days 00:02:12,Data Analyst,Yes,86-105,Tech,R,8,8,8,8,8,8,Difficult,Better Salary,Male,41,United States,Bachelors,White or Caucasian,95.5
+0 days 00:01:52,Other,No,150-225,Other,Python,9,8,9,10,8,10,Neither easy nor difficult,Good Culture,Male,43,United States,Bachelors,White or Caucasian,187.5
+0 days 00:01:53,Data Analyst,No,66-85,Healthcare,Python,7,7,8,4,6,9,Easy,Remote Work,Female,38,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:53,Data Analyst,Yes,0-40,Other,Python,5,5,5,5,5,6,Neither easy nor difficult,Better Salary,Female,28,Philippines,Bachelors,Asian or Asian American,20
+0 days 00:01:30,Data Analyst,Yes,86-105,Healthcare,Python,10,8,6,10,7,5,Neither easy nor difficult,Good Culture,Female,31,Germany,Bachelors,Hispanic or Latino,95.5
+0 days 00:01:31,Data Analyst,Yes,86-105,Other,Other,8,7,8,6,7,8,Difficult,Good Work/Life Balance,Female,28,United States,Masters,White or Caucasian,95.5
+0 days 00:00:55,Data Analyst,No,41-65,Healthcare,C/C++,7,8,9,9,4,9,Easy,Remote Work,Male,23,United States,Masters,Asian or Asian American,53
+0 days 00:01:47,Data Analyst,No,41-65,Other,Python,5,5,4,5,6,6,Neither easy nor difficult,Better Salary,Male,25,United Kingdom,Bachelors,Black or African American,53
+0 days 00:01:22,Other,No,0-40,Tech,R,2,5,2,8,9,10,Difficult,Remote Work,Male,26,Poland,Masters,White or Caucasian,20
+0 days 00:00:47,Data Scientist,Yes,125-150,Finance,Python,9,4,8,7,5,6,Difficult,Good Work/Life Balance,Male,35,United States,Bachelors,White or Caucasian,137.5
+0 days 00:01:43,Data Analyst,Yes,106-125,Other,R,8,9,9,7,8,8,Neither easy nor difficult,Remote Work,Male,30,Denmark,Masters,White or Caucasian,115.5
+0 days 00:01:38,Data Analyst,Yes,86-105,Tech,R,3,6,6,5,5,6,Neither easy nor difficult,Better Salary,Male,35,United Kingdom,Bachelors,White or Caucasian,95.5
+0 days 00:02:06,Data Analyst,Yes,0-40,Telecommunication,Python,0,8,5,5,2,2,Easy,Better Salary,Male,28,Panama,Bachelors,Hispanic or Latino,20
+0 days 00:02:01,Student/Looking/None,No,0-40,Tech,Python,0,2,3,3,2,3,Easy,Good Work/Life Balance,Female,24,Nigeria,Bachelors,Black or African American,20
+0 days 00:04:32,Data Analyst,Yes,41-65,Tech,Python,8,10,7,5,6,5,Neither easy nor difficult,Good Culture,Female,34,United States,Bachelors,White or Caucasian,53
+0 days 00:01:52,Data Analyst,Yes,41-65,Tech,Python,3,5,4,5,3,6,Neither easy nor difficult,Good Work/Life Balance,Female,31,Germany,Masters,White or Caucasian,53
+0 days 00:01:06,Data Analyst,Yes,0-40,Tech,Python,0,0,0,0,0,0,Difficult,Good Work/Life Balance,Male,30,United Kingdom,Masters,Asian or Asian American,20
+0 days 00:01:28,Data Engineer,Yes,86-105,Other,JavaScript,4,4,1,6,1,5,Difficult,Better Salary,Male,40,United Kingdom,Bachelors,White or Caucasian,95.5
+0 days 00:02:02,Data Analyst,No,41-65,Other,R,4,10,10,10,8,6,Very Difficult,Better Salary,Male,26,United States,Bachelors,Hispanic or Latino,53
+0 days 00:01:00,Data Analyst,No,125-150,Healthcare,R,9,9,6,6,6,7,Neither easy nor difficult,Good Culture,Male,25,United States,Bachelors,White or Caucasian,137.5
+0 days 00:02:27,Data Analyst,Yes,0-40,Other,Other,4,5,8,4,8,4,Easy,Good Culture,Male,45,Greece,Associates,White or Caucasian,20
+0 days 00:03:12,Data Analyst,No,41-65,Finance,R,7,9,8,6,6,9,Neither easy nor difficult,Good Culture,Male,26,United States,Masters,Black or African American,53
+0 days 00:01:43,Data Scientist,No,0-40,Finance,Python,7,7,8,6,6,4,Neither easy nor difficult,Good Work/Life Balance,Male,26,India,Masters,Other,20
+0 days 00:02:44,Other,Yes,0-40,Finance,Python,3,2,4,2,2,3,Difficult,Better Salary,Male,23,India,Masters,Asian or Asian American,20
+0 days 00:00:56,Data Engineer,Yes,106-125,Tech,Python,4,4,4,4,5,6,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American,115.5
+0 days 00:01:11,Data Analyst,Yes,41-65,Healthcare,R,4,5,6,6,5,6,Neither easy nor difficult,Better Salary,Female,33,United States,High School,White or Caucasian,53
+0 days 00:02:02,Other,No,0-40,Other,Other,6,3,3,6,6,4,Very Easy,Other,Male,33,India,Bachelors,Asian or Asian American,20
+0 days 00:01:13,Data Analyst,Yes,86-105,Healthcare,R,7,8,7,8,3,4,Easy,Good Culture,Male,27,United States,Bachelors,White or Caucasian,95.5
+0 days 00:01:59,Data Analyst,Yes,106-125,Tech,Python,9,9,9,8,8,9,Difficult,Remote Work,Female,28,United States,Masters,Hispanic or Latino,115.5
+0 days 00:03:18,Data Analyst,Yes,66-85,Tech,Python,5,6,7,6,6,7,Very Easy,Better Salary,Male,32,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:01:24,Data Analyst,Yes,0-40,Tech,Python,2,6,3,6,6,7,Neither easy nor difficult,Better Salary,Male,35,India,Masters,Asian or Asian American,20
+0 days 00:01:49,Data Analyst,Yes,86-105,Real Estate,Python,8,9,10,10,9,10,Neither easy nor difficult,Good Culture,Male,34,United States,Masters,Hispanic or Latino,95.5
+0 days 00:01:39,Data Analyst,No,41-65,Other,Python,9,8,3,5,2,4,Easy,Better Salary,Male,27,Germany,Masters,White or Caucasian,53
+0 days 00:02:30,Other,Yes,66-85,Education,R,4,5,5,3,3,4,Easy,Good Culture,Female,30,United States,Masters,White or Caucasian,75.5
+0 days 00:02:06,Data Analyst,No,66-85,Other,Python,8,9,9,9,9,10,Neither easy nor difficult,Better Salary,Male,34,United States,Masters,White or Caucasian,75.5
+0 days 00:02:20,Other,No,41-65,Other,Python,3,10,6,5,7,8,Neither easy nor difficult,Remote Work,Female,22,United States,Bachelors,White or Caucasian,53
+0 days 00:01:02,Data Analyst,Yes,0-40,Finance,Python,2,2,5,5,2,3,Very Difficult,Good Work/Life Balance,Female,33,India,Masters,Asian or Asian American,20
+0 days 00:01:53,Data Analyst,No,0-40,Finance,Python,8,9,9,9,9,9,Neither easy nor difficult,Better Salary,Female,26,India,Masters,Asian or Asian American,20
+0 days 00:01:36,Data Engineer,Yes,0-40,Tech,Python,0,5,8,6,5,7,Neither easy nor difficult,Better Salary,Male,28,Argentina,Bachelors,Hispanic or Latino,20
+0 days 00:05:32,Other,No,0-40,Other,Python,2,2,7,4,8,1,Difficult,Remote Work,Male,42,United Kingdom,Bachelors,Other,20
+0 days 00:02:06,Data Analyst,No,0-40,Other,R,4,10,2,3,2,3,Neither easy nor difficult,Better Salary,Male,30,Morocco,Masters,Other,20
+0 days 00:01:22,Data Scientist,Yes,106-125,Tech,Other,10,9,8,8,9,10,Difficult,Better Salary,Male,25,United States,Associates,White or Caucasian,115.5
+0 days 00:01:00,Data Analyst,Yes,41-65,Construction,Python,4,6,6,6,5,7,Easy,Better Salary,Male,32,United States,Bachelors,Black or African American,53
+0 days 00:01:56,Data Analyst,No,0-40,Tech,Python,3,4,5,5,6,6,Neither easy nor difficult,Better Salary,Male,31,Germany,Masters,Asian or Asian American,20
+0 days 10:34:43,Data Analyst,Yes,150-225,Education,Python,8,7,5,4,7,7,Easy,Remote Work,Male,30,UAE,High School,White or Caucasian,187.5
+0 days 00:02:26,Student/Looking/None,Yes,0-40,Other,Python,0,6,6,2,0,3,Neither easy nor difficult,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American,20
+0 days 00:02:17,Other,No,66-85,Education,R,7,7,6,7,6,6,Easy,Remote Work,Female,31,United Kingdom,Bachelors,White or Caucasian,75.5
+0 days 00:02:40,Data Analyst,No,41-65,Other,Python,7,5,9,9,4,9,Neither easy nor difficult,Good Work/Life Balance,Female,29,Fin,Masters,Black or African American,53
+0 days 00:02:38,Data Analyst,Yes,0-40,Tech,Python,5,4,4,5,7,10,Neither easy nor difficult,Remote Work,Male,24,Nigeria,Bachelors,Other,20
+0 days 00:02:38,Other,No,41-65,Other,Python,2,7,6,5,6,4,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,Asian or Asian American,53
+0 days 00:02:29,Data Analyst,Yes,41-65,Real Estate,R,4,6,6,6,6,6,Difficult,Remote Work,Female,32,United States,Masters,White or Caucasian,53
+0 days 00:03:55,Other,Yes,86-105,Healthcare,Python,8,9,7,7,7,9,Difficult,Remote Work,Female,36,United States,Bachelors,White or Caucasian,95.5
+0 days 00:01:53,Data Engineer,No,106-125,Healthcare,Other,8,6,5,2,3,2,Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian,115.5
+0 days 00:05:09,Student/Looking/None,Yes,0-40,Other,R,0,2,2,3,3,4,Neither easy nor difficult,Good Work/Life Balance,Male,42,Sudan,Masters,Black or African American,20
+0 days 00:03:26,Data Analyst,Yes,86-105,Healthcare,Other,6,6,6,5,4,4,Easy,Remote Work,Male,53,Austr,PhD,White or Caucasian,95.5
+0 days 00:03:17,Data Analyst,No,0-40,Finance,Python,1,7,4,10,10,10,Neither easy nor difficult,Better Salary,Male,25,Kenya,High School,Other,20
+0 days 00:02:21,Data Analyst,No,0-40,Healthcare,Python,1,5,4,6,5,6,Neither easy nor difficult,Better Salary,Male,23,Leba,Bachelors,White or Caucasian,20
+0 days 00:03:25,Data Analyst,Yes,0-40,Agriculture,Python,2,1,3,3,3,4,Difficult,Better Salary,Male,36,Saudi Arabia,Bachelors,Other,20
+0 days 00:09:42,Data Analyst,Yes,41-65,Healthcare,Other,4,6,6,5,5,6,Easy,Good Work/Life Balance,Male,32,United Arab Emirates ,Bachelors,Other,53
+0 days 00:01:23,Data Analyst,No,86-105,Finance,Python,3,6,4,2,2,3,Difficult,Other,Male,25,United States,Masters,Hispanic or Latino,95.5
+0 days 00:03:19,Data Engineer,Yes,41-65,Tech,Python,4,4,3,4,4,5,Neither easy nor difficult,Remote Work,Female,35,United Kingdom,Masters,Asian or Asian American,53
+0 days 00:01:19,Data Analyst,Yes,66-85,Other,R,3,4,4,5,4,4,Very Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:07,Student/Looking/None,No,0-40,Tech,Python,2,7,9,7,3,3,Difficult,Remote Work,Male,22,United States,Bachelors,White or Caucasian,20
+0 days 00:01:43,Data Scientist,Yes,86-105,Other,Python,6,8,10,9,6,8,Neither easy nor difficult,Better Salary,Male,30,Canada,Masters,Asian or Asian American,95.5
+0 days 00:02:37,Data Analyst,Yes,66-85,Other,Python,2,8,6,1,8,10,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian,75.5
+0 days 00:02:25,Data Analyst,Yes,66-85,Healthcare,R,4,4,5,5,4,6,Neither easy nor difficult,Other,Female,30,United States,Masters,White or Caucasian,75.5
+0 days 00:01:35,Data Scientist,Yes,106-125,Finance,Python,9,8,10,10,10,10,Difficult,Remote Work,Male,29,United States,Bachelors,Asian or Asian American,115.5
+0 days 00:04:47,Other,Yes,66-85,Other,R,8,10,10,7,8,5,Difficult,Other,Male,30,United States,Masters,White or Caucasian,75.5
+0 days 00:01:03,Data Engineer,No,41-65,Finance,Python,0,6,6,6,6,6,Very Easy,Better Salary,Male,24,United States,Bachelors,Black or African American,53
+0 days 00:01:37,Data Engineer,Yes,225,Tech,Other,3,3,4,4,3,5,Neither easy nor difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American,225
+0 days 00:01:37,Data Analyst,No,106-125,Other,Python,10,10,10,10,10,6,Easy,Better Salary,Female,42,United States,Bachelors,White or Caucasian,115.5
+0 days 00:01:54,Data Analyst,Yes,41-65,Healthcare,Python,1,10,10,8,10,3,Neither easy nor difficult,Better Salary,Female,36,United States,Bachelors,White or Caucasian,53
+0 days 00:01:43,Data Analyst,Yes,41-65,Other,Python,2,3,7,6,5,6,Neither easy nor difficult,Better Salary,Male,27,United States,Bachelors,White or Caucasian,53
+0 days 00:01:35,Data Analyst,No,0-40,Tech,Python,8,7,8,7,7,9,Easy,Other,Female,21,India,Bachelors,Asian or Asian American,20
+0 days 00:01:31,Data Analyst,Yes,41-65,Healthcare,Python,8,5,8,8,5,10,Difficult,Remote Work,Female,34,Israel,Masters,White or Caucasian,53
+0 days 00:01:20,Student/Looking/None,No,0-40,Education,Python,2,5,5,5,2,4,Difficult,Better Salary,Male,27,Netherlands,Bachelors,White or Caucasian,20
+0 days 00:01:58,Other,Yes,0-40,Tech,Python,7,8,8,8,8,7,Neither easy nor difficult,Good Culture,Male,27,France,Masters,White or Caucasian,20
+0 days 00:03:34,Student/Looking/None,No,0-40,Education,R,1,1,2,1,0,3,Neither easy nor difficult,Good Work/Life Balance,Male,30,Kenya,Associates,Other,20
+0 days 00:01:29,Data Analyst,Yes,66-85,Other,Other,2,0,0,0,0,2,Difficult,Better Salary,Female,33,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:57,Data Analyst,Yes,86-105,Finance,Python,3,3,4,4,4,4,Difficult,Good Culture,Male,47,India,Masters,American Indian or Alaska Native,95.5
+0 days 00:01:34,Data Analyst,Yes,66-85,Other,Other,4,5,4,5,4,4,Difficult,Other,Male,27,United States,Masters,Asian or Asian American,75.5
+0 days 00:03:19,Data Analyst,No,0-40,Healthcare,Python,6,7,8,7,6,7,Neither easy nor difficult,Better Salary,Male,26,India,Bachelors,Asian or Asian American,20
+0 days 00:01:41,Data Analyst,No,0-40,Finance,Python,2,3,2,5,5,6,Neither easy nor difficult,Remote Work,Female,35,India,Masters,Asian or Asian American,20
+0 days 00:01:11,Data Analyst,Yes,86-105,Education,Python,0,1,1,0,0,0,Neither easy nor difficult,Good Culture,Male,31,United States,Masters,Hispanic or Latino,95.5
+0 days 00:03:44,Data Analyst,Yes,0-40,Education,Python,2,1,2,3,4,3,Difficult,Remote Work,Male,25,Zambia,Bachelors,Black or African American,20
+0 days 00:02:11,Data Engineer,Yes,66-85,Real Estate,Python,3,10,8,8,10,10,Easy,Remote Work,Male,27,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:57,Data Analyst,Yes,41-65,Tech,Python,5,8,3,2,4,8,Neither easy nor difficult,Good Culture,Male,32,Netherlands,Bachelors,White or Caucasian,53
+0 days 00:02:42,Student/Looking/None,Yes,0-40,Real Estate,Python,0,3,3,3,3,6,Difficult,Good Work/Life Balance,Male,47,Portugal,Bachelors,White or Caucasian,20
+0 days 00:01:31,Other,No,66-85,Finance,Python,0,10,10,5,0,0,Neither easy nor difficult,Good Work/Life Balance,Female,30,United States,Masters,Asian or Asian American,75.5
+0 days 00:01:52,Data Analyst,Yes,106-125,Other,Python,8,6,6,7,9,10,Easy,Better Salary,Female,35,United States,Masters,Black or African American,115.5
+0 days 00:02:16,Data Analyst,Yes,41-65,Finance,Python,6,9,5,7,8,9,Difficult,Remote Work,Male,25,United States,High School,Hispanic or Latino,53
+0 days 00:03:02,Other,No,66-85,Other,Python,3,6,6,6,6,6,Neither easy nor difficult,Better Salary,Male,27,United States,Bachelors,White or Caucasian,75.5
+0 days 00:01:20,Data Analyst,Yes,41-65,Healthcare,R,1,5,3,3,6,5,Difficult,Remote Work,Female,27,United States,Masters,Black or African American,53
+0 days 00:01:52,Student/Looking/None,No,0-40,Other,Python,1,8,8,1,3,7,Very Easy,Better Salary,Female,23,India,Masters,Asian or Asian American,20
+0 days 00:02:10,Data Scientist,No,41-65,Other,Python,9,10,10,10,10,10,Neither easy nor difficult,Good Culture,Male,18,United States,Bachelors,White or Caucasian,53
+0 days 00:01:42,Data Analyst,Yes,0-40,Healthcare,Python,8,10,9,6,8,9,Easy,Remote Work,Female,28,Costa Rica ,Masters,Hispanic or Latino,20
+0 days 00:01:20,Other,Yes,125-150,Healthcare,Python,7,6,8,8,8,7,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian,137.5
+0 days 00:01:35,Student/Looking/None,No,0-40,Other,Python,0,0,0,0,0,0,Easy,Good Work/Life Balance,Female,26,United States,Bachelors,American Indian or Alaska Native,20
+0 days 00:01:57,Student/Looking/None,No,0-40,Education,Python,0,0,3,0,0,8,Difficult,Better Salary,Male,27,ghana,Bachelors,Black or African American,20
+0 days 00:02:48,Data Analyst,No,41-65,Tech,Python,9,7,9,10,10,10,Neither easy nor difficult,Good Work/Life Balance,Female,22,India,Masters,Asian or Asian American,53
+0 days 00:01:56,Data Analyst,Yes,0-40,Tech,R,0,8,7,6,3,9,Very Difficult,Better Salary,Male,27,United States,High School,White or Caucasian,20
+0 days 00:01:43,Data Engineer,Yes,0-40,Other,Python,5,7,6,8,7,7,Neither easy nor difficult,Good Work/Life Balance,Male,28,India,Bachelors,Asian or Asian American,20
+0 days 00:01:46,Data Analyst,Yes,0-40,Tech,Python,3,2,4,3,3,3,Neither easy nor difficult,Better Salary,Male,25,Nigeria,High School,Black or African American,20
+0 days 00:01:52,Data Analyst,No,0-40,Healthcare,Python,2,6,6,7,7,9,Difficult,Better Salary,Male,32,United Kingdom,Bachelors,Hispanic or Latino,20
+0 days 00:10:34,Student/Looking/None,Yes,0-40,Finance,Other,7,9,10,10,3,4,Easy,Remote Work,Male,33,Uruguay,Bachelors,White or Caucasian,20
+0 days 00:02:53,Data Analyst,No,41-65,Other,Python,5,6,5,2,3,3,Easy,Remote Work,Male,23,Canada,Masters,Black or African American,53
+0 days 00:01:49,Student/Looking/None,Yes,0-40,Finance,R,4,5,4,4,5,6,Neither easy nor difficult,Remote Work,Female,40,Nigeria,Bachelors,Black or African American,20
+0 days 00:02:39,Data Analyst,Yes,41-65,Other,Python,7,9,9,9,7,9,Easy,Better Salary,Female,28,United Kingdom,Bachelors,Asian or Asian American,53
+0 days 00:03:50,Data Analyst,No,0-40,Real Estate,R,3,7,8,6,6,9,Difficult,Remote Work,Male,26,Nigeria,High School,Black or African American,20
+0 days 00:03:59,Other,Yes,0-40,Tech,Python,3,5,5,4,3,2,Difficult,Better Salary,Female,24,India,Bachelors,Asian or Asian American,20
+0 days 00:02:04,Other,Yes,86-105,Finance,Python,7,5,5,8,8,8,Neither easy nor difficult,Remote Work,Female,40,United States,Associates,Other,95.5
+0 days 00:01:46,Data Analyst,Yes,66-85,Other,Python,8,10,10,10,7,9,Neither easy nor difficult,Better Salary,Male,26,United States,Bachelors,Black or African American,75.5
+0 days 00:02:29,Data Scientist,Yes,41-65,Other,Python,8,8,10,10,10,10,Easy,Good Culture,Female,44,United Kingdom,Bachelors,White or Caucasian,53
+0 days 00:01:58,Other,Yes,66-85,Other,Python,7,9,8,8,6,6,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian,75.5
+0 days 00:01:37,Other,Yes,0-40,Other,Python,1,5,10,10,8,10,Neither easy nor difficult,Better Salary,Male,30,Costa Rica,Bachelors,Hispanic or Latino,20
+0 days 00:04:36,Other,Yes,0-40,Other,Python,3,3,3,2,2,2,Very Easy,Good Work/Life Balance,Male,48,Indonesia,Masters,Other,20
+0 days 00:03:16,Data Analyst,Yes,41-65,Construction,Other,1,4,1,2,2,3,Easy,Better Salary,Female,30,Canada,Masters,Asian or Asian American,53
+0 days 00:04:53,Other,No,0-40,Telecommunication,Python,3,8,8,5,3,5,Difficult,Better Salary,Male,28,India,Bachelors,Other,20
+0 days 00:01:58,Other,No,0-40,Tech,Python,5,8,7,7,3,2,Difficult,Better Salary,Male,25,India,Bachelors,Other,20
+0 days 00:01:30,Other,No,106-125,Tech,Other,6,5,4,4,3,4,Easy,Better Salary,Male,24,United States,Masters,American Indian or Alaska Native,115.5
+0 days 00:02:51,Data Analyst,Yes,41-65,Other,Python,5,10,7,7,4,8,Easy,Better Salary,Male,31,United States,Bachelors,Black or African American,53
+0 days 00:01:47,Data Engineer,No,0-40,Real Estate,Python,3,3,8,9,5,3,Easy,Better Salary,Male,23,United Kingdom,Bachelors,Other,20
+0 days 00:03:06,Data Analyst,No,41-65,Other,Other,1,4,4,1,1,4,Easy,Good Culture,Female,48,United Kingdom,Masters,White or Caucasian,53
+0 days 00:01:00,Data Analyst,Yes,66-85,Healthcare,Python,6,9,8,8,8,7,Neither easy nor difficult,Better Salary,Male,28,United States,Bachelors,Black or African American,75.5
+0 days 00:02:04,Data Analyst,Yes,41-65,Other,Python,5,7,7,7,7,7,Difficult,Better Salary,Male,32,United Kingdom,Masters,Hispanic or Latino,53
+0 days 00:04:45,Data Scientist,Yes,41-65,Finance,Python,5,7,7,4,5,7,Neither easy nor difficult,Better Salary,Male,30,Hong Kong,Bachelors,Asian or Asian American,53
+0 days 00:03:29,Data Analyst,Yes,0-40,Other,Python,5,5,7,7,7,8,Neither easy nor difficult,Good Work/Life Balance,Male,32,TUNISIA,Masters,White or Caucasian,20
+0 days 00:01:50,Data Analyst,Yes,0-40,Tech,Python,0,3,0,1,0,0,Easy,Good Culture,Female,30,Sri lanka,Masters,Other,20
+0 days 00:02:49,Data Analyst,Yes,0-40,Other,Python,4,2,5,2,4,4,Neither easy nor difficult,Good Work/Life Balance,Female,35,Spain,Masters,White or Caucasian,20
+0 days 00:03:13,Student/Looking/None,Yes,0-40,Tech,R,4,6,6,5,5,10,Easy,Remote Work,Female,38,United Kingdom,Masters,Black or African American,20
+0 days 00:01:09,Other,Yes,66-85,Other,Python,6,6,7,7,6,7,Easy,Good Culture,Female,30,United States,Masters,Asian or Asian American,75.5
+0 days 00:01:26,Data Analyst,Yes,41-65,Tech,Python,3,3,5,4,4,4,Neither easy nor difficult,Better Salary,Male,48,United States,Bachelors,White or Caucasian,53
+0 days 00:01:26,Data Analyst,Yes,66-85,Finance,Other,5,8,5,5,5,4,Easy,Remote Work,Male,32,Canada,Masters,Asian or Asian American,75.5
+0 days 00:01:12,Other,Yes,41-65,Telecommunication,Python,4,5,4,5,5,6,Difficult,Good Work/Life Balance,Male,27,India,Bachelors,American Indian or Alaska Native,53
+0 days 00:01:34,Other,No,41-65,Tech,Python,7,9,5,6,6,7,Easy,Other,Male,27,United Kingdom,Masters,White or Caucasian,53
+0 days 00:02:45,Student/Looking/None,No,0-40,Finance,Python,8,7,6,7,8,10,Neither easy nor difficult,Remote Work,Male,24,Kenua,Bachelors,Other,20
+0 days 00:00:43,Data Scientist,Yes,150-225,Finance,R,9,9,9,9,8,8,Difficult,Better Salary,Male,42,United States,PhD,Asian or Asian American,187.5
+0 days 00:02:58,Other,No,41-65,Tech,Python,8,6,6,8,7,8,Neither easy nor difficult,Better Salary,Male,24,United States,Bachelors,Hispanic or Latino,53
+0 days 00:01:08,Database Developer,Yes,0-40,Tech,Python,5,9,7,7,6,9,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American,20
+0 days 00:01:21,Data Analyst,No,0-40,Tech,Python,7,9,8,8,4,2,Neither easy nor difficult,Better Salary,Male,26,India,Bachelors,Asian or Asian American,20
+0 days 00:02:01,Data Analyst,No,41-65,Other,Other,5,6,6,2,2,3,Neither easy nor difficult,Better Salary,Male,32,Germany,Bachelors,Black or African American,53
+0 days 00:02:52,Other,No,0-40,Telecommunication,Python,4,3,2,0,0,0,Neither easy nor difficult,Good Work/Life Balance,Male,35,Argentina ,Bachelors,White or Caucasian,20
+0 days 00:01:18,Data Analyst,Yes,106-125,Healthcare,Python,4,3,4,2,2,2,Easy,Good Work/Life Balance,Male,41,United States,High School,White or Caucasian,115.5
+0 days 00:00:59,Other,No,41-65,Education,Python,4,9,8,8,6,7,Neither easy nor difficult,Better Salary,Male,25,United States,Masters,White or Caucasian,53
+0 days 00:01:04,Data Analyst,Yes,0-40,Construction,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Female,28,United States,Masters,Asian or Asian American,20
+0 days 00:00:50,Data Analyst,Yes,41-65,Agriculture,Python,3,6,5,5,5,6,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian,53
+0 days 00:01:30,Student/Looking/None,No,0-40,Telecommunication,Python,8,10,6,7,8,8,Neither easy nor difficult,Better Salary,Male,19,United States,High School,White or Caucasian,20
+0 days 00:01:25,Data Analyst,Yes,41-65,Other,Python,5,6,9,6,7,10,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American,53
+0 days 00:01:33,Student/Looking/None,Yes,0-40,Finance,Python,8,9,9,7,8,8,Neither easy nor difficult,Better Salary,Male,25,Other (Please Specify),Bachelors,White or Caucasian,20
+0 days 00:01:46,Data Analyst,Yes,41-65,Other,Python,6,10,10,10,10,8,Difficult,Better Salary,Female,26,Canada,Masters,Asian or Asian American,53
+0 days 00:02:42,Data Analyst,Yes,0-40,Healthcare,Python,3,4,5,5,4,5,Difficult,Good Work/Life Balance,Male,25,Spain,Bachelors,White or Caucasian,20
+0 days 00:00:50,Data Analyst,Yes,0-40,Other,Python,6,6,9,9,10,10,Neither easy nor difficult,Remote Work,Male,25,Portugal,Bachelors,White or Caucasian,20
+0 days 00:01:57,Data Analyst,Yes,0-40,Healthcare,R,2,3,4,3,3,5,Neither easy nor difficult,Good Work/Life Balance,Male,26,Liberia,Bachelors,Black or African American,20
+0 days 00:01:07,Data Analyst,Yes,125-150,Education,Python,8,8,7,6,7,9,Neither easy nor difficult,Good Culture,Male,35,United States,Bachelors,White or Caucasian,137.5
+0 days 00:01:23,Data Analyst,Yes,86-105,Other,Python,6,7,7,6,7,6,Difficult,Remote Work,Male,29,United States,Masters,Black or African American,95.5
+0 days 00:01:45,Data Analyst,Yes,86-105,Tech,Python,7,6,5,4,3,6,Neither easy nor difficult,Better Salary,Female,41,United States,Associates,Hispanic or Latino,95.5
+0 days 00:01:15,Student/Looking/None,No,0-40,Education,Python,0,6,4,5,2,4,Very Difficult,Remote Work,Female,22,United States,Bachelors,Hispanic or Latino,20
+0 days 00:02:30,Data Analyst,Yes,66-85,Healthcare,Other,2,6,6,4,3,3,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino,75.5
+0 days 00:02:04,Data Analyst,Yes,66-85,Finance,Python,4,3,4,4,4,6,Very Difficult,Better Salary,Male,30,SG,Bachelors,Asian or Asian American,75.5
+0 days 00:01:13,Data Engineer,No,150-225,Real Estate,Python,4,6,3,2,3,3,Neither easy nor difficult,Good Culture,Male,37,Canada,Bachelors,Asian or Asian American,187.5
+0 days 00:03:15,Data Analyst,Yes,66-85,Other,Python,6,7,7,5,5,9,Difficult,Better Salary,Female,28,United States,Masters,Black or African American,75.5
+0 days 00:00:58,Data Analyst,No,86-105,Real Estate,Python,7,5,6,6,4,6,Neither easy nor difficult,Good Culture,Male,23,United States,High School,White or Caucasian,95.5
+0 days 00:01:54,Student/Looking/None,No,0-40,Finance,Python,3,4,8,5,5,3,Neither easy nor difficult,Better Salary,Male,26,United States,High School,Asian or Asian American,20
+0 days 00:01:22,Data Analyst,No,66-85,Other,Python,2,4,4,3,4,4,Neither easy nor difficult,Good Work/Life Balance,Male,25,Australia,Bachelors,Native Hawaiian or other Pacific Islander,75.5
+0 days 00:01:27,Data Analyst,No,0-40,Tech,Python,0,1,2,1,1,1,Neither easy nor difficult,Remote Work,Male,23,India,Bachelors,Asian or Asian American,20
+0 days 00:02:53,Student/Looking/None,Yes,0-40,Other,Other,0,1,0,0,0,0,Neither easy nor difficult,Good Culture,Male,53,Nigeria,Bachelors,Black or African American,20
+0 days 00:01:37,Data Engineer,Yes,0-40,Tech,Python,4,6,6,3,7,9,Neither easy nor difficult,Better Salary,Female,33,Romania,Bachelors,White or Caucasian,20
+0 days 00:04:29,Student/Looking/None,Yes,0-40,Finance,R,3,5,5,4,5,6,Difficult,Better Salary,Male,39,Other (Please Specify),High School,Black or African American,20
+0 days 00:01:05,Data Analyst,Yes,0-40,Healthcare,Other,6,7,5,7,7,9,Difficult,Better Salary,Female,22,United Kingdom,Bachelors,White or Caucasian,20
+0 days 00:01:34,Data Analyst,No,41-65,Finance,Python,4,7,7,7,5,5,Easy,Better Salary,Male,24,Germany,Bachelors,White or Caucasian,53
+0 days 00:01:36,Data Architect,No,86-105,Other,Python,5,1,3,1,4,5,Difficult,Good Work/Life Balance,Male,31,Canada,High School,White or Caucasian,95.5
+0 days 00:00:53,Data Analyst,Yes,0-40,Other,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Male,25,Aisa,Bachelors,Asian or Asian American,20
+0 days 00:02:07,Student/Looking/None,No,0-40,Tech,R,4,7,7,6,6,6,Neither easy nor difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American,20
+0 days 00:02:07,Data Analyst,No,0-40,Tech,Python,3,4,4,4,2,0,Neither easy nor difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American,20
+0 days 00:01:56,Other,Yes,41-65,Other,Other,6,7,7,7,7,6,Neither easy nor difficult,Other,Male,23,India,Bachelors,Asian or Asian American,53
+0 days 00:01:35,Data Analyst,No,86-105,Healthcare,Python,8,9,8,8,8,9,Difficult,Better Salary,Male,40,United States,High School,White or Caucasian,95.5
+0 days 00:02:02,Data Analyst,No,41-65,Other,C/C++,5,6,6,2,0,4,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,Hispanic or Latino,53
+0 days 00:03:16,Data Analyst,Yes,0-40,Tech,Python,1,7,5,5,4,4,Difficult,Better Salary,Male,28,India,Bachelors,Other,20
+0 days 00:01:44,Data Analyst,Yes,0-40,Healthcare,R,3,6,6,4,6,3,Very Easy,Better Salary,Female,28,United Kingdom,Masters,Black or African American,20
+0 days 00:01:02,Student/Looking/None,Yes,0-40,Telecommunication,Python,0,3,3,4,5,5,Difficult,Good Work/Life Balance,Female,26,India,Masters,Asian or Asian American,20
+0 days 00:02:43,Data Engineer,No,41-65,Construction,Python,6,8,8,5,5,5,Neither easy nor difficult,Better Salary,Male,30,Netherlands,Masters,White or Caucasian,53
+0 days 00:01:26,Data Analyst,Yes,66-85,Education,Other,5,9,7,9,8,9,Neither easy nor difficult,Better Salary,Male,27,Australia,Bachelors,Asian or Asian American,75.5
+0 days 00:01:24,Data Analyst,Yes,0-40,Other,Other,2,0,5,3,0,3,Very Difficult,Remote Work,Male,28,Nigeria,Bachelors,Black or African American,20
+0 days 00:02:08,Data Analyst,No,66-85,Education,Python,3,3,5,3,3,4,Neither easy nor difficult,Good Work/Life Balance,Female,38,Nigeria,Masters,Black or African American,75.5
+0 days 00:01:56,Data Analyst,No,0-40,Finance,Python,2,6,5,5,6,6,Easy,Good Culture,Male,22,Mexico,Bachelors,White or Caucasian,20
+0 days 00:01:32,Data Analyst,Yes,86-105,Other,Python,7,8,9,9,9,9,Difficult,Better Salary,Male,34,United States,Bachelors,Hispanic or Latino,95.5
+0 days 00:02:07,Data Analyst,No,0-40,Tech,Python,3,8,8,5,7,9,Easy,Better Salary,Male,26,Indonesia,Bachelors,Asian or Asian American,20
+0 days 00:01:06,Data Analyst,Yes,66-85,Tech,Python,5,9,7,7,8,9,Neither easy nor difficult,Better Salary,Female,26,Canada,Bachelors,Asian or Asian American,75.5
+0 days 00:01:23,Data Engineer,No,66-85,Education,Python,10,10,10,9,9,10,Difficult,Remote Work,Male,25,Greece,Bachelors,Other,75.5
+0 days 00:03:23,Data Scientist,Yes,125-150,Tech,Python,5,3,7,4,5,3,Easy,Other,Male,34,United States,Bachelors,Black or African American,137.5
+0 days 00:03:51,Other,Yes,41-65,Finance,Other,7,10,10,10,4,5,Neither easy nor difficult,Good Work/Life Balance,Female,32,Poland,Bachelors,Hispanic or Latino,53
+0 days 00:01:15,Student/Looking/None,No,0-40,Construction,R,2,2,2,2,2,2,Difficult,Better Salary,Male,24,United States,Associates,Black or African American,20
+0 days 00:06:20,Data Engineer,Yes,0-40,Tech,Python,7,3,3,2,5,9,Difficult,Better Salary,Male,26,Argentine,Bachelors,Hispanic or Latino,20
+0 days 00:02:00,Data Analyst,Yes,41-65,Telecommunication,Other,4,7,5,6,4,6,Difficult,Better Salary,Female,32,Sweden,Masters,Black or African American,53
+0 days 00:02:24,Data Scientist,No,41-65,Tech,R,5,1,7,1,1,2,Neither easy nor difficult,Good Work/Life Balance,Male,40,Portugal,Masters,White or Caucasian,53
+0 days 00:01:49,Data Analyst,No,0-40,Other,Python,0,7,1,6,0,0,Easy,Better Salary,Male,27,United States,Bachelors,Black or African American,20
+0 days 00:01:03,Data Analyst,Yes,66-85,Tech,R,4,3,6,7,4,7,Easy,Better Salary,Male,28,United States,Masters,Black or African American,75.5
+0 days 00:02:13,Data Analyst,Yes,0-40,Other,Python,1,9,5,5,1,1,Difficult,Better Salary,Male,30,Nigeria,Bachelors,Other,20
+0 days 00:01:10,Data Analyst,Yes,0-40,Other,Python,0,6,5,5,5,6,Difficult,Remote Work,Male,37,United States,Bachelors,White or Caucasian,20
+0 days 00:02:35,Other,No,41-65,Tech,JavaScript,7,7,5,5,0,0,Difficult,Good Culture,Male,32,Australia,Bachelors,Asian or Asian American,53
+0 days 00:02:20,Data Analyst,Yes,41-65,Tech,Python,9,7,10,10,5,8,Neither easy nor difficult,Better Salary,Male,24,Saudi Arabia ,Bachelors,Other,53
+0 days 00:02:50,Data Analyst,Yes,0-40,Tech,Python,6,7,7,7,5,6,Neither easy nor difficult,Better Salary,Male,39,Argentina,Associates,White or Caucasian,20
+0 days 00:06:15,Data Analyst,Yes,125-150,Finance,Python,6,8,7,4,4,2,Easy,Other,Male,34,Australia,Bachelors,Asian or Asian American,137.5
+0 days 00:01:38,Data Analyst,No,41-65,Other,Python,5,6,10,7,3,3,Neither easy nor difficult,Remote Work,Male,27,United States,Bachelors,Black or African American,53
+0 days 00:01:17,Data Analyst,Yes,66-85,Healthcare,Other,7,7,4,7,7,7,Difficult,Better Salary,Male,54,United States,High School,White or Caucasian,75.5
+0 days 00:01:50,Student/Looking/None,No,0-40,Tech,Python,0,6,6,5,5,6,Difficult,Remote Work,Female,20,India,Bachelors,Asian or Asian American,20
+0 days 00:01:22,Student/Looking/None,Yes,0-40,Finance,Other,3,3,3,3,3,3,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American,20
+0 days 00:01:42,Student/Looking/None,No,0-40,Tech,Python,7,7,2,2,7,9,Easy,Good Work/Life Balance,Male,33,India,Bachelors,Asian or Asian American,20
+0 days 00:01:17,Data Analyst,Yes,41-65,Tech,Python,4,8,8,8,10,10,Very Easy,Remote Work,Male,30,United Kingdom,Masters,White or Caucasian,53
+0 days 00:12:16,Student/Looking/None,Yes,0-40,Tech,Python,0,4,2,0,1,3,Neither easy nor difficult,Better Salary,Male,31,Niger,High School,Black or African American,20
+0 days 00:02:11,Student/Looking/None,Yes,0-40,Other,Python,5,6,5,6,2,1,Difficult,Remote Work,Male,22,France,Masters,Other,20
+0 days 00:01:29,Data Analyst,Yes,66-85,Tech,R,8,10,10,10,8,9,Neither easy nor difficult,Remote Work,Female,38,United States,Bachelors,Black or African American,75.5
+0 days 00:02:41,Data Analyst,No,0-40,Other,Python,6,9,7,7,5,8,Neither easy nor difficult,Good Work/Life Balance,Male,22,Malaysia,Bachelors,Other,20
+0 days 00:01:20,Data Scientist,Yes,0-40,Real Estate,Python,2,3,4,5,3,6,Very Easy,Better Salary,Male,33,India,Bachelors,Asian or Asian American,20
+0 days 00:01:11,Data Analyst,Yes,41-65,Tech,Python,3,6,6,6,5,5,Neither easy nor difficult,Better Salary,Male,27,Canada,Bachelors,White or Caucasian,53
+0 days 00:02:14,Data Analyst,No,0-40,Tech,R,0,6,3,0,0,10,Neither easy nor difficult,Remote Work,Male,19,Algeria,Bachelors,White or Caucasian,20
+0 days 00:01:24,Other,No,0-40,Other,Python,1,6,2,5,1,0,Neither easy nor difficult,Better Salary,Male,24,India,Bachelors,Other,20
+0 days 00:03:50,Other,No,150-225,Finance,Other,8,10,9,10,8,10,Very Easy,Good Culture,Female,58,United States,Masters,White or Caucasian,187.5
+0 days 00:01:38,Data Analyst,No,0-40,Tech,Python,2,2,5,6,6,3,Neither easy nor difficult,Good Work/Life Balance,Male,22,Nigeria ,Bachelors,Black or African American,20
+0 days 00:01:26,Data Analyst,No,86-105,Tech,Python,4,4,4,4,3,4,Neither easy nor difficult,Better Salary,Male,26,Ireland,Masters,Asian or Asian American,95.5
+0 days 00:02:06,Other,No,41-65,Tech,Other,4,5,4,5,5,3,Easy,Good Culture,Female,31,United Kingdom,Bachelors,White or Caucasian,53
+0 days 00:01:32,Data Analyst,No,41-65,Agriculture,Python,2,2,4,5,1,1,Neither easy nor difficult,Better Salary,Male,23,United States,High School,Hispanic or Latino,53
+0 days 00:01:20,Data Analyst,No,86-105,Healthcare,Python,7,10,10,10,7,8,Neither easy nor difficult,Remote Work,Female,31,United States,Masters,Asian or Asian American,95.5
+0 days 00:01:47,Student/Looking/None,No,66-85,Construction,Other,5,5,7,7,9,10,Difficult,Better Salary,Female,24,United States,Bachelors,Asian or Asian American,75.5
+0 days 00:02:05,Other,Yes,41-65,Finance,Python,8,10,10,10,10,10,Neither easy nor difficult,Better Salary,Male,29,Mexico,Bachelors,Hispanic or Latino,53
+0 days 00:01:20,Student/Looking/None,Yes,0-40,Education,Python,7,8,9,8,9,10,Difficult,Good Work/Life Balance,Male,26,Indonesia,Bachelors,Asian or Asian American,20
+0 days 00:01:52,Student/Looking/None,Yes,0-40,Other,Python,3,9,9,9,9,9,Neither easy nor difficult,Better Salary,Male,20,India,High School,Asian or Asian American,20
+0 days 00:01:24,Data Analyst,Yes,0-40,Education,Python,0,2,3,2,4,2,Neither easy nor difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American,20
+0 days 00:01:47,Data Analyst,No,106-125,Tech,Python,8,8,9,8,7,7,Neither easy nor difficult,Good Work/Life Balance,Male,33,United States,Masters,White or Caucasian,115.5
+0 days 00:01:40,Student/Looking/None,Yes,0-40,Tech,Python,2,3,3,5,5,9,Easy,Remote Work,Male,26,Nigeria,Bachelors,Black or African American,20
+0 days 00:03:57,Data Analyst,Yes,0-40,Other,R,3,9,8,8,6,6,Difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American,20
+0 days 00:02:21,Student/Looking/None,No,0-40,Agriculture,Other,0,8,8,8,8,8,Neither easy nor difficult,Better Salary,Male,22,uzb,Bachelors,Asian or Asian American,20
+0 days 00:02:06,Data Analyst,Yes,0-40,Tech,Python,3,9,9,6,9,4,Easy,Better Salary,Male,23,Spain,Masters,White or Caucasian,20
+0 days 00:01:54,Other,Yes,0-40,Other,Python,3,6,7,5,4,4,Neither easy nor difficult,Better Salary,Male,28,Mexico,Bachelors,Hispanic or Latino,20
+0 days 00:02:28,Data Analyst,No,41-65,Finance,Other,7,5,4,6,4,5,Easy,Good Work/Life Balance,Female,39,Portugal,Masters,White or Caucasian,53
+0 days 00:03:25,Other,No,106-125,Other,Python,3,2,5,3,3,4,Neither easy nor difficult,Better Salary,Male,37,United States,Masters,White or Caucasian,115.5
+0 days 00:01:33,Database Developer,Yes,41-65,Education,Other,4,7,7,7,7,7,Difficult,Better Salary,Female,29,United States,Masters,White or Caucasian,53
+0 days 00:01:24,Data Analyst,Yes,106-125,Finance,Python,5,6,6,5,4,3,Easy,Good Work/Life Balance,Male,42,United States,Masters,White or Caucasian,115.5
+0 days 00:01:11,Student/Looking/None,No,0-40,Tech,R,0,0,0,0,0,0,Neither easy nor difficult,Good Culture,Female,25,Canada,Bachelors,Asian or Asian American,20
+0 days 00:01:20,Database Developer,Yes,0-40,Telecommunication,Python,5,5,5,5,4,5,Easy,Better Salary,Male,66,Morocco ,High School,Black or African American,20
+0 days 00:00:50,Data Analyst,Yes,125-150,Other,R,8,5,6,6,5,7,Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian,137.5
+0 days 00:03:12,Other,No,0-40,Other,R,4,6,7,7,4,6,Difficult,Better Salary,Male,21,United States,Bachelors,White or Caucasian,20
+0 days 00:04:43,Student/Looking/None,Yes,0-40,Tech,Python,1,2,1,2,1,2,Difficult,Better Salary,Male,26,Oman,Bachelors,Asian or Asian American,20
+0 days 00:02:17,Data Engineer,No,0-40,Tech,Python,6,6,6,6,4,3,Easy,Other,Male,24,Costa Rica,Bachelors,Hispanic or Latino,20
+0 days 00:01:19,Data Analyst,No,41-65,Other,Python,8,7,6,7,6,8,Easy,Remote Work,Male,22,United States,Bachelors,Asian or Asian American,53

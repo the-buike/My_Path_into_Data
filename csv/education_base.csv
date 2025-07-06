@@ -1,0 +1,30 @@
+JobTitle,Education,count
+"Data Analyst",Bachelors,235
+"Data Analyst",Masters,116
+"Data Analyst","High School",21
+"Data Analyst",Associates,7
+"Data Analyst",PhD,2
+"Data Architect","High School",2
+"Data Architect",Masters,1
+"Data Engineer",Bachelors,25
+"Data Engineer",Masters,11
+"Data Engineer","High School",1
+"Data Engineer",Associates,1
+"Data Scientist",Bachelors,14
+"Data Scientist",Masters,8
+"Data Scientist",PhD,2
+"Data Scientist",Associates,1
+"Database Developer",Bachelors,3
+"Database Developer",Masters,1
+"Database Developer","High School",1
+Other,Bachelors,49
+Other,Masters,33
+Other,Associates,2
+Other,PhD,1
+Other,"High School",1
+"Other (Please Specify)",Masters,1
+"Other (Please Specify)","High School",1
+Student/Looking/None,Bachelors,55
+Student/Looking/None,Masters,21
+Student/Looking/None,"High School",9
+Student/Looking/None,Associates,5
